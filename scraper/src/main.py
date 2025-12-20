@@ -160,6 +160,11 @@ def main():
         action="store_true",
         help="Only generate exports from existing data"
     )
+    parser.add_argument(
+        "--no-llm",
+        action="store_true",
+        help="Disable LLM parsing (uses regex only)"
+    )
 
     args = parser.parse_args()
 
@@ -224,8 +229,10 @@ def main():
 
     all_hotels = []
 
+    use_llm = not args.no_llm
+
     with HotelFinder(rate_limiter) as finder, \
-         PolicyScraper(rate_limiter) as policy_scraper, \
+         PolicyScraper(rate_limiter, use_llm=use_llm) as policy_scraper, \
          BookingFallbackScraper(rate_limiter) as booking_scraper:
 
         for location in locations:

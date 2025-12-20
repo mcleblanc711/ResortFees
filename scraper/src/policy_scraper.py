@@ -68,19 +68,53 @@ class ScrapedPolicy:
 class PolicyScraper:
     """Scrapes policy information from hotel websites."""
 
-    # URL patterns that typically contain policy information
+    # URL patterns that typically contain fee/policy information (ordered by likelihood of containing fees)
     POLICY_PATTERNS = [
-        "/policies", "/policy", "/terms", "/conditions",
-        "/terms-and-conditions", "/hotel-policies", "/guest-information",
-        "/guest-info", "/faq", "/info", "/about-the-hotel", "/hotel-info"
+        # Fee-specific pages (highest priority)
+        "/fees", "/rates", "/pricing", "/charges",
+        "/resort-fee", "/parking", "/amenities",
+        # Guest services pages (often have fees)
+        "/guest-services", "/services", "/guest-information", "/guest-info",
+        # FAQ pages (often list fees and policies)
+        "/faq", "/faqs", "/frequently-asked-questions",
+        # General info pages
+        "/hotel-info", "/about-the-hotel", "/about", "/info",
+        # Policy pages (often just legal text, lower priority)
+        "/policies", "/policy", "/hotel-policies",
+        "/terms", "/conditions", "/terms-and-conditions",
     ]
 
-    def __init__(self, rate_limiter: RateLimiter):
+    # Link text patterns to search for on pages
+    LINK_KEYWORDS = [
+        "fee", "fees", "rate", "rates", "pricing", "charges",
+        "parking", "resort fee", "amenity",
+        "guest service", "services", "faq",
+        "policy", "policies", "terms", "conditions",
+        "guest info", "hotel info", "about"
+    ]
+
+    def __init__(self, rate_limiter: RateLimiter, use_llm: bool = True):
         self.rate_limiter = rate_limiter
+        self.use_llm = use_llm
+        self.llm_parser = None
         self.client = httpx.Client(
             timeout=30.0,
             follow_redirects=True
         )
+
+        # Initialize LLM parser if enabled
+        if use_llm:
+            try:
+                from .llm_parser import LLMParser
+                self.llm_parser = LLMParser()
+                if self.llm_parser.is_available():
+                    logger.info("LLM parsing enabled")
+                else:
+                    logger.info("LLM parsing disabled (no API key)")
+                    self.llm_parser = None
+            except ImportError:
+                logger.warning("LLM parsing unavailable (anthropic not installed)")
+                self.llm_parser = None
 
     def __enter__(self):
         return self
@@ -139,7 +173,12 @@ class PolicyScraper:
         policy.extra_person_policy = self._extract_extra_person_policy(raw_text)
         policy.damage_deposit = self._extract_damage_deposit(raw_text)
 
-        # Add notes if data is incomplete
+        # If regex didn't find data, try LLM parsing
+        if self.llm_parser and not policy.taxes and not policy.fees:
+            logger.info(f"Regex found no data for {hotel_name}, trying LLM parsing")
+            policy = self.llm_parser.enhance_policy(policy, hotel_name)
+
+        # Add notes if data is still incomplete
         if not policy.taxes and not policy.fees:
             policy.scraping_notes = "No taxes or fees found on policy page"
 
@@ -170,7 +209,7 @@ class PolicyScraper:
         return self._find_policy_link_on_page(base_url)
 
     def _find_policy_link_on_page(self, page_url: str) -> Optional[str]:
-        """Search for policy links on a given page."""
+        """Search for policy/fee links on a given page."""
         self.rate_limiter.wait(page_url)
         try:
             response = self.client.get(page_url, headers=get_headers())
@@ -180,20 +219,32 @@ class PolicyScraper:
 
         soup = BeautifulSoup(response.text, "lxml")
 
-        # Look for links containing policy-related keywords
-        policy_keywords = [
-            "policy", "policies", "terms", "conditions", "faq",
-            "guest info", "hotel info"
-        ]
+        # Score links by keyword relevance (fee-related > policy-related)
+        scored_links = []
 
         for link in soup.find_all("a", href=True):
-            link_text = link.get_text().lower()
+            link_text = link.get_text().lower().strip()
             href = link["href"].lower()
 
-            for keyword in policy_keywords:
+            # Skip empty links, anchors, javascript, external links
+            if not link_text or href.startswith("#") or href.startswith("javascript"):
+                continue
+
+            score = 0
+            for i, keyword in enumerate(self.LINK_KEYWORDS):
+                # Earlier keywords (fee-related) get higher scores
                 if keyword in link_text or keyword in href:
-                    full_url = urljoin(page_url, link["href"])
-                    return full_url
+                    score = max(score, len(self.LINK_KEYWORDS) - i)
+
+            if score > 0:
+                full_url = urljoin(page_url, link["href"])
+                scored_links.append((score, full_url, link_text))
+
+        # Sort by score (highest first) and return best match
+        if scored_links:
+            scored_links.sort(key=lambda x: x[0], reverse=True)
+            logger.debug(f"Found {len(scored_links)} potential links, best: {scored_links[0][2]}")
+            return scored_links[0][1]
 
         return None
 
