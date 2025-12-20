@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-the-hostel",
+  "name": "The Hostel",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 43.5834,
+    "lng": -110.8234
+  },
+  "sources": {
+    "officialWebsite": "https://www.thehostel.us/",
+    "policyPage": "https://thehostel.us/hotel-policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:28:54Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

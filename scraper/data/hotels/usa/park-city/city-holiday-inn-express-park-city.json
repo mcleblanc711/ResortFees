@@ -1,0 +1,26 @@
+{
+  "id": "usa-park-city-holiday-inn-express-park-city",
+  "name": "Holiday Inn Express Park City",
+  "town": "Park City",
+  "region": "Utah",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 40.6623,
+    "lng": -111.4923
+  },
+  "sources": {
+    "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/park-city/slcpc/hoteldetail",
+    "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:15:57Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

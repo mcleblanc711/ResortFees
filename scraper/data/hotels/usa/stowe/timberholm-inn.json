@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-timberholm-inn",
+  "name": "Timberholm Inn",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 44.4756,
+    "lng": -72.6978
+  },
+  "sources": {
+    "officialWebsite": "https://www.timberholm.com/",
+    "policyPage": "https://timberholm.com/inn-policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:31:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

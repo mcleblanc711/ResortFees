@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-evergreen-lodge-at-vail",
+  "name": "Evergreen Lodge at Vail",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 39.6378,
+    "lng": -106.3689
+  },
+  "sources": {
+    "officialWebsite": "https://www.evergreenvail.com/",
+    "policyPage": "https://evergreenvail.com/hotel-policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:57:35Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

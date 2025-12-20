@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-vail-cascade-resort",
+  "name": "Vail Cascade Resort",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 39.6423,
+    "lng": -106.3545
+  },
+  "sources": {
+    "officialWebsite": "https://www.vail.com/plan-your-trip/stay/vail-cascade",
+    "policyPage": "https://www.vail.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:58:18Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

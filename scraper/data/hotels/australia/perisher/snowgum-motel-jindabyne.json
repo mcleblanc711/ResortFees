@@ -1,0 +1,26 @@
+{
+  "id": "australia-perisher-snowgum-motel-jindabyne",
+  "name": "Snowgum Motel Jindabyne",
+  "town": "Perisher",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 23,
+  "coordinates": {
+    "lat": -36.3823,
+    "lng": 148.4267
+  },
+  "sources": {
+    "officialWebsite": "https://www.snowgummotel.com.au/",
+    "policyPage": "https://snowgummotel.com.au/conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:22:33Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

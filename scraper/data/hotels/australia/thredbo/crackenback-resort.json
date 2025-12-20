@@ -1,0 +1,26 @@
+{
+  "id": "australia-thredbo-crackenback-resort",
+  "name": "Crackenback Resort",
+  "town": "Thredbo",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 16,
+  "coordinates": {
+    "lat": -36.4623,
+    "lng": 148.2789
+  },
+  "sources": {
+    "officialWebsite": "https://www.crackenback.com.au/",
+    "policyPage": "https://www.crackenback.com.au/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:39:02Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

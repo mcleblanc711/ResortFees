@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-canalta-lodge",
+  "name": "Canalta Lodge",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 51.0856,
+    "lng": -115.3423
+  },
+  "sources": {
+    "officialWebsite": "https://www.canaltalodge.com/",
+    "policyPage": "https://canaltalodge.com/privacy-policy/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:51:42Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

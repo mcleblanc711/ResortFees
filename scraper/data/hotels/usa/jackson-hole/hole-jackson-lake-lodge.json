@@ -1,0 +1,32 @@
+{
+  "id": "usa-jackson-hole-jackson-lake-lodge",
+  "name": "Jackson Lake Lodge",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 43.8556,
+    "lng": -110.6489
+  },
+  "sources": {
+    "officialWebsite": "https://www.gtlc.com/lodges/jackson-lake-lodge",
+    "policyPage": "https://www.gtlc.com/contact-us/policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": 11,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": null
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:27:10Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

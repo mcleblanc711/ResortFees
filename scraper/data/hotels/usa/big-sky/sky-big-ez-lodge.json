@@ -1,0 +1,26 @@
+{
+  "id": "usa-big-sky-big-ez-lodge",
+  "name": "Big EZ Lodge",
+  "town": "Big Sky",
+  "region": "Montana",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 45.2856,
+    "lng": -111.3523
+  },
+  "sources": {
+    "officialWebsite": "https://www.bigezlodge.com/",
+    "policyPage": "https://www.bigezlodge.com/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:08:39Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

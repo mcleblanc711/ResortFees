@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-banff-park-lodge",
+  "name": "Banff Park Lodge",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 51.1768,
+    "lng": -115.5698
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffparklodge.com/",
+    "policyPage": "https://www.banffparklodge.com/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:33:21Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-crystal-lodge-suites",
+  "name": "Crystal Lodge & Suites",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 50.1156,
+    "lng": -122.9501
+  },
+  "sources": {
+    "officialWebsite": "https://www.crystal-lodge.com/",
+    "policyPage": "https://www.crystal-lodge.com/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:25:55Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

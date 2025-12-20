@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-tivoli-lodge",
+  "name": "Tivoli Lodge",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 39.6387,
+    "lng": -106.3723
+  },
+  "sources": {
+    "officialWebsite": "https://www.tivolilodge.com/",
+    "policyPage": "https://tivolilodge.com/frequently-asked-questions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:56:34Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

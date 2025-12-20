@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-green-mountain-inn",
+  "name": "Green Mountain Inn",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 44.4634,
+    "lng": -72.6856
+  },
+  "sources": {
+    "officialWebsite": "https://www.greenmountaininn.com/",
+    "policyPage": "https://www.greenmountaininn.com/discover-the-inn/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:22:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

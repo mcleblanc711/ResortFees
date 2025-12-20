@@ -1,0 +1,26 @@
+{
+  "id": "usa-big-sky-big-sky-resort-village-center",
+  "name": "Big Sky Resort Village Center",
+  "town": "Big Sky",
+  "region": "Montana",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 45.2856,
+    "lng": -111.4056
+  },
+  "sources": {
+    "officialWebsite": "https://www.bigskyresort.com/stay/village-center",
+    "policyPage": "https://www.bigskyresort.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:06:29Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

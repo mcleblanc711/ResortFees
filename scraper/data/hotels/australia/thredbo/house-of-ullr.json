@@ -1,0 +1,26 @@
+{
+  "id": "australia-thredbo-house-of-ullr",
+  "name": "House of Ullr",
+  "town": "Thredbo",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": -36.5023,
+    "lng": 148.3056
+  },
+  "sources": {
+    "officialWebsite": "https://www.houseofullr.com.au/",
+    "policyPage": "https://www.houseofullr.com.au/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:32:04Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-hi-revelstoke",
+  "name": "HI Revelstoke",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 50.9989,
+    "lng": -118.1989
+  },
+  "sources": {
+    "officialWebsite": "https://hihostels.ca/en/destinations/british-columbia/hi-revelstoke",
+    "policyPage": "https://hihostels.ca/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:49:19Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-hi-mont-tremblant",
+  "name": "HI Mont-Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 46.2167,
+    "lng": -74.5823
+  },
+  "sources": {
+    "officialWebsite": "https://hihostels.ca/en/destinations/quebec/hi-mont-tremblant",
+    "policyPage": "https://hihostels.ca/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:06:55Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa-telluride-etta-place",
+  "name": "Etta Place",
+  "town": "Telluride",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 37.9378,
+    "lng": -107.8134
+  },
+  "sources": {
+    "officialWebsite": "https://www.ettaplace.com/",
+    "policyPage": "https://www.ettaplace.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:03:40Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

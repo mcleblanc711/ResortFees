@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-banff-international-hotel",
+  "name": "Banff International Hotel",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 51.1774,
+    "lng": -115.5699
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffinternationalhotel.com/",
+    "policyPage": "https://www.banffjaspercollection.com/hotels/elk-avenue-hotel/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:44:25Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

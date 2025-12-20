@@ -1,0 +1,26 @@
+{
+  "id": "usa-telluride-inn-at-lost-creek",
+  "name": "Inn at Lost Creek",
+  "town": "Telluride",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 37.9367,
+    "lng": -107.8123
+  },
+  "sources": {
+    "officialWebsite": "https://www.innatlostcreek.com/",
+    "policyPage": "https://www.innatlostcreek.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:36:25Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

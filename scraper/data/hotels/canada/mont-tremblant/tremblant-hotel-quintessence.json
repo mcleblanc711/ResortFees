@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-hotel-quintessence",
+  "name": "Hotel Quintessence",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 46.2089,
+    "lng": -74.5923
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelquintessence.com/",
+    "policyPage": "https://www.hotelquintessence.com/en/cancellation-policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:53:07Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

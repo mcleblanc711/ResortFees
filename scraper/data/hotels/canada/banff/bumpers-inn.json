@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-bumpers-inn",
+  "name": "Bumpers Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 51.1792,
+    "lng": -115.5728
+  },
+  "sources": {
+    "officialWebsite": "https://www.bumpersinn.com/",
+    "policyPage": "https://www.bumpersinn.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:43:46Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

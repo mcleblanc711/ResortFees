@@ -1,0 +1,26 @@
+{
+  "id": "usa-sun-valley-river-street-inn",
+  "name": "River Street Inn",
+  "town": "Sun Valley",
+  "region": "Idaho",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 16,
+  "coordinates": {
+    "lat": 43.6712,
+    "lng": -114.3712
+  },
+  "sources": {
+    "officialWebsite": "https://www.riverstreetinn.com/",
+    "policyPage": "https://www.riverstreetinn.com/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:23:18Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

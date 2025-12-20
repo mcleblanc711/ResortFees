@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-stoweflake-mountain-resort-spa",
+  "name": "Stoweflake Mountain Resort & Spa",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 44.4712,
+    "lng": -72.6934
+  },
+  "sources": {
+    "officialWebsite": "https://www.stoweflake.com/",
+    "policyPage": "https://stoweflake.com/hotel-policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:21:28Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

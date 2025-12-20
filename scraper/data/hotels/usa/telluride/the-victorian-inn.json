@@ -1,0 +1,26 @@
+{
+  "id": "usa-telluride-the-victorian-inn",
+  "name": "The Victorian Inn",
+  "town": "Telluride",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 37.9378,
+    "lng": -107.8112
+  },
+  "sources": {
+    "officialWebsite": "https://www.victorianinntelluride.com/",
+    "policyPage": "https://www.victorianinntelluride.com/faqs",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:37:07Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

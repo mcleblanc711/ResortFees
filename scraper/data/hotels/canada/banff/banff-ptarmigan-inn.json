@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-banff-ptarmigan-inn",
+  "name": "Banff Ptarmigan Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": 51.1773,
+    "lng": -115.5701
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffptarmiganinn.com/",
+    "policyPage": "https://banffptarmiganinn.com/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:36:59Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

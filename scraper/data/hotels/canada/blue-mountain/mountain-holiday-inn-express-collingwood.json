@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-holiday-inn-express-collingwood",
+  "name": "Holiday Inn Express Collingwood",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 44.5012,
+    "lng": -80.2245
+  },
+  "sources": {
+    "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/collingwood/yyzco/hoteldetail",
+    "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:17:38Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

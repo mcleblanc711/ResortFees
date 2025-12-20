@@ -1,0 +1,26 @@
+{
+  "id": "usa-lake-tahoe-harveys-lake-tahoe",
+  "name": "Harveys Lake Tahoe",
+  "town": "Lake Tahoe",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": 38.9578,
+    "lng": -119.9423
+  },
+  "sources": {
+    "officialWebsite": "https://www.caesars.com/harveys-tahoe",
+    "policyPage": "https://www.caesars.com/?originalrequest=%2Fpolicies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:51:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

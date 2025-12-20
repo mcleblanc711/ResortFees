@@ -1,0 +1,26 @@
+{
+  "id": "australia-perisher-banjo-paterson-inn",
+  "name": "Banjo Paterson Inn",
+  "town": "Perisher",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": -36.4189,
+    "lng": 148.6245
+  },
+  "sources": {
+    "officialWebsite": "https://www.banjopatersoninn.com.au/",
+    "policyPage": "https://www.banjopatersoninn.com.au/terms-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:19:56Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

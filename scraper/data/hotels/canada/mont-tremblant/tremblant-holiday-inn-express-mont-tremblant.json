@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-holiday-inn-express-mont-tremblant",
+  "name": "Holiday Inn Express Mont Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": 46.2201,
+    "lng": -74.5778
+  },
+  "sources": {
+    "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/mont-tremblant/yultr/hoteldetail",
+    "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:59:29Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-sonnenalp-vail",
+  "name": "Sonnenalp Vail",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 4,
+  "coordinates": {
+    "lat": 39.6389,
+    "lng": -106.3734
+  },
+  "sources": {
+    "officialWebsite": "https://www.sonnenalp.com/",
+    "policyPage": "https://sonnenalp.com/policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:52:51Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

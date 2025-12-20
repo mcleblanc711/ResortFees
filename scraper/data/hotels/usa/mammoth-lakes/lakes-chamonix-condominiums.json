@@ -1,0 +1,26 @@
+{
+  "id": "usa-mammoth-lakes-chamonix-condominiums",
+  "name": "Chamonix Condominiums",
+  "town": "Mammoth Lakes",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 25,
+  "coordinates": {
+    "lat": 37.6434,
+    "lng": -118.9778
+  },
+  "sources": {
+    "officialWebsite": "https://www.chamonixmammoth.com/",
+    "policyPage": "https://chamonixmammoth.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:15:22Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

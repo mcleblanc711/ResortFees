@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-sundial-boutique-hotel",
+  "name": "Sundial Boutique Hotel",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 50.1123,
+    "lng": -122.9501
+  },
+  "sources": {
+    "officialWebsite": "https://www.sundialhotel.com/",
+    "policyPage": "https://www.sundialhotel.com/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:29:25Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

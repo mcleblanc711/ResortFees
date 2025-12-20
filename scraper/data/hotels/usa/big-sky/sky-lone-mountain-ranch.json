@@ -1,0 +1,26 @@
+{
+  "id": "usa-big-sky-lone-mountain-ranch",
+  "name": "Lone Mountain Ranch",
+  "town": "Big Sky",
+  "region": "Montana",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 45.2689,
+    "lng": -111.4234
+  },
+  "sources": {
+    "officialWebsite": "https://www.lonemountainranch.com/",
+    "policyPage": "https://lonemountainranch.com/terms-of-service/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:06:25Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa-telluride-mountain-lodge-at-telluride",
+  "name": "Mountain Lodge at Telluride",
+  "town": "Telluride",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 37.9412,
+    "lng": -107.8067
+  },
+  "sources": {
+    "officialWebsite": "https://www.mountainlodgetelluride.com/",
+    "policyPage": "https://www.mountainlodgetelluride.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:36:22Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

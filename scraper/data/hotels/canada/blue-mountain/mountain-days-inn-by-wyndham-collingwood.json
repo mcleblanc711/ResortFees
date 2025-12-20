@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-days-inn-by-wyndham-collingwood",
+  "name": "Days Inn by Wyndham Collingwood",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 23,
+  "coordinates": {
+    "lat": 44.5034,
+    "lng": -80.2267
+  },
+  "sources": {
+    "officialWebsite": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview",
+    "policyPage": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:19:35Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

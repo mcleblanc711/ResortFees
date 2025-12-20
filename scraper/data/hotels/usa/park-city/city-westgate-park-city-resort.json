@@ -1,0 +1,26 @@
+{
+  "id": "usa-park-city-westgate-park-city-resort",
+  "name": "Westgate Park City Resort",
+  "town": "Park City",
+  "region": "Utah",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 40.6789,
+    "lng": -111.4512
+  },
+  "sources": {
+    "officialWebsite": "https://www.westgateresorts.com/hotels/utah/park-city/westgate-park-city-resort-spa/",
+    "policyPage": "https://www.westgateresorts.com/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:09:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

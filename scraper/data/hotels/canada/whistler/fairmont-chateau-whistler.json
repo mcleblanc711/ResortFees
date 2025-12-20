@@ -1,0 +1,34 @@
+{
+  "id": "canada-whistler-fairmont-chateau-whistler",
+  "name": "Fairmont Chateau Whistler",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 50.0833,
+    "lng": -122.9574
+  },
+  "sources": {
+    "officialWebsite": "https://www.fairmont.com/whistler/",
+    "policyPage": "https://www.fairmont.com/en/hotels/whistler/fairmont-chateau-whistler/guest-services.html#faq-accessibility",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [
+    {
+      "name": "Self-Parking",
+      "amount": "$45",
+      "basis": "per night",
+      "includes": null,
+      "notes": null
+    }
+  ],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:20:57Z",
+  "scrapingNotes": null
+}

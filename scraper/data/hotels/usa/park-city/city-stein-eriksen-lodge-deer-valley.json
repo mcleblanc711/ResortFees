@@ -1,0 +1,26 @@
+{
+  "id": "usa-park-city-stein-eriksen-lodge-deer-valley",
+  "name": "Stein Eriksen Lodge Deer Valley",
+  "town": "Park City",
+  "region": "Utah",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 40.6234,
+    "lng": -111.4878
+  },
+  "sources": {
+    "officialWebsite": "https://www.steinlodge.com/",
+    "policyPage": "https://www.steinlodge.com/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:06:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

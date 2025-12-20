@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-stowe-cabins-in-the-woods",
+  "name": "Stowe Cabins in the Woods",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 27,
+  "coordinates": {
+    "lat": 44.4612,
+    "lng": -72.6834
+  },
+  "sources": {
+    "officialWebsite": "https://www.stowecabins.com/",
+    "policyPage": "https://stowecabins.com/policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:31:34Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

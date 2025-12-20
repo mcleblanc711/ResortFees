@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-hotel-terra-jackson-hole",
+  "name": "Hotel Terra Jackson Hole",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 43.5867,
+    "lng": -110.8267
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelterrajacksonhole.com/",
+    "policyPage": "https://www.hotelterrajacksonhole.com/faqs/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:22:14Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

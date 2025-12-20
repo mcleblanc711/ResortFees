@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-spring-creek-vacations",
+  "name": "Spring Creek Vacations",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 51.0723,
+    "lng": -115.3178
+  },
+  "sources": {
+    "officialWebsite": "https://www.springcreekvacations.com/",
+    "policyPage": "https://www.springcreekvacations.com/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:59:16Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

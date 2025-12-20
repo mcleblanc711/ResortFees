@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-the-listel-hotel-whistler",
+  "name": "The Listel Hotel Whistler",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 50.1156,
+    "lng": -122.9467
+  },
+  "sources": {
+    "officialWebsite": "https://www.listelhotel.com/whistler/",
+    "policyPage": "https://www.coasthotels.com/listel-whistler-a-coast-hotel",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:26:46Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

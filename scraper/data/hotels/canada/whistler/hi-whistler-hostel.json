@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-hi-whistler-hostel",
+  "name": "HI Whistler Hostel",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 50.1178,
+    "lng": -122.9534
+  },
+  "sources": {
+    "officialWebsite": "https://hihostels.ca/en/destinations/british-columbia/hi-whistler",
+    "policyPage": "https://hihostels.ca/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:32:41Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

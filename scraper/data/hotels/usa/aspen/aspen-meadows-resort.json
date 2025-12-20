@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-aspen-meadows-resort",
+  "name": "Aspen Meadows Resort",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 39.1823,
+    "lng": -106.8312
+  },
+  "sources": {
+    "officialWebsite": "https://www.aspenmeadows.com/",
+    "policyPage": "https://www.aspenmeadows.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:26:15Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-marmot-lodge",
+  "name": "Marmot Lodge",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 52.8789,
+    "lng": -118.0845
+  },
+  "sources": {
+    "officialWebsite": "https://www.marmotlodge.com/",
+    "policyPage": "https://www.banffjaspercollection.com/hotels/marmot-lodge/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:04:26Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

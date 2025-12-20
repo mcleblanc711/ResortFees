@@ -1,0 +1,26 @@
+{
+  "id": "usa-sun-valley-americinn-by-wyndham-hailey",
+  "name": "AmericInn by Wyndham Hailey",
+  "town": "Sun Valley",
+  "region": "Idaho",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 23,
+  "coordinates": {
+    "lat": 43.5178,
+    "lng": -114.3156
+  },
+  "sources": {
+    "officialWebsite": "https://www.wyndhamhotels.com/americinn/hailey-idaho/americinn-lodge-suites-hailey-sun-valley/overview",
+    "policyPage": "https://www.wyndhamhotels.com/americinn/hailey-idaho/americinn-lodge-suites-hailey-sun-valley/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:27:45Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

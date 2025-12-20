@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-the-wort-hotel",
+  "name": "The Wort Hotel",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 43.4801,
+    "lng": -110.7612
+  },
+  "sources": {
+    "officialWebsite": "https://www.worthotel.com/",
+    "policyPage": "https://www.worthotel.com/privacy-policy/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:23:24Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

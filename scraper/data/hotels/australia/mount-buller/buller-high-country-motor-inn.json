@@ -1,0 +1,26 @@
+{
+  "id": "australia-mount-buller-high-country-motor-inn",
+  "name": "High Country Motor Inn",
+  "town": "Mount Buller",
+  "region": "Victoria",
+  "country": "Australia",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 29,
+  "coordinates": {
+    "lat": -37.0589,
+    "lng": 146.0934
+  },
+  "sources": {
+    "officialWebsite": "https://www.highcountrymotorinn.com.au/",
+    "policyPage": "https://highcountrymotorinn.com.au/terms-of-use/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:41:10Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

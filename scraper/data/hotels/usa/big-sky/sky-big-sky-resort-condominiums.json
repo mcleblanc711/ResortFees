@@ -1,0 +1,26 @@
+{
+  "id": "usa-big-sky-big-sky-resort-condominiums",
+  "name": "Big Sky Resort Condominiums",
+  "town": "Big Sky",
+  "region": "Montana",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 22,
+  "coordinates": {
+    "lat": 45.2856,
+    "lng": -111.4123
+  },
+  "sources": {
+    "officialWebsite": "https://www.bigskyresort.com/stay",
+    "policyPage": "https://www.bigskyresort.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:12:47Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

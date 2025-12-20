@@ -1,39 +1,34 @@
 {
   "hotels": [
-    {
-      "name": "Fairmont Banff Springs",
-      "rank": 1,
-      "website": "https://www.fairmont.com/banff-springs/",
-      "market_segment": "Luxury",
-      "coordinates": { "lat": 51.1679, "lng": -115.5595 }
-    },
-    {
-      "name": "Rimrock Resort Hotel",
-      "rank": 2,
-      "website": "https://www.rimrockresort.com/",
-      "market_segment": "Upscale",
-      "coordinates": { "lat": 51.1546, "lng": -115.5856 }
-    },
-    {
-      "name": "Moose Hotel and Suites",
-      "rank": 3,
-      "website": "https://www.banffmoosehotel.com/",
-      "market_segment": "Upscale",
-      "coordinates": { "lat": 51.1762, "lng": -115.5708 }
-    },
-    {
-      "name": "The Juniper Hotel",
-      "rank": 4,
-      "website": "https://thejuniper.com/",
-      "market_segment": "Upper-Midscale",
-      "coordinates": { "lat": 51.1891, "lng": -115.5543 }
-    },
-    {
-      "name": "Banff Aspen Lodge",
-      "rank": 5,
-      "website": "https://www.banffaspenlodge.com/",
-      "market_segment": "Upper-Midscale",
-      "coordinates": { "lat": 51.1754, "lng": -115.5702 }
-    }
+    {"name": "Fairmont Banff Springs", "rank": 1, "website": "https://www.fairmont.com/banff-springs/", "market_segment": "Luxury", "coordinates": {"lat": 51.1679, "lng": -115.5595}},
+    {"name": "Rimrock Resort Hotel", "rank": 2, "website": "https://www.rimrockresort.com/", "market_segment": "Upscale", "coordinates": {"lat": 51.1546, "lng": -115.5856}},
+    {"name": "Moose Hotel and Suites", "rank": 3, "website": "https://www.banffmoosehotel.com/", "market_segment": "Upscale", "coordinates": {"lat": 51.1762, "lng": -115.5708}},
+    {"name": "The Juniper Hotel", "rank": 4, "website": "https://thejuniper.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1891, "lng": -115.5543}},
+    {"name": "Banff Aspen Lodge", "rank": 5, "website": "https://www.banffaspenlodge.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1754, "lng": -115.5702}},
+    {"name": "Mount Royal Hotel", "rank": 6, "website": "https://www.banffmountroyalhotel.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1784, "lng": -115.5708}},
+    {"name": "Elk + Avenue Hotel", "rank": 7, "website": "https://www.bestofbanff.com/elk-avenue/", "market_segment": "Midscale", "coordinates": {"lat": 51.1778, "lng": -115.5712}},
+    {"name": "Banff Park Lodge", "rank": 8, "website": "https://www.banffparklodge.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1768, "lng": -115.5698}},
+    {"name": "The Rundlestone Lodge", "rank": 9, "website": "https://www.rundlestone.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1695, "lng": -115.5642}},
+    {"name": "Banff Caribou Lodge & Spa", "rank": 10, "website": "https://www.bestofbanff.com/banff-caribou-lodge/", "market_segment": "Midscale", "coordinates": {"lat": 51.1756, "lng": -115.5689}},
+    {"name": "Hidden Ridge Resort", "rank": 11, "website": "https://www.bestofbanff.com/hidden-ridge-resort/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1612, "lng": -115.5734}},
+    {"name": "Fox Hotel & Suites", "rank": 12, "website": "https://www.bestofbanff.com/fox-hotel/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1752, "lng": -115.5685}},
+    {"name": "Royal Canadian Lodge", "rank": 13, "website": "https://www.banffroyalcanadianlodge.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1761, "lng": -115.5693}},
+    {"name": "Banff Ptarmigan Inn", "rank": 14, "website": "https://www.banffptarmiganinn.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1773, "lng": -115.5701}},
+    {"name": "Charlton's Banff", "rank": 15, "website": "https://www.charltonsbanff.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1748, "lng": -115.5678}},
+    {"name": "Banff Inn", "rank": 16, "website": "https://www.banffinn.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1776, "lng": -115.5695}},
+    {"name": "Basecamp Suites Banff", "rank": 17, "website": "https://basecampresorts.com/banff/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1771, "lng": -115.5688}},
+    {"name": "Irwin's Mountain Inn", "rank": 18, "website": "https://www.irwinsmountaininn.com/", "market_segment": "Economy", "coordinates": {"lat": 51.1782, "lng": -115.5715}},
+    {"name": "Tunnel Mountain Resort", "rank": 19, "website": "https://www.tunnelmountain.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1823, "lng": -115.5512}},
+    {"name": "Banff Voyager Inn", "rank": 20, "website": "https://www.banffvoyagerinn.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1789, "lng": -115.5723}},
+    {"name": "High Country Inn", "rank": 21, "website": "https://www.highcountryinn.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1765, "lng": -115.5681}},
+    {"name": "Inns of Banff", "rank": 22, "website": "https://www.innsofbanff.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1758, "lng": -115.5676}},
+    {"name": "Banff Rocky Mountain Resort", "rank": 23, "website": "https://www.banffrockymountainresort.com/", "market_segment": "Upper-Midscale", "coordinates": {"lat": 51.1634, "lng": -115.5589}},
+    {"name": "Brewster's Mountain Lodge", "rank": 24, "website": "https://www.brewstermountainlodge.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1779, "lng": -115.5707}},
+    {"name": "King Edward Hotel", "rank": 25, "website": "https://www.kingedwardbanff.com/", "market_segment": "Economy", "coordinates": {"lat": 51.1781, "lng": -115.5711}},
+    {"name": "Samesun Banff", "rank": 26, "website": "https://www.samesun.com/banff/", "market_segment": "Economy", "coordinates": {"lat": 51.1785, "lng": -115.5718}},
+    {"name": "HI Banff Alpine Centre", "rank": 27, "website": "https://hihostels.ca/en/destinations/alberta/hi-banff-alpine-centre", "market_segment": "Economy", "coordinates": {"lat": 51.1621, "lng": -115.5567}},
+    {"name": "Bumpers Inn", "rank": 28, "website": "https://www.bumpersinn.com/", "market_segment": "Economy", "coordinates": {"lat": 51.1792, "lng": -115.5728}},
+    {"name": "Red Carpet Inn", "rank": 29, "website": "https://www.banffredcarpetinn.com/", "market_segment": "Economy", "coordinates": {"lat": 51.1787, "lng": -115.5721}},
+    {"name": "Banff International Hotel", "rank": 30, "website": "https://www.banffinternationalhotel.com/", "market_segment": "Midscale", "coordinates": {"lat": 51.1774, "lng": -115.5699}}
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-pangea-pod-hotel",
+  "name": "Pangea Pod Hotel",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 50.1145,
+    "lng": -122.9489
+  },
+  "sources": {
+    "officialWebsite": "https://www.pangeapod.com/",
+    "policyPage": "https://www.pangeapod.com/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:33:42Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-peaks-lodge",
+  "name": "Peaks Lodge",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 22,
+  "coordinates": {
+    "lat": 50.9612,
+    "lng": -118.1912
+  },
+  "sources": {
+    "officialWebsite": "https://www.peakslodge.com/",
+    "policyPage": "https://www.peakslodge.ca/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:47:00Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

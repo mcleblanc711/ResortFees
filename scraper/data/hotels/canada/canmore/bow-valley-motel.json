@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-bow-valley-motel",
+  "name": "Bow Valley Motel",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 24,
+  "coordinates": {
+    "lat": 51.0967,
+    "lng": -115.3678
+  },
+  "sources": {
+    "officialWebsite": "https://www.bowvalleymotel.com/",
+    "policyPage": "https://www.bowvalleymotel.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:58:11Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

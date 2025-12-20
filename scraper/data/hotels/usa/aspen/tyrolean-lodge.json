@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-tyrolean-lodge",
+  "name": "Tyrolean Lodge",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 22,
+  "coordinates": {
+    "lat": 39.1845,
+    "lng": -106.8256
+  },
+  "sources": {
+    "officialWebsite": "https://www.tyroleanlodge.com/",
+    "policyPage": "https://www.tyroleanlodge.com/policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:46:45Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-first-tracks-lodge",
+  "name": "First Tracks Lodge",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 24,
+  "coordinates": {
+    "lat": 50.0923,
+    "lng": -122.9589
+  },
+  "sources": {
+    "officialWebsite": "https://www.firsttrackslodge.com/",
+    "policyPage": "https://www.lodgingovations.com/first-tracks-lodge/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:31:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

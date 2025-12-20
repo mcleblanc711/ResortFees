@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-four-seasons-resort-whistler",
+  "name": "Four Seasons Resort Whistler",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 50.1134,
+    "lng": -122.9523
+  },
+  "sources": {
+    "officialWebsite": "https://www.fourseasons.com/whistler/",
+    "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:21:35Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

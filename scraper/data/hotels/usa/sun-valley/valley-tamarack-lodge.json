@@ -1,0 +1,26 @@
+{
+  "id": "usa-sun-valley-tamarack-lodge",
+  "name": "Tamarack Lodge",
+  "town": "Sun Valley",
+  "region": "Idaho",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 43.6756,
+    "lng": -114.3667
+  },
+  "sources": {
+    "officialWebsite": "https://www.tamaracksunvalley.com/",
+    "policyPage": "https://www.tamaracksunvalley.com/pet-policy.htm",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:18:52Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

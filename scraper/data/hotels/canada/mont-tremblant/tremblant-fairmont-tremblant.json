@@ -1,0 +1,34 @@
+{
+  "id": "canada-mont-tremblant-fairmont-tremblant",
+  "name": "Fairmont Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 46.2123,
+    "lng": -74.5856
+  },
+  "sources": {
+    "officialWebsite": "https://www.fairmont.com/tremblant/",
+    "policyPage": "https://www.fairmont.com/en/hotels/tremblant/fairmont-tremblant/guest-services.html#faq-accessibility",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [
+    {
+      "name": "Pet Fee",
+      "amount": "$60",
+      "basis": "per night",
+      "includes": null,
+      "notes": null
+    }
+  ],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:52:28Z",
+  "scrapingNotes": null
+}

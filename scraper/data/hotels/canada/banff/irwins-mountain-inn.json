@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-irwins-mountain-inn",
+  "name": "Irwin's Mountain Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 51.1782,
+    "lng": -115.5715
+  },
+  "sources": {
+    "officialWebsite": "https://www.irwinsmountaininn.com/",
+    "policyPage": "https://irwinsmountaininn.com/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:38:34Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

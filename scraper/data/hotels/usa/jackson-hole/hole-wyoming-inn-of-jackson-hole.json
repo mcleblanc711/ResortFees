@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-wyoming-inn-of-jackson-hole",
+  "name": "Wyoming Inn of Jackson Hole",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 43.4767,
+    "lng": -110.7634
+  },
+  "sources": {
+    "officialWebsite": "https://www.wyominginn.com/",
+    "policyPage": "https://www.wyominginn.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:24:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

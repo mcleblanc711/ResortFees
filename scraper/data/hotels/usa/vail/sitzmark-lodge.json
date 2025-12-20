@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-sitzmark-lodge",
+  "name": "Sitzmark Lodge",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 39.6389,
+    "lng": -106.3767
+  },
+  "sources": {
+    "officialWebsite": "https://www.sitzmarklodge.com/",
+    "policyPage": "https://sitzmarkvail.com/policies-faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:57:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

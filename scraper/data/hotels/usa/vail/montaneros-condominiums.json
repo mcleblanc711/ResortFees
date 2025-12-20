@@ -1,0 +1,26 @@
+{
+  "id": "usa-vail-montaneros-condominiums",
+  "name": "Montaneros Condominiums",
+  "town": "Vail",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 39.6423,
+    "lng": -106.3578
+  },
+  "sources": {
+    "officialWebsite": "https://www.montaneros.com/",
+    "policyPage": "https://www.montaneros.com/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:59:36Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

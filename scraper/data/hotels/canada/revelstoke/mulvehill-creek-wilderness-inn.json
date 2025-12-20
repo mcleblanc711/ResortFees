@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-mulvehill-creek-wilderness-inn",
+  "name": "Mulvehill Creek Wilderness Inn",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 50.8912,
+    "lng": -118.1234
+  },
+  "sources": {
+    "officialWebsite": "https://www.mulvehillcreek.com/",
+    "policyPage": "https://www.villagedentaldtc.com/botox-in-dentistry/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:46:24Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

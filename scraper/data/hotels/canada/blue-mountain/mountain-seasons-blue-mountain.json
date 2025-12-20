@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-seasons-blue-mountain",
+  "name": "Seasons Blue Mountain",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 44.4989,
+    "lng": -80.3134
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/seasons",
+    "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:11:19Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

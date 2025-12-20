@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-whistler-peak-lodge",
+  "name": "Whistler Peak Lodge",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 50.1123,
+    "lng": -122.9512
+  },
+  "sources": {
+    "officialWebsite": "https://www.whistlerpeaklodge.com/",
+    "policyPage": "https://www.vacasa.ca/vacation-rentals/canada/Whistler-Peak-Lodge-BC?partnerid=1707",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:26:43Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

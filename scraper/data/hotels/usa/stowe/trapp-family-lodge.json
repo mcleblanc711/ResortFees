@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-trapp-family-lodge",
+  "name": "Trapp Family Lodge",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 44.4623,
+    "lng": -72.7567
+  },
+  "sources": {
+    "officialWebsite": "https://www.trappfamily.com/",
+    "policyPage": "https://www.vontrappresort.com/villa-rental-agreement.htm",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:19:51Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

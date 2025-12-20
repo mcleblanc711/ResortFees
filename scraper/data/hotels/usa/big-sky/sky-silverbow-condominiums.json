@@ -1,0 +1,26 @@
+{
+  "id": "usa-big-sky-silverbow-condominiums",
+  "name": "Silverbow Condominiums",
+  "town": "Big Sky",
+  "region": "Montana",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 45.2889,
+    "lng": -111.4167
+  },
+  "sources": {
+    "officialWebsite": "https://www.bigskyresort.com/stay/silverbow",
+    "policyPage": "https://www.bigskyresort.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:15:27Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

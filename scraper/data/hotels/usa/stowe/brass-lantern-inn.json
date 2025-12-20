@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-brass-lantern-inn",
+  "name": "Brass Lantern Inn",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 44.4623,
+    "lng": -72.6823
+  },
+  "sources": {
+    "officialWebsite": "https://www.brasslanterninn.com/",
+    "policyPage": "https://www.brasslanterninn.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:31:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

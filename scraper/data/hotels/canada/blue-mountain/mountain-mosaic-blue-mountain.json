@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-mosaic-blue-mountain",
+  "name": "Mosaic Blue Mountain",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 44.5034,
+    "lng": -80.3178
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/mosaic",
+    "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:10:27Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

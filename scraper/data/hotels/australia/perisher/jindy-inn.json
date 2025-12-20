@@ -1,0 +1,26 @@
+{
+  "id": "australia-perisher-jindy-inn",
+  "name": "Jindy Inn",
+  "town": "Perisher",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 22,
+  "coordinates": {
+    "lat": -36.4223,
+    "lng": 148.6278
+  },
+  "sources": {
+    "officialWebsite": "https://www.jindyinn.com.au/",
+    "policyPage": "https://www.jindyinn.com.au/about-2/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:22:24Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

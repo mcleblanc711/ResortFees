@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-mountain-chalet-aspen",
+  "name": "Mountain Chalet Aspen",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 39.1867,
+    "lng": -106.8234
+  },
+  "sources": {
+    "officialWebsite": "https://www.mountainchaletaspen.com/",
+    "policyPage": "https://www.mountainchaletaspen.com/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:46:03Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

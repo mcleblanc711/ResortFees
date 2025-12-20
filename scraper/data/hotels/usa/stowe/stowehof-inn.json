@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-stowehof-inn",
+  "name": "Stowehof Inn",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 44.4756,
+    "lng": -72.7123
+  },
+  "sources": {
+    "officialWebsite": "https://www.stowehof.com/",
+    "policyPage": "https://www.stowehof.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:23:20Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

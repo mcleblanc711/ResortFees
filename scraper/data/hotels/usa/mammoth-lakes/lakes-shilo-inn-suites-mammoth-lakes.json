@@ -1,0 +1,26 @@
+{
+  "id": "usa-mammoth-lakes-shilo-inn-suites-mammoth-lakes",
+  "name": "Shilo Inn Suites Mammoth Lakes",
+  "town": "Mammoth Lakes",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 37.6534,
+    "lng": -118.9656
+  },
+  "sources": {
+    "officialWebsite": "https://www.shiloinns.com/mammoth-lakes.html",
+    "policyPage": "https://www.shiloinns.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:08:54Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

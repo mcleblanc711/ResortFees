@@ -1,0 +1,26 @@
+{
+  "id": "usa-lake-tahoe-basecamp-tahoe-city",
+  "name": "Basecamp Tahoe City",
+  "town": "Lake Tahoe",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 39.1701,
+    "lng": -120.1456
+  },
+  "sources": {
+    "officialWebsite": "https://basecamphotels.com/tahoe-city/",
+    "policyPage": "https://basecamphotels.com/legal/privacy",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:00:34Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

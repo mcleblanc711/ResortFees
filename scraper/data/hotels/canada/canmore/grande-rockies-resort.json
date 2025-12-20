@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-grande-rockies-resort",
+  "name": "Grande Rockies Resort",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 51.0734,
+    "lng": -115.3189
+  },
+  "sources": {
+    "officialWebsite": "https://www.granderockies.com/",
+    "policyPage": "https://www.granderockies.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:48:59Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

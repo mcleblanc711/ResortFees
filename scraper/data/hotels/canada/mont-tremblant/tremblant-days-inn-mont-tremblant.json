@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-days-inn-mont-tremblant",
+  "name": "Days Inn Mont Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 46.2212,
+    "lng": -74.5767
+  },
+  "sources": {
+    "officialWebsite": "https://www.wyndhamhotels.com/days-inn/mont-tremblant-quebec/days-inn-mont-tremblant/overview",
+    "policyPage": "https://www.wyndhamhotels.com/days-inn/mont-tremblant-quebec/days-inn-mont-tremblant/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:00:11Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "australia-thredbo-thredbo-yha",
+  "name": "Thredbo YHA",
+  "town": "Thredbo",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": -36.5078,
+    "lng": 148.3112
+  },
+  "sources": {
+    "officialWebsite": "https://www.yha.com.au/hostels/nsw/snowy-mountains/thredbo/",
+    "policyPage": "https://www.yha.com.au/hostels/booking-terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:35:07Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

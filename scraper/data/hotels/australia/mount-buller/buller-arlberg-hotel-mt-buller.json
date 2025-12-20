@@ -1,0 +1,26 @@
+{
+  "id": "australia-mount-buller-arlberg-hotel-mt-buller",
+  "name": "Arlberg Hotel Mt Buller",
+  "town": "Mount Buller",
+  "region": "Victoria",
+  "country": "Australia",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": -37.1445,
+    "lng": 146.4378
+  },
+  "sources": {
+    "officialWebsite": "https://www.arlberg.com.au/",
+    "policyPage": "http://arlberg.com.au/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:27:32Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

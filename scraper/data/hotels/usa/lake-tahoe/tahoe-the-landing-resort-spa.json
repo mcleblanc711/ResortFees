@@ -1,0 +1,26 @@
+{
+  "id": "usa-lake-tahoe-the-landing-resort-spa",
+  "name": "The Landing Resort & Spa",
+  "town": "Lake Tahoe",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 38.9534,
+    "lng": -119.9623
+  },
+  "sources": {
+    "officialWebsite": "https://thelandingtahoe.com/",
+    "policyPage": "https://www.thelandingtahoe.com/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:40:06Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

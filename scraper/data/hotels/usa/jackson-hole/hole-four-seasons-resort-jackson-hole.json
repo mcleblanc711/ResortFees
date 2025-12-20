@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-four-seasons-resort-jackson-hole",
+  "name": "Four Seasons Resort Jackson Hole",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 43.5875,
+    "lng": -110.8279
+  },
+  "sources": {
+    "officialWebsite": "https://www.fourseasons.com/jacksonhole/",
+    "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:21:43Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-innsbruck-inn-at-stowe",
+  "name": "Innsbruck Inn at Stowe",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 44.4834,
+    "lng": -72.7178
+  },
+  "sources": {
+    "officialWebsite": "https://www.innsbruckinn.com/",
+    "policyPage": "https://www.innsbruckinn.com/hotel-policies.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:27:50Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

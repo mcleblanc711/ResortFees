@@ -1,0 +1,26 @@
+{
+  "id": "australia-mount-buller-hotel-pension-grimus",
+  "name": "Hotel & Pension Grimus",
+  "town": "Mount Buller",
+  "region": "Victoria",
+  "country": "Australia",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": -37.1512,
+    "lng": 146.4445
+  },
+  "sources": {
+    "officialWebsite": "https://www.grimus.com.au/",
+    "policyPage": "https://www.grimus.com.au/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:31:44Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-glacier-house-resort",
+  "name": "Glacier House Resort",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": 51.2623,
+    "lng": -117.5189
+  },
+  "sources": {
+    "officialWebsite": "https://www.glacierhouse.com/",
+    "policyPage": "https://glacierhouse.com/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:44:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

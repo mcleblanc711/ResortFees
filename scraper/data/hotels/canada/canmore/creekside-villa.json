@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-creekside-villa",
+  "name": "Creekside Villa",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 51.0778,
+    "lng": -115.3278
+  },
+  "sources": {
+    "officialWebsite": "https://www.creeksidevillacanmore.com/",
+    "policyPage": "https://www.creeksidevilla.ca/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:00:03Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

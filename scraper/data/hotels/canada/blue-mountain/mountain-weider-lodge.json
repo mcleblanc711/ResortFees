@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-weider-lodge",
+  "name": "Weider Lodge",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 44.5056,
+    "lng": -80.3201
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/weider-lodge",
+    "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:10:51Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

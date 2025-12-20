@@ -1,5 +1,811 @@
 [
   {
+    "id": "australia-falls-creek-astra-falls-creek",
+    "name": "Astra Falls Creek",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": -36.8623,
+      "lng": 147.2745
+    },
+    "sources": {
+      "officialWebsite": "https://www.astrafallscreek.com.au/",
+      "policyPage": "https://astrafallscreek.com.au/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:48:49Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-attunga-alpine-lodge",
+    "name": "Attunga Alpine Lodge",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": -36.8667,
+      "lng": 147.2789
+    },
+    "sources": {
+      "officialWebsite": "https://www.attungalodge.com.au/",
+      "policyPage": "https://www.attungalodge.com.au/about.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:50:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-cedarwood-apartments",
+    "name": "Cedarwood Apartments",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": -36.859,
+      "lng": 147.2712
+    },
+    "sources": {
+      "officialWebsite": "https://www.cedarwood.com.au/",
+      "policyPage": "https://www.cedarwood.com.au/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:52:02Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-the-stables",
+    "name": "The Stables",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": -36.8579,
+      "lng": 147.2701
+    },
+    "sources": {
+      "officialWebsite": "https://www.thestables.com.au/",
+      "policyPage": "https://www.thestables.com.au/privacy-policy",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:53:16Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-silverski-boutique-hotel",
+    "name": "Silverski Boutique Hotel",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": -36.8712,
+      "lng": 147.2834
+    },
+    "sources": {
+      "officialWebsite": "https://www.silverski.com.au/",
+      "policyPage": "https://www.silverski.com.au/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:54:57Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-peppers-rundells-alpine-lodge",
+    "name": "Peppers Rundells Alpine Lodge",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": -36.8778,
+      "lng": 147.2901
+    },
+    "sources": {
+      "officialWebsite": "https://www.peppers.com.au/rundells/",
+      "policyPage": "https://www.peppers.com.au/terms/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:01:57Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-falls-creek-falls-creek-country-club",
+    "name": "Falls Creek Country Club",
+    "town": "Falls Creek",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": -36.8789,
+      "lng": 147.2912
+    },
+    "sources": {
+      "officialWebsite": "https://www.fallscreekcountryclub.com.au/",
+      "policyPage": "https://fallscreekcountryclub.com.au/about/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:02:38Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-arlberg-hotel-mt-buller",
+    "name": "Arlberg Hotel Mt Buller",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": -37.1445,
+      "lng": 146.4378
+    },
+    "sources": {
+      "officialWebsite": "https://www.arlberg.com.au/",
+      "policyPage": "http://arlberg.com.au/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:27:32Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-alzburg-resort",
+    "name": "Alzburg Resort",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": -37.1501,
+      "lng": 146.4434
+    },
+    "sources": {
+      "officialWebsite": "https://www.alzburg.com.au/",
+      "policyPage": "https://alzburg.com.au/wp-content/uploads/2023/01/INFO.pdf",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:31:03Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-hotel-pension-grimus",
+    "name": "Hotel & Pension Grimus",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": -37.1512,
+      "lng": 146.4445
+    },
+    "sources": {
+      "officialWebsite": "https://www.grimus.com.au/",
+      "policyPage": "https://www.grimus.com.au/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:31:44Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-ski-club-of-victoria",
+    "name": "Ski Club of Victoria",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 24,
+    "coordinates": {
+      "lat": -37.1346,
+      "lng": 146.4279
+    },
+    "sources": {
+      "officialWebsite": "https://www.scv.com.au/",
+      "policyPage": "https://www.scv.com.au/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:39:04Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-mansfield-ski-lodge",
+    "name": "Mansfield Ski Lodge",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": -37.1335,
+      "lng": 146.4268
+    },
+    "sources": {
+      "officialWebsite": "https://www.mansfieldskilodge.com.au/",
+      "policyPage": "https://www.mansfieldskilodge.com.au/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:40:24Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-mount-buller-high-country-motor-inn",
+    "name": "High Country Motor Inn",
+    "town": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 29,
+    "coordinates": {
+      "lat": -37.0589,
+      "lng": 146.0934
+    },
+    "sources": {
+      "officialWebsite": "https://www.highcountrymotorinn.com.au/",
+      "policyPage": "https://highcountrymotorinn.com.au/terms-of-use/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:41:10Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-marritz-hotel",
+    "name": "Marritz Hotel",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": -36.3712,
+      "lng": 148.4156
+    },
+    "sources": {
+      "officialWebsite": "https://www.marritz.com.au/",
+      "policyPage": "https://www.marritz.com.au/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:04:18Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-banjo-paterson-inn",
+    "name": "Banjo Paterson Inn",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 17,
+    "coordinates": {
+      "lat": -36.4189,
+      "lng": 148.6245
+    },
+    "sources": {
+      "officialWebsite": "https://www.banjopatersoninn.com.au/",
+      "policyPage": "https://www.banjopatersoninn.com.au/terms-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:19:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-discovery-parks-jindabyne",
+    "name": "Discovery Parks Jindabyne",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": -36.4212,
+      "lng": 148.6267
+    },
+    "sources": {
+      "officialWebsite": "https://www.discoveryholidayparks.com.au/jindabyne/",
+      "policyPage": "https://www.discoveryholidayparks.com.au/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:21:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-jindy-inn",
+    "name": "Jindy Inn",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": -36.4223,
+      "lng": 148.6278
+    },
+    "sources": {
+      "officialWebsite": "https://www.jindyinn.com.au/",
+      "policyPage": "https://www.jindyinn.com.au/about-2/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:22:24Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-snowgum-motel-jindabyne",
+    "name": "Snowgum Motel Jindabyne",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": -36.3823,
+      "lng": 148.4267
+    },
+    "sources": {
+      "officialWebsite": "https://www.snowgummotel.com.au/",
+      "policyPage": "https://snowgummotel.com.au/conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:22:33Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-lake-jindabyne-hotel",
+    "name": "Lake Jindabyne Hotel",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": -36.3834,
+      "lng": 148.4278
+    },
+    "sources": {
+      "officialWebsite": "https://www.lakejindabynehotel.com.au/",
+      "policyPage": "https://lakejindabynehotel.com.au",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:23:09Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-ski-rider-motel",
+    "name": "Ski Rider Motel",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": -36.3624,
+      "lng": 148.4068
+    },
+    "sources": {
+      "officialWebsite": "https://www.skirider.com.au/",
+      "policyPage": "https://www.skirider.com.au/hotel-information/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:23:47Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-perisher-snowy-valley-resort",
+    "name": "Snowy Valley Resort",
+    "town": "Perisher",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 29,
+    "coordinates": {
+      "lat": -36.3856,
+      "lng": 148.4301
+    },
+    "sources": {
+      "officialWebsite": "https://www.snowyvalleyresort.com.au/",
+      "policyPage": "https://snowyvalleyresort.com.au/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T10:25:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-thredbo-alpine-hotel",
+    "name": "Thredbo Alpine Hotel",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": -36.5034,
+      "lng": 148.3067
+    },
+    "sources": {
+      "officialWebsite": "https://www.thredbo.com.au/accommodation/thredbo-alpine-hotel/",
+      "policyPage": "https://www.thredbo.com.au/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:31:11Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-house-of-ullr",
+    "name": "House of Ullr",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": -36.5023,
+      "lng": 148.3056
+    },
+    "sources": {
+      "officialWebsite": "https://www.houseofullr.com.au/",
+      "policyPage": "https://www.houseofullr.com.au/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:32:04Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-thredbo-yha",
+    "name": "Thredbo YHA",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": -36.5078,
+      "lng": 148.3112
+    },
+    "sources": {
+      "officialWebsite": "https://www.yha.com.au/hostels/nsw/snowy-mountains/thredbo/",
+      "policyPage": "https://www.yha.com.au/hostels/booking-terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:35:07Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-lantern-apartments",
+    "name": "Lantern Apartments",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": -36.499,
+      "lng": 148.3023
+    },
+    "sources": {
+      "officialWebsite": "https://www.lanternapartments.com.au/",
+      "policyPage": "https://www.lanternapartments.com.au/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:35:15Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-alpine-gables",
+    "name": "Alpine Gables",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": -36.4979,
+      "lng": 148.3012
+    },
+    "sources": {
+      "officialWebsite": "https://www.alpinegables.com.au/",
+      "policyPage": "https://alpinegables.com.au/home",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:35:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-matterhorn-lodge",
+    "name": "Matterhorn Lodge",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": -36.5112,
+      "lng": 148.3145
+    },
+    "sources": {
+      "officialWebsite": "https://www.matterhornlodge.com.au/",
+      "policyPage": "https://www.matterhornlodge.com.au/s/FQA.pdf",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:37:51Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-snowgoose-apartments",
+    "name": "Snowgoose Apartments",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": -36.4957,
+      "lng": 148.299
+    },
+    "sources": {
+      "officialWebsite": "https://www.snowgoose.com.au/",
+      "policyPage": "https://www.snowgoose.com.au/pages/faqs",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:38:31Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-crackenback-resort",
+    "name": "Crackenback Resort",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": -36.4623,
+      "lng": 148.2789
+    },
+    "sources": {
+      "officialWebsite": "https://www.crackenback.com.au/",
+      "policyPage": "https://www.crackenback.com.au/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:39:02Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-banjo-paterson-inn",
+    "name": "Banjo Paterson Inn",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": -36.4189,
+      "lng": 148.6245
+    },
+    "sources": {
+      "officialWebsite": "https://www.banjopatersoninn.com.au/",
+      "policyPage": "https://www.banjopatersoninn.com.au/terms-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:44:31Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "australia-thredbo-jindy-inn-jindabyne",
+    "name": "Jindy Inn Jindabyne",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": -36.4212,
+      "lng": 148.6267
+    },
+    "sources": {
+      "officialWebsite": "https://www.jindyinn.com.au/",
+      "policyPage": "https://www.jindyinn.com.au/about-2/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:46:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
     "id": "canada-banff-fairmont-banff-springs",
     "name": "Fairmont Banff Springs",
     "town": "Banff",
@@ -37,7 +843,7 @@
     "extraPersonPolicy": null,
     "damageDeposit": null,
     "promotions": [],
-    "scrapedAt": "2025-12-20T02:47:18Z",
+    "scrapedAt": "2025-12-20T04:29:48Z",
     "scrapingNotes": null
   },
   {
@@ -63,7 +869,7 @@
     "extraPersonPolicy": null,
     "damageDeposit": null,
     "promotions": [],
-    "scrapedAt": "2025-12-20T02:47:32Z",
+    "scrapedAt": "2025-12-20T04:30:05Z",
     "scrapingNotes": "No taxes or fees found on policy page"
   },
   {
@@ -89,7 +895,4599 @@
     "extraPersonPolicy": null,
     "damageDeposit": null,
     "promotions": [],
-    "scrapedAt": "2025-12-20T02:48:59Z",
+    "scrapedAt": "2025-12-20T04:31:36Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-banff-park-lodge",
+    "name": "Banff Park Lodge",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 51.1768,
+      "lng": -115.5698
+    },
+    "sources": {
+      "officialWebsite": "https://www.banffparklodge.com/",
+      "policyPage": "https://www.banffparklodge.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:33:21Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-banff-ptarmigan-inn",
+    "name": "Banff Ptarmigan Inn",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 51.1773,
+      "lng": -115.5701
+    },
+    "sources": {
+      "officialWebsite": "https://www.banffptarmiganinn.com/",
+      "policyPage": "https://banffptarmiganinn.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:36:59Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-charltons-banff",
+    "name": "Charlton's Banff",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 51.1748,
+      "lng": -115.5678
+    },
+    "sources": {
+      "officialWebsite": "https://www.charltonsbanff.com/",
+      "policyPage": "https://www.charltonsbanff.com/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:37:17Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-banff-inn",
+    "name": "Banff Inn",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 51.1776,
+      "lng": -115.5695
+    },
+    "sources": {
+      "officialWebsite": "https://www.banffinn.com/",
+      "policyPage": "https://banffinn.com/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:37:31Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-irwins-mountain-inn",
+    "name": "Irwin's Mountain Inn",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 51.1782,
+      "lng": -115.5715
+    },
+    "sources": {
+      "officialWebsite": "https://www.irwinsmountaininn.com/",
+      "policyPage": "https://irwinsmountaininn.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:38:34Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-tunnel-mountain-resort",
+    "name": "Tunnel Mountain Resort",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 51.1823,
+      "lng": -115.5512
+    },
+    "sources": {
+      "officialWebsite": "https://www.tunnelmountain.com/",
+      "policyPage": "https://tunnelmountain.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:39:01Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-inns-of-banff",
+    "name": "Inns of Banff",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 51.1758,
+      "lng": -115.5676
+    },
+    "sources": {
+      "officialWebsite": "https://www.innsofbanff.com/",
+      "policyPage": "https://hotelcanoeandsuites.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:40:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-hi-banff-alpine-centre",
+    "name": "HI Banff Alpine Centre",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": 51.1621,
+      "lng": -115.5567
+    },
+    "sources": {
+      "officialWebsite": "https://hihostels.ca/en/destinations/alberta/hi-banff-alpine-centre",
+      "policyPage": "https://hihostels.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:43:43Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-bumpers-inn",
+    "name": "Bumpers Inn",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 51.1792,
+      "lng": -115.5728
+    },
+    "sources": {
+      "officialWebsite": "https://www.bumpersinn.com/",
+      "policyPage": "https://www.bumpersinn.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:43:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-banff-international-hotel",
+    "name": "Banff International Hotel",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 30,
+    "coordinates": {
+      "lat": 51.1774,
+      "lng": -115.5699
+    },
+    "sources": {
+      "officialWebsite": "https://www.banffinternationalhotel.com/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/elk-avenue-hotel/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:44:25Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-blue-mountain-resort",
+    "name": "Blue Mountain Resort",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 44.5023,
+      "lng": -80.3167
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:10:14Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-mosaic-blue-mountain",
+    "name": "Mosaic Blue Mountain",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 44.5034,
+      "lng": -80.3178
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/mosaic",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:10:27Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-grand-georgian",
+    "name": "Grand Georgian",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 44.5045,
+      "lng": -80.3189
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/grand-georgian",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:10:40Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-weider-lodge",
+    "name": "Weider Lodge",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 44.5056,
+      "lng": -80.3201
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/weider-lodge",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:10:51Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-village-at-blue",
+    "name": "Village at Blue",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 44.5001,
+      "lng": -80.3145
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/village-at-blue",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:11:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-seasons-blue-mountain",
+    "name": "Seasons Blue Mountain",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 44.4989,
+      "lng": -80.3134
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/seasons",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:11:19Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-snowbridge",
+    "name": "Snowbridge",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 44.4978,
+      "lng": -80.3123
+    },
+    "sources": {
+      "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/snowbridge",
+      "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:11:33Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-cranberry-resort",
+    "name": "Cranberry Resort",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 44.5634,
+      "lng": -80.3678
+    },
+    "sources": {
+      "officialWebsite": "https://www.cranberryresort.com/",
+      "policyPage": "https://www.cranberryresort.com/terms",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:14:52Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-scandinave-spa-blue-mountain",
+    "name": "Scandinave Spa Blue Mountain",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 17,
+    "coordinates": {
+      "lat": 44.4934,
+      "lng": -80.3078
+    },
+    "sources": {
+      "officialWebsite": "https://www.scandinave.com/bluemountain/",
+      "policyPage": "https://www.scandinave.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:16:14Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-holiday-inn-express-collingwood",
+    "name": "Holiday Inn Express Collingwood",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 44.5012,
+      "lng": -80.2245
+    },
+    "sources": {
+      "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/collingwood/yyzco/hoteldetail",
+      "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:17:38Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-blue-mountain-days-inn-by-wyndham-collingwood",
+    "name": "Days Inn by Wyndham Collingwood",
+    "town": "Blue Mountain",
+    "region": "Ontario",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 44.5034,
+      "lng": -80.2267
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview",
+      "policyPage": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:19:35Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-basecamp-suites-canmore",
+    "name": "Basecamp Suites Canmore",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 51.0886,
+      "lng": -115.3498
+    },
+    "sources": {
+      "officialWebsite": "https://basecampresorts.com/canmore/",
+      "policyPage": "https://basecampresorts.com/privacy-policy",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:48:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-grande-rockies-resort",
+    "name": "Grande Rockies Resort",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 51.0734,
+      "lng": -115.3189
+    },
+    "sources": {
+      "officialWebsite": "https://www.granderockies.com/",
+      "policyPage": "https://www.granderockies.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:48:59Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-canmore-inn-suites",
+    "name": "Canmore Inn & Suites",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 51.0912,
+      "lng": -115.3567
+    },
+    "sources": {
+      "officialWebsite": "https://www.canmoreinn.com/",
+      "policyPage": "https://www.canmoreinn.com/terms-of-use/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:50:28Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-canalta-lodge",
+    "name": "Canalta Lodge",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 51.0856,
+      "lng": -115.3423
+    },
+    "sources": {
+      "officialWebsite": "https://www.canaltalodge.com/",
+      "policyPage": "https://canaltalodge.com/privacy-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:51:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-falcon-crest-lodge",
+    "name": "Falcon Crest Lodge",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 51.0767,
+      "lng": -115.3256
+    },
+    "sources": {
+      "officialWebsite": "https://www.falconcrestlodge.ca/",
+      "policyPage": "https://www.falconcrestlodge.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:53:21Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-lady-macdonald-country-inn",
+    "name": "Lady Macdonald Country Inn",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 51.0876,
+      "lng": -115.3478
+    },
+    "sources": {
+      "officialWebsite": "https://www.ladymacdonald.com/",
+      "policyPage": "https://www.ladymacdonald.com/cp1",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:54:35Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-super-8-by-wyndham-canmore",
+    "name": "Super 8 by Wyndham Canmore",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 51.0945,
+      "lng": -115.3634
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/super-8/canmore-alberta/super-8-canmore/overview",
+      "policyPage": "https://www.wyndhamhotels.com/super-8/canmore-alberta/super-8-canmore/overview",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:57:23Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-days-inn-by-wyndham-canmore",
+    "name": "Days Inn by Wyndham Canmore",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 51.0956,
+      "lng": -115.3656
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/days-inn/canmore-alberta/days-inn-canmore/overview",
+      "policyPage": "https://www.wyndhamhotels.com/days-inn/canmore-alberta/days-inn-canmore/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:58:09Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-bow-valley-motel",
+    "name": "Bow Valley Motel",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 24,
+    "coordinates": {
+      "lat": 51.0967,
+      "lng": -115.3678
+    },
+    "sources": {
+      "officialWebsite": "https://www.bowvalleymotel.com/",
+      "policyPage": "https://www.bowvalleymotel.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:58:11Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-spring-creek-vacations",
+    "name": "Spring Creek Vacations",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 51.0723,
+      "lng": -115.3178
+    },
+    "sources": {
+      "officialWebsite": "https://www.springcreekvacations.com/",
+      "policyPage": "https://www.springcreekvacations.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T04:59:16Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-canmore-creekside-villa",
+    "name": "Creekside Villa",
+    "town": "Canmore",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 51.0778,
+      "lng": -115.3278
+    },
+    "sources": {
+      "officialWebsite": "https://www.creeksidevillacanmore.com/",
+      "policyPage": "https://www.creeksidevilla.ca/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:00:03Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-fairmont-jasper-park-lodge",
+    "name": "Fairmont Jasper Park Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 52.8851,
+      "lng": -118.0558
+    },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/jasper/",
+      "policyPage": "https://www.fairmont.com/en/hotels/jasper/fairmont-jasper-park-lodge/guest-services.html#faq-accessibility",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:01:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-sawridge-inn-and-conference-centre",
+    "name": "Sawridge Inn and Conference Centre",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 52.8734,
+      "lng": -118.0823
+    },
+    "sources": {
+      "officialWebsite": "https://www.sawridgeinn.com/jasper/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/forest-park-hotel/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:01:57Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-bear-hill-lodge",
+    "name": "Bear Hill Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 52.8789,
+      "lng": -118.0756
+    },
+    "sources": {
+      "officialWebsite": "https://www.bearhilllodge.com/",
+      "policyPage": "https://bearhilllodge.com/information/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:04:17Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-jasper-inn-suites",
+    "name": "Jasper Inn & Suites",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 52.8756,
+      "lng": -118.0801
+    },
+    "sources": {
+      "officialWebsite": "https://www.jasperinn.com/",
+      "policyPage": "https://jasperinn.com/ErrorPages/404?aspxerrorpath=/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:04:18Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-chateau-jasper",
+    "name": "Chateau Jasper",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 52.8767,
+      "lng": -118.0812
+    },
+    "sources": {
+      "officialWebsite": "https://www.chateaujasper.com/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/chateau-jasper/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:04:20Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-lobstick-lodge",
+    "name": "Lobstick Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 52.8778,
+      "lng": -118.0834
+    },
+    "sources": {
+      "officialWebsite": "https://www.lobsticklodge.com/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/lobstick-lodge/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:04:23Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-marmot-lodge",
+    "name": "Marmot Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 52.8789,
+      "lng": -118.0845
+    },
+    "sources": {
+      "officialWebsite": "https://www.marmotlodge.com/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/marmot-lodge/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:04:26Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-patricia-lake-bungalows",
+    "name": "Patricia Lake Bungalows",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 52.9012,
+      "lng": -118.0934
+    },
+    "sources": {
+      "officialWebsite": "https://www.patricialakebungalows.com/",
+      "policyPage": "https://www.patricialakebungalows.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:06:28Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-overlander-mountain-lodge",
+    "name": "Overlander Mountain Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 53.0123,
+      "lng": -118.1234
+    },
+    "sources": {
+      "officialWebsite": "https://www.overlandermountainlodge.com/",
+      "policyPage": "https://www.overlandermountainlodge.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:07:00Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-maligne-lodge",
+    "name": "Maligne Lodge",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 52.8712,
+      "lng": -118.0745
+    },
+    "sources": {
+      "officialWebsite": "https://www.malignelodge.com/",
+      "policyPage": "https://decorehotels.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:08:53Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-hi-jasper",
+    "name": "HI Jasper",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 52.8756,
+      "lng": -118.0823
+    },
+    "sources": {
+      "officialWebsite": "https://hihostels.ca/en/destinations/alberta/hi-jasper",
+      "policyPage": "https://hihostels.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:11:11Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-crimson-jasper",
+    "name": "Crimson Jasper",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 52.8701,
+      "lng": -118.0734
+    },
+    "sources": {
+      "officialWebsite": "https://www.crimsonjasper.com/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/the-crimson/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:12:25Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-jasper-forest-park-hotel",
+    "name": "Forest Park Hotel",
+    "town": "Jasper",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": 52.8789,
+      "lng": -118.0856
+    },
+    "sources": {
+      "officialWebsite": "https://www.forestparkhotel.ca/",
+      "policyPage": "https://www.banffjaspercollection.com/hotels/forest-park-hotel/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:12:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-mont-tremblant-fairmont-tremblant",
+    "name": "Fairmont Tremblant",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 46.2123,
+      "lng": -74.5856
+    },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/tremblant/",
+      "policyPage": "https://www.fairmont.com/en/hotels/tremblant/fairmont-tremblant/guest-services.html#faq-accessibility",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [
+      {
+        "name": "Pet Fee",
+        "amount": "$60",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:52:28Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-mont-tremblant-hotel-quintessence",
+    "name": "Hotel Quintessence",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 46.2089,
+      "lng": -74.5923
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelquintessence.com/",
+      "policyPage": "https://www.hotelquintessence.com/en/cancellation-policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:53:07Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-mont-tremblant-le-grand-lodge",
+    "name": "Le Grand Lodge",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 46.2112,
+      "lng": -74.5889
+    },
+    "sources": {
+      "officialWebsite": "https://www.legrandlodge.com/",
+      "policyPage": "https://legrandlodge.com/politique-et-reglements/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:55:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-mont-tremblant-holiday-inn-express-mont-tremblant",
+    "name": "Holiday Inn Express Mont Tremblant",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 46.2201,
+      "lng": -74.5778
+    },
+    "sources": {
+      "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/mont-tremblant/yultr/hoteldetail",
+      "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:59:29Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-mont-tremblant-days-inn-mont-tremblant",
+    "name": "Days Inn Mont Tremblant",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 46.2212,
+      "lng": -74.5767
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/days-inn/mont-tremblant-quebec/days-inn-mont-tremblant/overview",
+      "policyPage": "https://www.wyndhamhotels.com/days-inn/mont-tremblant-quebec/days-inn-mont-tremblant/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:00:11Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-mont-tremblant-hi-mont-tremblant",
+    "name": "HI Mont-Tremblant",
+    "town": "Mont-Tremblant",
+    "region": "Quebec",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 46.2167,
+      "lng": -74.5823
+    },
+    "sources": {
+      "officialWebsite": "https://hihostels.ca/en/destinations/quebec/hi-mont-tremblant",
+      "policyPage": "https://hihostels.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:06:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-days-inn-by-wyndham-revelstoke",
+    "name": "Days Inn by Wyndham Revelstoke",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 51.0034,
+      "lng": -118.1834
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/days-inn/revelstoke-british-columbia/days-inn-revelstoke/overview",
+      "policyPage": "https://www.wyndhamhotels.com/days-inn/revelstoke-british-columbia/days-inn-revelstoke/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:39:08Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-monashee-lodge",
+    "name": "Monashee Lodge",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 50.9912,
+      "lng": -118.1889
+    },
+    "sources": {
+      "officialWebsite": "https://www.monasheelodge.com/",
+      "policyPage": "https://www.monasheelodge.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:41:04Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-basecamp-resorts-revelstoke",
+    "name": "Basecamp Resorts Revelstoke",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 50.9989,
+      "lng": -118.1956
+    },
+    "sources": {
+      "officialWebsite": "https://basecampresorts.com/revelstoke/",
+      "policyPage": "https://basecampresorts.com/privacy-policy",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:43:32Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-glacier-house-resort",
+    "name": "Glacier House Resort",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 17,
+    "coordinates": {
+      "lat": 51.2623,
+      "lng": -117.5189
+    },
+    "sources": {
+      "officialWebsite": "https://www.glacierhouse.com/",
+      "policyPage": "https://glacierhouse.com/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:44:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-mulvehill-creek-wilderness-inn",
+    "name": "Mulvehill Creek Wilderness Inn",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 50.8912,
+      "lng": -118.1234
+    },
+    "sources": {
+      "officialWebsite": "https://www.mulvehillcreek.com/",
+      "policyPage": "https://www.villagedentaldtc.com/botox-in-dentistry/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:46:24Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-peaks-lodge",
+    "name": "Peaks Lodge",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 50.9612,
+      "lng": -118.1912
+    },
+    "sources": {
+      "officialWebsite": "https://www.peakslodge.com/",
+      "policyPage": "https://www.peakslodge.ca/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:47:00Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-revelstoke-hi-revelstoke",
+    "name": "HI Revelstoke",
+    "town": "Revelstoke",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 50.9989,
+      "lng": -118.1989
+    },
+    "sources": {
+      "officialWebsite": "https://hihostels.ca/en/destinations/british-columbia/hi-revelstoke",
+      "policyPage": "https://hihostels.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:49:19Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-fairmont-chateau-whistler",
+    "name": "Fairmont Chateau Whistler",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 50.0833,
+      "lng": -122.9574
+    },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/whistler/",
+      "policyPage": "https://www.fairmont.com/en/hotels/whistler/fairmont-chateau-whistler/guest-services.html#faq-accessibility",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [
+      {
+        "name": "Self-Parking",
+        "amount": "$45",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:20:57Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-whistler-four-seasons-resort-whistler",
+    "name": "Four Seasons Resort Whistler",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 50.1134,
+      "lng": -122.9523
+    },
+    "sources": {
+      "officialWebsite": "https://www.fourseasons.com/whistler/",
+      "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:21:35Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-pan-pacific-whistler-village-centre",
+    "name": "Pan Pacific Whistler Village Centre",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 50.1145,
+      "lng": -122.9512
+    },
+    "sources": {
+      "officialWebsite": "https://www.panpacific.com/whistler-village-centre/",
+      "policyPage": "https://www.panpacific.com/en/data-protection-policy.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:23:31Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-pan-pacific-whistler-mountainside",
+    "name": "Pan Pacific Whistler Mountainside",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 50.1123,
+      "lng": -122.9545
+    },
+    "sources": {
+      "officialWebsite": "https://www.panpacific.com/whistler-mountainside/",
+      "policyPage": "https://www.panpacific.com/en/data-protection-policy.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:24:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-crystal-lodge-suites",
+    "name": "Crystal Lodge & Suites",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 50.1156,
+      "lng": -122.9501
+    },
+    "sources": {
+      "officialWebsite": "https://www.crystal-lodge.com/",
+      "policyPage": "https://www.crystal-lodge.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:25:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-aava-whistler-hotel",
+    "name": "Aava Whistler Hotel",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 50.1145,
+      "lng": -122.9478
+    },
+    "sources": {
+      "officialWebsite": "https://www.aavawhistlerhotel.com/",
+      "policyPage": "https://www.paradoxhotels.com/aava-whistler/terms",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:26:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-whistler-peak-lodge",
+    "name": "Whistler Peak Lodge",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 50.1123,
+      "lng": -122.9512
+    },
+    "sources": {
+      "officialWebsite": "https://www.whistlerpeaklodge.com/",
+      "policyPage": "https://www.vacasa.ca/vacation-rentals/canada/Whistler-Peak-Lodge-BC?partnerid=1707",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:26:43Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-the-listel-hotel-whistler",
+    "name": "The Listel Hotel Whistler",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 50.1156,
+      "lng": -122.9467
+    },
+    "sources": {
+      "officialWebsite": "https://www.listelhotel.com/whistler/",
+      "policyPage": "https://www.coasthotels.com/listel-whistler-a-coast-hotel",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:26:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-adara-hotel",
+    "name": "Adara Hotel",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 50.1134,
+      "lng": -122.9456
+    },
+    "sources": {
+      "officialWebsite": "https://www.adarahotel.com/",
+      "policyPage": "https://www.adarahotel.com/about-us",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:27:04Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-tantalus-resort-lodge",
+    "name": "Tantalus Resort Lodge",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 50.1178,
+      "lng": -122.9489
+    },
+    "sources": {
+      "officialWebsite": "https://www.tantaluslodge.com/",
+      "policyPage": "https://www.tantaluslodge.com/hotel-amenities-information-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:27:44Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-sundial-boutique-hotel",
+    "name": "Sundial Boutique Hotel",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 50.1123,
+      "lng": -122.9501
+    },
+    "sources": {
+      "officialWebsite": "https://www.sundialhotel.com/",
+      "policyPage": "https://www.sundialhotel.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:29:25Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-mountainside-lodge",
+    "name": "Mountainside Lodge",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 50.1145,
+      "lng": -122.9556
+    },
+    "sources": {
+      "officialWebsite": "https://www.mountainsidelodge.com/",
+      "policyPage": "http://survey-smiles.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:30:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-legends-whistler",
+    "name": "Legends Whistler",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 50.0912,
+      "lng": -122.9601
+    },
+    "sources": {
+      "officialWebsite": "https://www.legendswhistler.com/",
+      "policyPage": "https://www.lodgingovations.com/legends/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:31:33Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-first-tracks-lodge",
+    "name": "First Tracks Lodge",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 24,
+    "coordinates": {
+      "lat": 50.0923,
+      "lng": -122.9589
+    },
+    "sources": {
+      "officialWebsite": "https://www.firsttrackslodge.com/",
+      "policyPage": "https://www.lodgingovations.com/first-tracks-lodge/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:31:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-hi-whistler-hostel",
+    "name": "HI Whistler Hostel",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 50.1178,
+      "lng": -122.9534
+    },
+    "sources": {
+      "officialWebsite": "https://hihostels.ca/en/destinations/british-columbia/hi-whistler",
+      "policyPage": "https://hihostels.ca/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:32:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-whistler-pangea-pod-hotel",
+    "name": "Pangea Pod Hotel",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 50.1145,
+      "lng": -122.9489
+    },
+    "sources": {
+      "officialWebsite": "https://www.pangeapod.com/",
+      "policyPage": "https://www.pangeapod.com/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T05:33:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-the-little-nell",
+    "name": "The Little Nell",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 39.1869,
+      "lng": -106.8189
+    },
+    "sources": {
+      "officialWebsite": "https://www.thelittlenell.com/",
+      "policyPage": "https://www.thelittlenell.com/hotel-policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:24:06Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-the-limelight-hotel-aspen",
+    "name": "The Limelight Hotel Aspen",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 39.1878,
+      "lng": -106.8198
+    },
+    "sources": {
+      "officialWebsite": "https://www.limelighthotels.com/aspen",
+      "policyPage": "https://www.limelighthotels.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:24:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-aspen-meadows-resort",
+    "name": "Aspen Meadows Resort",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 39.1823,
+      "lng": -106.8312
+    },
+    "sources": {
+      "officialWebsite": "https://www.aspenmeadows.com/",
+      "policyPage": "https://www.aspenmeadows.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:26:15Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-molly-gibson-lodge",
+    "name": "Molly Gibson Lodge",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 39.1889,
+      "lng": -106.8234
+    },
+    "sources": {
+      "officialWebsite": "https://www.mollygibson.com/",
+      "policyPage": "https://laretornable.com/puntos-de-venta/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:26:57Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-residences-at-the-little-nell",
+    "name": "Residences at The Little Nell",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 39.1871,
+      "lng": -106.8192
+    },
+    "sources": {
+      "officialWebsite": "https://www.thelittlenell.com/residences",
+      "policyPage": "https://www.thelittlenell.com/hotel-policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:29:03Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-aspen-square-condominium-hotel",
+    "name": "Aspen Square Condominium Hotel",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 39.1901,
+      "lng": -106.8201
+    },
+    "sources": {
+      "officialWebsite": "https://www.aspensquarehotel.com/",
+      "policyPage": "https://www.aspensquarehotel.com/condominiums/reservations-policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:30:15Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-limelight-hotel-snowmass",
+    "name": "Limelight Hotel Snowmass",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 39.2123,
+      "lng": -106.9378
+    },
+    "sources": {
+      "officialWebsite": "https://www.limelighthotels.com/snowmass",
+      "policyPage": "https://www.limelighthotels.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:30:29Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-mountain-chalet-aspen",
+    "name": "Mountain Chalet Aspen",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 39.1867,
+      "lng": -106.8234
+    },
+    "sources": {
+      "officialWebsite": "https://www.mountainchaletaspen.com/",
+      "policyPage": "https://www.mountainchaletaspen.com/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:46:03Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-tyrolean-lodge",
+    "name": "Tyrolean Lodge",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 39.1845,
+      "lng": -106.8256
+    },
+    "sources": {
+      "officialWebsite": "https://www.tyroleanlodge.com/",
+      "policyPage": "https://www.tyroleanlodge.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:46:45Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-aspen-wildwood-snowmass",
+    "name": "Wildwood Snowmass",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": 39.2145,
+      "lng": -106.9378
+    },
+    "sources": {
+      "officialWebsite": "https://www.wildwoodsnowmass.com/",
+      "policyPage": "https://www.viewlineresortsnowmass.com/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:47:59Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-huntley-lodge",
+    "name": "Huntley Lodge",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 45.2867,
+      "lng": -111.4034
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/huntley-lodge",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:13Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-summit-hotel",
+    "name": "Summit Hotel",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 45.2878,
+      "lng": -111.4045
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/summit-hotel",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:19Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-lone-mountain-ranch",
+    "name": "Lone Mountain Ranch",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 45.2689,
+      "lng": -111.4234
+    },
+    "sources": {
+      "officialWebsite": "https://www.lonemountainranch.com/",
+      "policyPage": "https://lonemountainranch.com/terms-of-service/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:25Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-big-sky-resort-village-center",
+    "name": "Big Sky Resort Village Center",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 45.2856,
+      "lng": -111.4056
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/village-center",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:29Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-shoshone-condominium-hotel",
+    "name": "Shoshone Condominium Hotel",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 45.2867,
+      "lng": -111.4067
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/shoshone",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:33Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-stillwater-condos",
+    "name": "Stillwater Condos",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 45.2878,
+      "lng": -111.4078
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/stillwater",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:38Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-beaverhead-condos",
+    "name": "Beaverhead Condos",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 45.2889,
+      "lng": -111.4089
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/beaverhead",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:06:44Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-rainbow-ranch-lodge",
+    "name": "Rainbow Ranch Lodge",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 45.2123,
+      "lng": -111.3567
+    },
+    "sources": {
+      "officialWebsite": "https://www.rainbowranch.net/",
+      "policyPage": "https://www.rainbowranch.net/Policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:07:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-big-ez-lodge",
+    "name": "Big EZ Lodge",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 45.2856,
+      "lng": -111.3523
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigezlodge.com/",
+      "policyPage": "https://www.bigezlodge.com/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:08:39Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-arrowhead-condominiums",
+    "name": "Arrowhead Condominiums",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 45.2845,
+      "lng": -111.4089
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/arrowhead",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:08:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-lake-condominiums",
+    "name": "Lake Condominiums",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 45.2834,
+      "lng": -111.4101
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/lake",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:08:47Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-powder-ridge-cabins",
+    "name": "Powder Ridge Cabins",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 45.2823,
+      "lng": -111.4112
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/powder-ridge",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:08:53Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-big-sky-resort-condominiums",
+    "name": "Big Sky Resort Condominiums",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 45.2856,
+      "lng": -111.4123
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:12:47Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-gallatin-river-lodge",
+    "name": "Gallatin River Lodge",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": 45.2156,
+      "lng": -111.3478
+    },
+    "sources": {
+      "officialWebsite": "https://www.grlodge.com/",
+      "policyPage": "https://grlodge.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:14:00Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-andesite-condominiums",
+    "name": "Andesite Condominiums",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 45.2867,
+      "lng": -111.4145
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/andesite",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:15:15Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-black-eagle-condos",
+    "name": "Black Eagle Condos",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 29,
+    "coordinates": {
+      "lat": 45.2878,
+      "lng": -111.4156
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/black-eagle",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:15:21Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-big-sky-silverbow-condominiums",
+    "name": "Silverbow Condominiums",
+    "town": "Big Sky",
+    "region": "Montana",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 30,
+    "coordinates": {
+      "lat": 45.2889,
+      "lng": -111.4167
+    },
+    "sources": {
+      "officialWebsite": "https://www.bigskyresort.com/stay/silverbow",
+      "policyPage": "https://www.bigskyresort.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:15:27Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-four-seasons-resort-jackson-hole",
+    "name": "Four Seasons Resort Jackson Hole",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 43.5875,
+      "lng": -110.8279
+    },
+    "sources": {
+      "officialWebsite": "https://www.fourseasons.com/jacksonhole/",
+      "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:21:43Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-amangani",
+    "name": "Amangani",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 43.4956,
+      "lng": -110.7834
+    },
+    "sources": {
+      "officialWebsite": "https://www.aman.com/resorts/amangani",
+      "policyPage": "https://www.aman.com/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:21:45Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-hotel-terra-jackson-hole",
+    "name": "Hotel Terra Jackson Hole",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 43.5867,
+      "lng": -110.8267
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelterrajacksonhole.com/",
+      "policyPage": "https://www.hotelterrajacksonhole.com/faqs/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:22:14Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-teton-mountain-lodge-spa",
+    "name": "Teton Mountain Lodge & Spa",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 43.5889,
+      "lng": -110.8289
+    },
+    "sources": {
+      "officialWebsite": "https://www.tetonlodge.com/",
+      "policyPage": "https://www.tetonlodge.com/faqs/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:22:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-the-wort-hotel",
+    "name": "The Wort Hotel",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 43.4801,
+      "lng": -110.7612
+    },
+    "sources": {
+      "officialWebsite": "https://www.worthotel.com/",
+      "policyPage": "https://www.worthotel.com/privacy-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:23:24Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-wyoming-inn-of-jackson-hole",
+    "name": "Wyoming Inn of Jackson Hole",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 43.4767,
+      "lng": -110.7634
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyominginn.com/",
+      "policyPage": "https://www.wyominginn.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:24:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-jackson-lake-lodge",
+    "name": "Jackson Lake Lodge",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 43.8556,
+      "lng": -110.6489
+    },
+    "sources": {
+      "officialWebsite": "https://www.gtlc.com/lodges/jackson-lake-lodge",
+      "policyPage": "https://www.gtlc.com/contact-us/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 11,
+      "childCharge": null,
+      "adultCharge": null,
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:27:10Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-jenny-lake-lodge",
+    "name": "Jenny Lake Lodge",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 43.7534,
+      "lng": -110.7234
+    },
+    "sources": {
+      "officialWebsite": "https://www.gtlc.com/lodges/jenny-lake-lodge",
+      "policyPage": "https://www.gtlc.com/contact-us/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 11,
+      "childCharge": null,
+      "adultCharge": null,
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:27:53Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-colter-bay-village",
+    "name": "Colter Bay Village",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 43.9012,
+      "lng": -110.6412
+    },
+    "sources": {
+      "officialWebsite": "https://www.gtlc.com/lodges/colter-bay-village",
+      "policyPage": "https://www.gtlc.com/contact-us/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 11,
+      "childCharge": null,
+      "adultCharge": null,
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:28:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-the-hostel",
+    "name": "The Hostel",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 43.5834,
+      "lng": -110.8234
+    },
+    "sources": {
+      "officialWebsite": "https://www.thehostel.us/",
+      "policyPage": "https://thehostel.us/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:28:54Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-parkway-inn",
+    "name": "Parkway Inn",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 43.4756,
+      "lng": -110.7678
+    },
+    "sources": {
+      "officialWebsite": "https://www.parkwayinn.com/",
+      "policyPage": "https://parkwayinn.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:29:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-jackson-hole-alpenhof-lodge",
+    "name": "Alpenhof Lodge",
+    "town": "Jackson Hole",
+    "region": "Wyoming",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 43.5856,
+      "lng": -110.8256
+    },
+    "sources": {
+      "officialWebsite": "https://www.alpenhoflodge.com/",
+      "policyPage": "https://www.alpenhoflodge.com/privacy-policy",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:34:48Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-the-landing-resort-spa",
+    "name": "The Landing Resort & Spa",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 38.9534,
+      "lng": -119.9623
+    },
+    "sources": {
+      "officialWebsite": "https://thelandingtahoe.com/",
+      "policyPage": "https://www.thelandingtahoe.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:40:06Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-granlibakken-tahoe",
+    "name": "Granlibakken Tahoe",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 39.1456,
+      "lng": -120.1423
+    },
+    "sources": {
+      "officialWebsite": "https://www.granlibakken.com/",
+      "policyPage": "https://www.granlibakken.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:41:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-cedar-house-sport-hotel",
+    "name": "Cedar House Sport Hotel",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 39.3212,
+      "lng": -120.1789
+    },
+    "sources": {
+      "officialWebsite": "https://www.cedarhousesporthotel.com/",
+      "policyPage": "https://gravityhaus.com/locations/gravity-haus-truckee-tahoe",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:41:43Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-harrahs-lake-tahoe",
+    "name": "Harrah's Lake Tahoe",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 38.9567,
+      "lng": -119.9401
+    },
+    "sources": {
+      "officialWebsite": "https://www.caesars.com/harrahs-tahoe",
+      "policyPage": "https://www.caesars.com/?originalrequest=%2Fpolicies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:51:23Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-harveys-lake-tahoe",
+    "name": "Harveys Lake Tahoe",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 17,
+    "coordinates": {
+      "lat": 38.9578,
+      "lng": -119.9423
+    },
+    "sources": {
+      "officialWebsite": "https://www.caesars.com/harveys-tahoe",
+      "policyPage": "https://www.caesars.com/?originalrequest=%2Fpolicies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:51:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-forest-suites-resort",
+    "name": "Forest Suites Resort",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 38.9612,
+      "lng": -119.9456
+    },
+    "sources": {
+      "officialWebsite": "https://www.forestsuites.com/",
+      "policyPage": "https://www.forestsuites.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:54:21Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-basecamp-tahoe-city",
+    "name": "Basecamp Tahoe City",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 39.1701,
+      "lng": -120.1456
+    },
+    "sources": {
+      "officialWebsite": "https://basecamphotels.com/tahoe-city/",
+      "policyPage": "https://basecamphotels.com/legal/privacy",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:00:34Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-lake-tahoe-days-inn-south-lake-tahoe",
+    "name": "Days Inn South Lake Tahoe",
+    "town": "Lake Tahoe",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 30,
+    "coordinates": {
+      "lat": 38.9456,
+      "lng": -119.9567
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/days-inn/south-lake-tahoe-california/days-inn-south-lake-tahoe/overview",
+      "policyPage": "https://www.wyndhamhotels.com/days-inn/south-lake-tahoe-california/days-inn-south-lake-tahoe/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:03:02Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-shilo-inn-suites-mammoth-lakes",
+    "name": "Shilo Inn Suites Mammoth Lakes",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 37.6534,
+      "lng": -118.9656
+    },
+    "sources": {
+      "officialWebsite": "https://www.shiloinns.com/mammoth-lakes.html",
+      "policyPage": "https://www.shiloinns.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:08:54Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-innsbruck-lodge",
+    "name": "Innsbruck Lodge",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 37.6445,
+      "lng": -118.9767
+    },
+    "sources": {
+      "officialWebsite": "https://www.innsbrucklodge.com/",
+      "policyPage": "https://www.dropcatch.com/domain/innsbrucklodge.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:08:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-cinnamon-bear-inn",
+    "name": "Cinnamon Bear Inn",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 37.6467,
+      "lng": -118.9745
+    },
+    "sources": {
+      "officialWebsite": "https://www.cinnamonbearinn.com/",
+      "policyPage": "https://www.cinnamonbearinn.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [
+      {
+        "name": "Pet Fee",
+        "amount": "$22.50",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:08:58Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "usa-mammoth-lakes-convict-lake-resort",
+    "name": "Convict Lake Resort",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 37.5889,
+      "lng": -118.8567
+    },
+    "sources": {
+      "officialWebsite": "https://www.convictlake.com/",
+      "policyPage": "https://convictlake.com/lodging/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:10:16Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-snowcreek-resort",
+    "name": "Snowcreek Resort",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 37.6345,
+      "lng": -118.9567
+    },
+    "sources": {
+      "officialWebsite": "https://www.snowcreekresort.com/",
+      "policyPage": "https://www.snowcreekresort.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:12:35Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-motel-6-mammoth-lakes",
+    "name": "Motel 6 Mammoth Lakes",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 37.6556,
+      "lng": -118.9634
+    },
+    "sources": {
+      "officialWebsite": "https://www.motel6.com/en/home/motels.ca.mammoth-lakes.html",
+      "policyPage": "https://www.motel6.com/terms/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:14:06Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-chamonix-condominiums",
+    "name": "Chamonix Condominiums",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": 37.6434,
+      "lng": -118.9778
+    },
+    "sources": {
+      "officialWebsite": "https://www.chamonixmammoth.com/",
+      "policyPage": "https://chamonixmammoth.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:15:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-mammoth-lakes-mammoth-estates",
+    "name": "Mammoth Estates",
+    "town": "Mammoth Lakes",
+    "region": "California",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 30,
+    "coordinates": {
+      "lat": 37.6489,
+      "lng": -118.9689
+    },
+    "sources": {
+      "officialWebsite": "https://www.mammothestates.com/",
+      "policyPage": "https://mammothestates.com/visiting-mammoth/weather-and-road-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:18:29Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-stein-eriksen-lodge-deer-valley",
+    "name": "Stein Eriksen Lodge Deer Valley",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 40.6234,
+      "lng": -111.4878
+    },
+    "sources": {
+      "officialWebsite": "https://www.steinlodge.com/",
+      "policyPage": "https://www.steinlodge.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:06:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-westgate-park-city-resort",
+    "name": "Westgate Park City Resort",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 40.6789,
+      "lng": -111.4512
+    },
+    "sources": {
+      "officialWebsite": "https://www.westgateresorts.com/hotels/utah/park-city/westgate-park-city-resort-spa/",
+      "policyPage": "https://www.westgateresorts.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:09:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-black-diamond-lodge",
+    "name": "Black Diamond Lodge",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 40.6267,
+      "lng": -111.4912
+    },
+    "sources": {
+      "officialWebsite": "https://www.blackdiamondlodge.com/",
+      "policyPage": "https://www.blackdiamondlodge.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:13:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-holiday-inn-express-park-city",
+    "name": "Holiday Inn Express Park City",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 40.6623,
+      "lng": -111.4923
+    },
+    "sources": {
+      "officialWebsite": "https://www.ihg.com/holidayinnexpress/hotels/us/en/park-city/slcpc/hoteldetail",
+      "policyPage": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:15:57Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-all-seasons-resort-lodging",
+    "name": "All Seasons Resort Lodging",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 22,
+    "coordinates": {
+      "lat": 40.6456,
+      "lng": -111.4978
+    },
+    "sources": {
+      "officialWebsite": "https://www.allseasonsresortlodging.com/",
+      "policyPage": "https://www.allseasonsresortlodging.com/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:16:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-park-city-shadow-ridge-resort-hotel",
+    "name": "Shadow Ridge Resort Hotel",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 40.6523,
+      "lng": -111.4945
+    },
+    "sources": {
+      "officialWebsite": "https://www.shadowridgeresort.com/",
+      "policyPage": "https://www.allseasonsresortlodging.com/park-city/rentals/shadow-ridge-resort-hotel/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:16:50Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-topnotch-resort",
+    "name": "Topnotch Resort",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 44.4934,
+      "lng": -72.7412
+    },
+    "sources": {
+      "officialWebsite": "https://www.topnotchresort.com/",
+      "policyPage": "https://www.topnotchresort.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:19:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-trapp-family-lodge",
+    "name": "Trapp Family Lodge",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 44.4623,
+      "lng": -72.7567
+    },
+    "sources": {
+      "officialWebsite": "https://www.trappfamily.com/",
+      "policyPage": "https://www.vontrappresort.com/villa-rental-agreement.htm",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:19:51Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-stoweflake-mountain-resort-spa",
+    "name": "Stoweflake Mountain Resort & Spa",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 6,
+    "coordinates": {
+      "lat": 44.4712,
+      "lng": -72.6934
+    },
+    "sources": {
+      "officialWebsite": "https://www.stoweflake.com/",
+      "policyPage": "https://stoweflake.com/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:21:28Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-green-mountain-inn",
+    "name": "Green Mountain Inn",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 44.4634,
+      "lng": -72.6856
+    },
+    "sources": {
+      "officialWebsite": "https://www.greenmountaininn.com/",
+      "policyPage": "https://www.greenmountaininn.com/discover-the-inn/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:22:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-stowehof-inn",
+    "name": "Stowehof Inn",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 44.4756,
+      "lng": -72.7123
+    },
+    "sources": {
+      "officialWebsite": "https://www.stowehof.com/",
+      "policyPage": "https://www.stowehof.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:23:20Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-smugglers-notch-resort",
+    "name": "Smugglers Notch Resort",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 44.5867,
+      "lng": -72.7856
+    },
+    "sources": {
+      "officialWebsite": "https://www.smuggs.com/",
+      "policyPage": "https://www.smuggs.com/resort-info/resort-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:25:19Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-innsbruck-inn-at-stowe",
+    "name": "Innsbruck Inn at Stowe",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 44.4834,
+      "lng": -72.7178
+    },
+    "sources": {
+      "officialWebsite": "https://www.innsbruckinn.com/",
+      "policyPage": "https://www.innsbruckinn.com/hotel-policies.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:27:50Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-stowe-motel-snowdrift",
+    "name": "Stowe Motel & Snowdrift",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 44.4856,
+      "lng": -72.7201
+    },
+    "sources": {
+      "officialWebsite": "https://www.stowemotel.com/",
+      "policyPage": "https://www.stowemotel.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:28:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-timberholm-inn",
+    "name": "Timberholm Inn",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 44.4756,
+      "lng": -72.6978
+    },
+    "sources": {
+      "officialWebsite": "https://www.timberholm.com/",
+      "policyPage": "https://timberholm.com/inn-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:31:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-stowe-cabins-in-the-woods",
+    "name": "Stowe Cabins in the Woods",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": 44.4612,
+      "lng": -72.6834
+    },
+    "sources": {
+      "officialWebsite": "https://www.stowecabins.com/",
+      "policyPage": "https://stowecabins.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:31:34Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-brass-lantern-inn",
+    "name": "Brass Lantern Inn",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 44.4623,
+      "lng": -72.6823
+    },
+    "sources": {
+      "officialWebsite": "https://www.brasslanterninn.com/",
+      "policyPage": "https://www.brasslanterninn.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:31:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-stowe-stone-hill-inn",
+    "name": "Stone Hill Inn",
+    "town": "Stowe",
+    "region": "Vermont",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 29,
+    "coordinates": {
+      "lat": 44.4701,
+      "lng": -72.6901
+    },
+    "sources": {
+      "officialWebsite": "https://www.stonehillinn.com/",
+      "policyPage": "https://www.stonehillinn.com/lodging-in-stowe-vermont.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:32:16Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-sun-valley-lodge",
+    "name": "Sun Valley Lodge",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 43.6823,
+      "lng": -114.3523
+    },
+    "sources": {
+      "officialWebsite": "https://www.sunvalley.com/lodging/sun-valley-lodge",
+      "policyPage": "https://www.sunvalley.com/the-mountain/mountain-report/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:15:40Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-sun-valley-inn",
+    "name": "Sun Valley Inn",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 43.6834,
+      "lng": -114.3534
+    },
+    "sources": {
+      "officialWebsite": "https://www.sunvalley.com/lodging/sun-valley-inn",
+      "policyPage": "https://www.sunvalley.com/the-mountain/mountain-report/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:15:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-limelight-hotel-ketchum",
+    "name": "Limelight Hotel Ketchum",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 43.6812,
+      "lng": -114.3612
+    },
+    "sources": {
+      "officialWebsite": "https://www.limelighthotels.com/ketchum",
+      "policyPage": "https://www.limelighthotels.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:16:13Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-knob-hill-inn",
+    "name": "Knob Hill Inn",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 43.6801,
+      "lng": -114.3623
+    },
+    "sources": {
+      "officialWebsite": "https://www.knobhillinn.com/",
+      "policyPage": "https://www.knobhillinn.com/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:16:16Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-tamarack-lodge",
+    "name": "Tamarack Lodge",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 43.6756,
+      "lng": -114.3667
+    },
+    "sources": {
+      "officialWebsite": "https://www.tamaracksunvalley.com/",
+      "policyPage": "https://www.tamaracksunvalley.com/pet-policy.htm",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:18:52Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-sun-valley-cottages",
+    "name": "Sun Valley Cottages",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 43.6845,
+      "lng": -114.3512
+    },
+    "sources": {
+      "officialWebsite": "https://www.sunvalley.com/lodging/cottages",
+      "policyPage": "https://www.sunvalley.com/the-mountain/mountain-report/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:20:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-river-street-inn",
+    "name": "River Street Inn",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 43.6712,
+      "lng": -114.3712
+    },
+    "sources": {
+      "officialWebsite": "https://www.riverstreetinn.com/",
+      "policyPage": "https://www.riverstreetinn.com/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:23:18Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-americinn-by-wyndham-hailey",
+    "name": "AmericInn by Wyndham Hailey",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 23,
+    "coordinates": {
+      "lat": 43.5178,
+      "lng": -114.3156
+    },
+    "sources": {
+      "officialWebsite": "https://www.wyndhamhotels.com/americinn/hailey-idaho/americinn-lodge-suites-hailey-sun-valley/overview",
+      "policyPage": "https://www.wyndhamhotels.com/americinn/hailey-idaho/americinn-lodge-suites-hailey-sun-valley/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:27:45Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-sun-valley-condominiums",
+    "name": "Sun Valley Condominiums",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 24,
+    "coordinates": {
+      "lat": 43.6856,
+      "lng": -114.3501
+    },
+    "sources": {
+      "officialWebsite": "https://www.sunvalley.com/lodging/condos",
+      "policyPage": "https://www.sunvalley.com/the-mountain/mountain-report/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:28:00Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-sun-valley-penny-lane-lodge",
+    "name": "Penny Lane Lodge",
+    "town": "Sun Valley",
+    "region": "Idaho",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": 43.6712,
+      "lng": -114.3723
+    },
+    "sources": {
+      "officialWebsite": "https://www.pennylanelodge.com/",
+      "policyPage": "https://www.pennylanelodge.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:29:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-the-peaks-resort-spa",
+    "name": "The Peaks Resort & Spa",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 37.9345,
+      "lng": -107.8134
+    },
+    "sources": {
+      "officialWebsite": "https://www.thepeaksresort.com/",
+      "policyPage": "https://www.thepeaksresort.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:33:09Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-lumiere-telluride",
+    "name": "Lumiere Telluride",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 37.9367,
+      "lng": -107.8112
+    },
+    "sources": {
+      "officialWebsite": "https://www.lumieretelluride.com/",
+      "policyPage": "https://www.duntondestinations.com/river-camp/frequently-asked-questions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:33:54Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-mountain-lodge-at-telluride",
+    "name": "Mountain Lodge at Telluride",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 37.9412,
+      "lng": -107.8067
+    },
+    "sources": {
+      "officialWebsite": "https://www.mountainlodgetelluride.com/",
+      "policyPage": "https://www.mountainlodgetelluride.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:36:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-inn-at-lost-creek",
+    "name": "Inn at Lost Creek",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 37.9367,
+      "lng": -107.8123
+    },
+    "sources": {
+      "officialWebsite": "https://www.innatlostcreek.com/",
+      "policyPage": "https://www.innatlostcreek.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:36:25Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-the-victorian-inn",
+    "name": "The Victorian Inn",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 37.9378,
+      "lng": -107.8112
+    },
+    "sources": {
+      "officialWebsite": "https://www.victorianinntelluride.com/",
+      "policyPage": "https://www.victorianinntelluride.com/faqs",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T08:37:07Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-telluride-etta-place",
+    "name": "Etta Place",
+    "town": "Telluride",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 37.9378,
+      "lng": -107.8134
+    },
+    "sources": {
+      "officialWebsite": "https://www.ettaplace.com/",
+      "policyPage": "https://www.ettaplace.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T09:03:40Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-four-seasons-resort-vail",
+    "name": "Four Seasons Resort Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 39.6403,
+      "lng": -106.3742
+    },
+    "sources": {
+      "officialWebsite": "https://www.fourseasons.com/vail/",
+      "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:51:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-the-sebastian-vail",
+    "name": "The Sebastian Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 39.6412,
+      "lng": -106.3756
+    },
+    "sources": {
+      "officialWebsite": "https://www.thesebastianvail.com/",
+      "policyPage": "https://www.thesebastianvail.com/real-estate/faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:52:14Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-sonnenalp-vail",
+    "name": "Sonnenalp Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 39.6389,
+      "lng": -106.3734
+    },
+    "sources": {
+      "officialWebsite": "https://www.sonnenalp.com/",
+      "policyPage": "https://sonnenalp.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:52:51Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-tivoli-lodge",
+    "name": "Tivoli Lodge",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 39.6387,
+      "lng": -106.3723
+    },
+    "sources": {
+      "officialWebsite": "https://www.tivolilodge.com/",
+      "policyPage": "https://tivolilodge.com/frequently-asked-questions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:56:34Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-evergreen-lodge-at-vail",
+    "name": "Evergreen Lodge at Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 39.6378,
+      "lng": -106.3689
+    },
+    "sources": {
+      "officialWebsite": "https://www.evergreenvail.com/",
+      "policyPage": "https://evergreenvail.com/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:57:35Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-sitzmark-lodge",
+    "name": "Sitzmark Lodge",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 39.6389,
+      "lng": -106.3767
+    },
+    "sources": {
+      "officialWebsite": "https://www.sitzmarklodge.com/",
+      "policyPage": "https://sitzmarkvail.com/policies-faq/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:57:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-vail-cascade-resort",
+    "name": "Vail Cascade Resort",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 39.6423,
+      "lng": -106.3545
+    },
+    "sources": {
+      "officialWebsite": "https://www.vail.com/plan-your-trip/stay/vail-cascade",
+      "policyPage": "https://www.vail.com/policies",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:58:18Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-antlers-at-vail",
+    "name": "Antlers at Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 39.6401,
+      "lng": -106.3612
+    },
+    "sources": {
+      "officialWebsite": "https://www.antlersvail.com/",
+      "policyPage": "https://antlersvail.com/about-antlers/faqs/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:58:42Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-lion-square-lodge",
+    "name": "Lion Square Lodge",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 39.6412,
+      "lng": -106.3567
+    },
+    "sources": {
+      "officialWebsite": "https://www.lionsquare.com/",
+      "policyPage": "https://lionsquarelodge.com?partnerid=716",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:59:21Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-montaneros-condominiums",
+    "name": "Montaneros Condominiums",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 39.6423,
+      "lng": -106.3578
+    },
+    "sources": {
+      "officialWebsite": "https://www.montaneros.com/",
+      "policyPage": "https://www.montaneros.com/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:59:36Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-the-christie-lodge",
+    "name": "The Christie Lodge",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 20,
+    "coordinates": {
+      "lat": 39.6401,
+      "lng": -106.3623
+    },
+    "sources": {
+      "officialWebsite": "https://www.christielodge.com/",
+      "policyPage": "https://www.christielodge.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T06:59:40Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "usa-vail-simba-run-vail-condominiums",
+    "name": "Simba Run Vail Condominiums",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 27,
+    "coordinates": {
+      "lat": 39.6489,
+      "lng": -106.3489
+    },
+    "sources": {
+      "officialWebsite": "https://www.simbarun.com/",
+      "policyPage": "https://simbarun.com/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T07:03:39Z",
     "scrapingNotes": "No taxes or fees found on policy page"
   }
 ]

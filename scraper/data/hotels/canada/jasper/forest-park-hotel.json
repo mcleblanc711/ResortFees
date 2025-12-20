@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-forest-park-hotel",
+  "name": "Forest Park Hotel",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 27,
+  "coordinates": {
+    "lat": 52.8789,
+    "lng": -118.0856
+  },
+  "sources": {
+    "officialWebsite": "https://www.forestparkhotel.ca/",
+    "policyPage": "https://www.banffjaspercollection.com/hotels/forest-park-hotel/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:12:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

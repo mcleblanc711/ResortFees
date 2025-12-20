@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-molly-gibson-lodge",
+  "name": "Molly Gibson Lodge",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 39.1889,
+    "lng": -106.8234
+  },
+  "sources": {
+    "officialWebsite": "https://www.mollygibson.com/",
+    "policyPage": "https://laretornable.com/puntos-de-venta/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:26:57Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

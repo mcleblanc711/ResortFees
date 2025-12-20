@@ -1,0 +1,26 @@
+{
+  "id": "usa-mammoth-lakes-innsbruck-lodge",
+  "name": "Innsbruck Lodge",
+  "town": "Mammoth Lakes",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": 37.6445,
+    "lng": -118.9767
+  },
+  "sources": {
+    "officialWebsite": "https://www.innsbrucklodge.com/",
+    "policyPage": "https://www.dropcatch.com/domain/innsbrucklodge.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:08:55Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

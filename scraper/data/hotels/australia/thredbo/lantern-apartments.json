@@ -1,0 +1,26 @@
+{
+  "id": "australia-thredbo-lantern-apartments",
+  "name": "Lantern Apartments",
+  "town": "Thredbo",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": -36.499,
+    "lng": 148.3023
+  },
+  "sources": {
+    "officialWebsite": "https://www.lanternapartments.com.au/",
+    "policyPage": "https://www.lanternapartments.com.au/terms-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:35:15Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "usa-jackson-hole-jenny-lake-lodge",
+  "name": "Jenny Lake Lodge",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 43.7534,
+    "lng": -110.7234
+  },
+  "sources": {
+    "officialWebsite": "https://www.gtlc.com/lodges/jenny-lake-lodge",
+    "policyPage": "https://www.gtlc.com/contact-us/policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": 11,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": null
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:27:53Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-adara-hotel",
+  "name": "Adara Hotel",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": 50.1134,
+    "lng": -122.9456
+  },
+  "sources": {
+    "officialWebsite": "https://www.adarahotel.com/",
+    "policyPage": "https://www.adarahotel.com/about-us",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:27:04Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

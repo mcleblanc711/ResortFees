@@ -1,0 +1,26 @@
+{
+  "id": "usa-mammoth-lakes-motel-6-mammoth-lakes",
+  "name": "Motel 6 Mammoth Lakes",
+  "town": "Mammoth Lakes",
+  "region": "California",
+  "country": "USA",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 22,
+  "coordinates": {
+    "lat": 37.6556,
+    "lng": -118.9634
+  },
+  "sources": {
+    "officialWebsite": "https://www.motel6.com/en/home/motels.ca.mammoth-lakes.html",
+    "policyPage": "https://www.motel6.com/terms/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:14:06Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

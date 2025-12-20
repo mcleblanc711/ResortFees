@@ -1,0 +1,26 @@
+{
+  "id": "australia-falls-creek-silverski-boutique-hotel",
+  "name": "Silverski Boutique Hotel",
+  "town": "Falls Creek",
+  "region": "Victoria",
+  "country": "Australia",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": -36.8712,
+    "lng": 147.2834
+  },
+  "sources": {
+    "officialWebsite": "https://www.silverski.com.au/",
+    "policyPage": "https://www.silverski.com.au/faq/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:54:57Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

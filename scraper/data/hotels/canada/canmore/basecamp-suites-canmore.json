@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-basecamp-suites-canmore",
+  "name": "Basecamp Suites Canmore",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 51.0886,
+    "lng": -115.3498
+  },
+  "sources": {
+    "officialWebsite": "https://basecampresorts.com/canmore/",
+    "policyPage": "https://basecampresorts.com/privacy-policy",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T04:48:56Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

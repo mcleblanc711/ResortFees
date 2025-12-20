@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-fairmont-jasper-park-lodge",
+  "name": "Fairmont Jasper Park Lodge",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 52.8851,
+    "lng": -118.0558
+  },
+  "sources": {
+    "officialWebsite": "https://www.fairmont.com/jasper/",
+    "policyPage": "https://www.fairmont.com/en/hotels/jasper/fairmont-jasper-park-lodge/guest-services.html#faq-accessibility",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:01:56Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

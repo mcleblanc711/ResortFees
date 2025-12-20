@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-maligne-lodge",
+  "name": "Maligne Lodge",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 52.8712,
+    "lng": -118.0745
+  },
+  "sources": {
+    "officialWebsite": "https://www.malignelodge.com/",
+    "policyPage": "https://decorehotels.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:08:53Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

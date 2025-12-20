@@ -1,0 +1,26 @@
+{
+  "id": "usa-jackson-hole-alpenhof-lodge",
+  "name": "Alpenhof Lodge",
+  "town": "Jackson Hole",
+  "region": "Wyoming",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 43.5856,
+    "lng": -110.8256
+  },
+  "sources": {
+    "officialWebsite": "https://www.alpenhoflodge.com/",
+    "policyPage": "https://www.alpenhoflodge.com/privacy-policy",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T07:34:48Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-pan-pacific-whistler-mountainside",
+  "name": "Pan Pacific Whistler Mountainside",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 50.1123,
+    "lng": -122.9545
+  },
+  "sources": {
+    "officialWebsite": "https://www.panpacific.com/whistler-mountainside/",
+    "policyPage": "https://www.panpacific.com/en/data-protection-policy.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:24:12Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

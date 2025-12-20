@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-stone-hill-inn",
+  "name": "Stone Hill Inn",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 29,
+  "coordinates": {
+    "lat": 44.4701,
+    "lng": -72.6901
+  },
+  "sources": {
+    "officialWebsite": "https://www.stonehillinn.com/",
+    "policyPage": "https://www.stonehillinn.com/lodging-in-stowe-vermont.html",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:32:16Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

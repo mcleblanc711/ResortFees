@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-snowbridge",
+  "name": "Snowbridge",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 44.4978,
+    "lng": -80.3123
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/snowbridge",
+    "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:11:33Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

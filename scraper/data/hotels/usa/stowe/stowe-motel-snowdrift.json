@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-stowe-motel-snowdrift",
+  "name": "Stowe Motel & Snowdrift",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 44.4856,
+    "lng": -72.7201
+  },
+  "sources": {
+    "officialWebsite": "https://www.stowemotel.com/",
+    "policyPage": "https://www.stowemotel.com/policies",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:28:30Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

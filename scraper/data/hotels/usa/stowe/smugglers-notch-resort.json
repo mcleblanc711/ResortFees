@@ -1,0 +1,26 @@
+{
+  "id": "usa-stowe-smugglers-notch-resort",
+  "name": "Smugglers Notch Resort",
+  "town": "Stowe",
+  "region": "Vermont",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": 44.5867,
+    "lng": -72.7856
+  },
+  "sources": {
+    "officialWebsite": "https://www.smuggs.com/",
+    "policyPage": "https://www.smuggs.com/resort-info/resort-policies/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:25:19Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

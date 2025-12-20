@@ -1,0 +1,26 @@
+{
+  "id": "usa-telluride-lumiere-telluride",
+  "name": "Lumiere Telluride",
+  "town": "Telluride",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 37.9367,
+    "lng": -107.8112
+  },
+  "sources": {
+    "officialWebsite": "https://www.lumieretelluride.com/",
+    "policyPage": "https://www.duntondestinations.com/river-camp/frequently-asked-questions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T08:33:54Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

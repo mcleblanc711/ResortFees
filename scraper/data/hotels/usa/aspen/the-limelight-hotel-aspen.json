@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-the-limelight-hotel-aspen",
+  "name": "The Limelight Hotel Aspen",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 39.1878,
+    "lng": -106.8198
+  },
+  "sources": {
+    "officialWebsite": "https://www.limelighthotels.com/aspen",
+    "policyPage": "https://www.limelighthotels.com/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T06:24:55Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

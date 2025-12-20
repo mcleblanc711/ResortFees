@@ -1,0 +1,26 @@
+{
+  "id": "australia-falls-creek-falls-creek-country-club",
+  "name": "Falls Creek Country Club",
+  "town": "Falls Creek",
+  "region": "Victoria",
+  "country": "Australia",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": -36.8789,
+    "lng": 147.2912
+  },
+  "sources": {
+    "officialWebsite": "https://www.fallscreekcountryclub.com.au/",
+    "policyPage": "https://fallscreekcountryclub.com.au/about/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T10:02:38Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

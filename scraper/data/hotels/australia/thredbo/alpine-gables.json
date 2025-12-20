@@ -1,0 +1,26 @@
+{
+  "id": "australia-thredbo-alpine-gables",
+  "name": "Alpine Gables",
+  "town": "Thredbo",
+  "region": "New South Wales",
+  "country": "Australia",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": -36.4979,
+    "lng": 148.3012
+  },
+  "sources": {
+    "officialWebsite": "https://www.alpinegables.com.au/",
+    "policyPage": "https://alpinegables.com.au/home",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T09:35:55Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

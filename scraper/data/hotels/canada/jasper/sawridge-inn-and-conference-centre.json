@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-sawridge-inn-and-conference-centre",
+  "name": "Sawridge Inn and Conference Centre",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 52.8734,
+    "lng": -118.0823
+  },
+  "sources": {
+    "officialWebsite": "https://www.sawridgeinn.com/jasper/",
+    "policyPage": "https://www.banffjaspercollection.com/hotels/forest-park-hotel/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T05:01:57Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}
