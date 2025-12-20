@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-banff-aspen-lodge",
+  "name": "Banff Aspen Lodge",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 51.1754,
+    "lng": -115.5702
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffaspenlodge.com/",
+    "policyPage": "https://www.banffaspenlodge.com/terms-and-conditions",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T02:48:59Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

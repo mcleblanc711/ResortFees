@@ -1,0 +1,131 @@
+# Scraping Configuration
+
+rate_limiting:
+  min_delay_seconds: 2
+  max_delay_seconds: 4
+  backoff_factor: 2
+  max_retries: 3
+
+request:
+  timeout_seconds: 30
+  max_redirects: 5
+
+hotels_per_town: 30
+
+# Policy page URL patterns to look for
+policy_patterns:
+  - "/policy"
+  - "/policies"
+  - "/terms"
+  - "/conditions"
+  - "/terms-and-conditions"
+  - "/hotel-policies"
+  - "/guest-information"
+  - "/guest-info"
+  - "/faq"
+  - "/info"
+  - "/about"
+  - "/rates"
+
+# Keywords to identify policy content
+policy_keywords:
+  taxes:
+    - "tax"
+    - "levy"
+    - "GST"
+    - "VAT"
+    - "tourism fee"
+    - "destination fee"
+    - "city tax"
+    - "lodging tax"
+    - "occupancy tax"
+  fees:
+    - "resort fee"
+    - "amenity fee"
+    - "facility fee"
+    - "parking"
+    - "pet fee"
+    - "cleaning fee"
+    - "service charge"
+    - "early check-in"
+    - "late check-out"
+    - "cancellation"
+    - "environmental fee"
+  extra_person:
+    - "extra person"
+    - "additional guest"
+    - "extra adult"
+    - "extra child"
+    - "children free"
+    - "kids stay free"
+    - "maximum occupancy"
+    - "rollaway"
+    - "crib"
+  damage_deposit:
+    - "damage deposit"
+    - "security deposit"
+    - "incidental"
+    - "pre-authorization"
+    - "credit card hold"
+
+# Market segment classification keywords
+market_segments:
+  luxury:
+    keywords:
+      - "5-star"
+      - "five star"
+      - "luxury"
+      - "premier"
+      - "exclusive"
+    brands:
+      - "Four Seasons"
+      - "Ritz-Carlton"
+      - "St. Regis"
+      - "Fairmont"
+      - "Mandarin Oriental"
+      - "Aman"
+      - "Park Hyatt"
+  upscale:
+    keywords:
+      - "4-star"
+      - "four star"
+      - "boutique"
+      - "upscale"
+    brands:
+      - "Marriott"
+      - "Hilton"
+      - "Hyatt Regency"
+      - "Westin"
+      - "Sheraton"
+      - "InterContinental"
+  upper_midscale:
+    keywords:
+      - "3.5-star"
+    brands:
+      - "Courtyard"
+      - "Hyatt Place"
+      - "Hampton Inn"
+      - "Hilton Garden Inn"
+  midscale:
+    keywords:
+      - "3-star"
+      - "three star"
+    brands:
+      - "Holiday Inn"
+      - "Best Western"
+      - "Ramada"
+      - "Wyndham"
+  economy:
+    keywords:
+      - "2-star"
+      - "budget"
+      - "motel"
+    brands:
+      - "Motel 6"
+      - "Super 8"
+      - "Days Inn"
+      - "Travelodge"
+
+output:
+  json_indent: 2
+  datetime_format: "%Y-%m-%dT%H:%M:%SZ"

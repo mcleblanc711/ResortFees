@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-rimrock-resort-hotel",
+  "name": "Rimrock Resort Hotel",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 51.1546,
+    "lng": -115.5856
+  },
+  "sources": {
+    "officialWebsite": "https://www.rimrockresort.com/",
+    "policyPage": "https://www.rimrockresort.com/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-20T02:47:32Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

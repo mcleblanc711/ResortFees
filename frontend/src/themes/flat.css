@@ -1,0 +1,150 @@
+/* Flat Design Theme - Bold colors, no gradients or shadows, geometric shapes */
+
+:root[data-theme="flat"] {
+  /* Fonts */
+  --font-body: 'DM Sans', 'Work Sans', system-ui, -apple-system, sans-serif;
+  --font-heading: 'DM Sans', 'Work Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  /* Bold, solid colors */
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f8fafc;
+  --color-bg-card: #ffffff;
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #475569;
+  --color-text-muted: #94a3b8;
+  --color-accent: #0ea5e9;
+  --color-accent-hover: #0284c7;
+  --color-border: #e2e8f0;
+  --color-success: #10b981;
+  --color-warning: #f97316;
+  --color-error: #ef4444;
+
+  /* No shadows in flat design */
+  --shadow-sm: none;
+  --shadow-md: none;
+  --shadow-lg: none;
+
+  /* Sharp corners */
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 0;
+  --radius-xl: 0;
+}
+
+/* Bold borders instead of shadows */
+:root[data-theme="flat"] .filter-panel,
+:root[data-theme="flat"] .stats-panel,
+:root[data-theme="flat"] .hotel-card {
+  border: 3px solid #0f172a;
+  box-shadow: none;
+}
+
+:root[data-theme="flat"] .hotel-card:hover {
+  border-color: var(--color-accent);
+  transform: none;
+  box-shadow: none;
+}
+
+:root[data-theme="flat"] .app-header {
+  border-bottom: 3px solid #0f172a;
+}
+
+:root[data-theme="flat"] .app-footer {
+  border-top: 3px solid #0f172a;
+}
+
+:root[data-theme="flat"] .modal-content {
+  border: 3px solid #0f172a;
+  box-shadow: 8px 8px 0 #0f172a;
+}
+
+:root[data-theme="flat"] .modal-overlay {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: none;
+}
+
+:root[data-theme="flat"] .theme-btn {
+  border: 2px solid #0f172a;
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .theme-btn.active {
+  background: #0ea5e9;
+  color: white;
+  box-shadow: 4px 4px 0 #0f172a;
+}
+
+:root[data-theme="flat"] .segment-badge {
+  border-radius: 0;
+  border: 2px solid #0f172a;
+  font-weight: 800;
+}
+
+:root[data-theme="flat"] .segment-pill {
+  border: 2px solid #0f172a;
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .segment-pill.active {
+  background: #0ea5e9;
+  box-shadow: 3px 3px 0 #0f172a;
+}
+
+:root[data-theme="flat"] .search-input {
+  border: 2px solid #0f172a;
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .search-input:focus {
+  box-shadow: 4px 4px 0 #0ea5e9;
+}
+
+:root[data-theme="flat"] .checkbox-custom {
+  border-radius: 0;
+  border-width: 2px;
+}
+
+:root[data-theme="flat"] .stat-block {
+  border: 2px solid #0f172a;
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .policy-source {
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .policy-link {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+:root[data-theme="flat"] .item-row {
+  border: 2px solid var(--color-border);
+  border-radius: 0;
+}
+
+:root[data-theme="flat"] .clear-filters-btn {
+  border: 2px solid #0f172a;
+  border-radius: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+:root[data-theme="flat"] .clear-filters-btn:hover {
+  box-shadow: 3px 3px 0 #0f172a;
+}
+
+:root[data-theme="flat"] h1,
+:root[data-theme="flat"] h2,
+:root[data-theme="flat"] h3 {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+:root[data-theme="flat"] .modal-close {
+  border-radius: 0;
+  border: 2px solid #0f172a;
+}

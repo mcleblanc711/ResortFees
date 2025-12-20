@@ -1,0 +1,659 @@
+[
+  {
+    "id": "canada-banff-fairmont-banff-springs",
+    "name": "Fairmont Banff Springs",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 51.1679, "lng": -115.5595 },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/banff-springs/",
+      "policyPage": "https://www.fairmont.com/banff-springs/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Tourism Levy",
+        "amount": "4%",
+        "basis": "per night",
+        "notes": "Alberta Tourism Levy"
+      },
+      {
+        "name": "GST",
+        "amount": "5%",
+        "basis": "per night",
+        "notes": "Federal Goods and Services Tax"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$40.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Pool Access", "In-room Coffee"],
+        "notes": "Mandatory resort fee"
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$55.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Self-parking also available"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 17,
+      "childCharge": null,
+      "adultCharge": { "amount": "$50.00", "basis": "per night" },
+      "maxOccupancy": "Varies by room type",
+      "notes": "Cribs available complimentary"
+    },
+    "damageDeposit": {
+      "amount": "$100.00",
+      "basis": "per stay",
+      "method": "Credit card pre-authorization",
+      "refundTimeline": "Released within 7 days",
+      "notes": null
+    },
+    "promotions": [],
+    "scrapedAt": "2024-12-19T10:30:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-banff-rimrock-resort-hotel",
+    "name": "Rimrock Resort Hotel",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": { "lat": 51.1546, "lng": -115.5856 },
+    "sources": {
+      "officialWebsite": "https://www.rimrockresort.com/",
+      "policyPage": "https://www.rimrockresort.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Tourism Levy",
+        "amount": "4%",
+        "basis": "per night",
+        "notes": null
+      },
+      {
+        "name": "GST",
+        "amount": "5%",
+        "basis": "per night",
+        "notes": null
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$35.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Hot Tub Access"],
+        "notes": null
+      },
+      {
+        "name": "Parking",
+        "amount": "$30.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Underground heated parking"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 12,
+      "childCharge": { "amount": "$25.00", "basis": "per night" },
+      "adultCharge": { "amount": "$40.00", "basis": "per night" },
+      "maxOccupancy": "4 guests per room",
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T10:35:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-banff-banff-springs-inn",
+    "name": "Banff Aspen Lodge",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 5,
+    "coordinates": { "lat": 51.1754, "lng": -115.5702 },
+    "sources": {
+      "officialWebsite": "https://www.banffaspenlodge.com/",
+      "policyPage": "https://www.banffaspenlodge.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Tourism Levy",
+        "amount": "4%",
+        "basis": "per night",
+        "notes": null
+      },
+      {
+        "name": "GST",
+        "amount": "5%",
+        "basis": "per night",
+        "notes": null
+      }
+    ],
+    "fees": [
+      {
+        "name": "Parking",
+        "amount": "$20.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Free street parking available"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 12,
+      "childCharge": null,
+      "adultCharge": { "amount": "$20.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T10:40:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "usa-aspen-the-little-nell",
+    "name": "The Little Nell",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 39.1869, "lng": -106.8189 },
+    "sources": {
+      "officialWebsite": "https://www.thelittlenell.com/",
+      "policyPage": "https://www.thelittlenell.com/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Lodging Tax",
+        "amount": "11.3%",
+        "basis": "per night",
+        "notes": "Combined state and local lodging tax"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$75.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Ski Valet", "Fitness Center", "Town Car Service"],
+        "notes": null
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$65.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Complimentary for suite guests"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 18,
+      "childCharge": null,
+      "adultCharge": { "amount": "$75.00", "basis": "per night" },
+      "maxOccupancy": "Varies by room",
+      "notes": null
+    },
+    "damageDeposit": {
+      "amount": "$500.00",
+      "basis": "per stay",
+      "method": "Credit card pre-authorization",
+      "refundTimeline": "Within 14 days",
+      "notes": null
+    },
+    "promotions": [
+      {
+        "name": "Stay Longer, Save More",
+        "description": "Book 4+ nights and receive 15% off your stay",
+        "validFrom": "2024-12-01",
+        "validTo": "2025-04-15",
+        "promoCode": "WINTER15",
+        "sourceUrl": "https://www.thelittlenell.com/offers/"
+      }
+    ],
+    "scrapedAt": "2024-12-19T11:00:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "usa-aspen-st-regis-aspen-resort",
+    "name": "The St. Regis Aspen Resort",
+    "town": "Aspen",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": { "lat": 39.1911, "lng": -106.8205 },
+    "sources": {
+      "officialWebsite": "https://www.marriott.com/hotels/travel/asexr-the-st-regis-aspen-resort/",
+      "policyPage": "https://www.marriott.com/hotels/fact-sheet/travel/asexr-the-st-regis-aspen-resort/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Lodging Tax",
+        "amount": "11.3%",
+        "basis": "per night",
+        "notes": null
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$85.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Ski Concierge", "Apres Ski"],
+        "notes": null
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$70.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      },
+      {
+        "name": "Pet Fee",
+        "amount": "$150.00",
+        "basis": "per stay",
+        "includes": ["Pet bed", "Bowls", "Treats"],
+        "notes": "Dogs welcome under 40 lbs"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 17,
+      "childCharge": null,
+      "adultCharge": { "amount": "$100.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T11:05:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "usa-vail-four-seasons-resort-vail",
+    "name": "Four Seasons Resort Vail",
+    "town": "Vail",
+    "region": "Colorado",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 39.6403, "lng": -106.3742 },
+    "sources": {
+      "officialWebsite": "https://www.fourseasons.com/vail/",
+      "policyPage": "https://www.fourseasons.com/vail/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Lodging Tax",
+        "amount": "10.4%",
+        "basis": "per night",
+        "notes": "Includes state, county, and town taxes"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$65.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Ski Storage", "Resort Shuttle"],
+        "notes": null
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$60.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 18,
+      "childCharge": null,
+      "adultCharge": { "amount": "$75.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": "Rollaway beds available at $75/night"
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T11:15:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "switzerland-zermatt-the-omnia",
+    "name": "The Omnia",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 46.0207, "lng": 7.7491 },
+    "sources": {
+      "officialWebsite": "https://www.the-omnia.com/",
+      "policyPage": "https://www.the-omnia.com/hotel/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "City Tax",
+        "amount": "CHF 6.00",
+        "basis": "per person per night",
+        "notes": "Zermatt visitor tax"
+      },
+      {
+        "name": "VAT",
+        "amount": "3.8%",
+        "basis": "per night",
+        "notes": "Swiss accommodation VAT rate"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Service Charge",
+        "amount": "Included",
+        "basis": "per stay",
+        "includes": null,
+        "notes": "No additional service charges"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 6,
+      "childCharge": { "amount": "CHF 100.00", "basis": "per night" },
+      "adultCharge": { "amount": "CHF 200.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T12:00:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "australia-thredbo-thredbo-alpine-hotel",
+    "name": "Thredbo Alpine Hotel",
+    "town": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": -36.5053, "lng": 148.3069 },
+    "sources": {
+      "officialWebsite": "https://www.thredbo.com.au/accommodation/thredbo-alpine-hotel/",
+      "policyPage": "https://www.thredbo.com.au/accommodation/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "GST",
+        "amount": "Included",
+        "basis": "per night",
+        "notes": "Australian GST included in rates"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Levy",
+        "amount": "AUD 5.00",
+        "basis": "per person per night",
+        "notes": "Supports resort facilities"
+      },
+      {
+        "name": "Parking",
+        "amount": "AUD 25.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Limited availability"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 4,
+      "childCharge": { "amount": "AUD 40.00", "basis": "per night" },
+      "adultCharge": { "amount": "AUD 60.00", "basis": "per night" },
+      "maxOccupancy": "4 per room",
+      "notes": null
+    },
+    "damageDeposit": {
+      "amount": "AUD 200.00",
+      "basis": "per stay",
+      "method": "Credit card",
+      "refundTimeline": "Within 7 days",
+      "notes": null
+    },
+    "promotions": [],
+    "scrapedAt": "2024-12-19T13:00:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-whistler-fairmont-chateau-whistler",
+    "name": "Fairmont Chateau Whistler",
+    "town": "Whistler",
+    "region": "British Columbia",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 50.0833, "lng": -122.9574 },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/whistler/",
+      "policyPage": "https://www.fairmont.com/whistler/hotel-policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "PST",
+        "amount": "8%",
+        "basis": "per night",
+        "notes": "BC Provincial Sales Tax"
+      },
+      {
+        "name": "GST",
+        "amount": "5%",
+        "basis": "per night",
+        "notes": null
+      },
+      {
+        "name": "MRDT",
+        "amount": "3%",
+        "basis": "per night",
+        "notes": "Municipal and Regional District Tax"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$45.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Pool", "Ski Storage"],
+        "notes": null
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$50.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 17,
+      "childCharge": null,
+      "adultCharge": { "amount": "$50.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T10:50:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "usa-park-city-montage-deer-valley",
+    "name": "Montage Deer Valley",
+    "town": "Park City",
+    "region": "Utah",
+    "country": "USA",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 40.6313, "lng": -111.4966 },
+    "sources": {
+      "officialWebsite": "https://www.montagehotels.com/deervalley/",
+      "policyPage": "https://www.montagehotels.com/deervalley/policies/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Transient Room Tax",
+        "amount": "12.6%",
+        "basis": "per night",
+        "notes": "Combined state and local tax"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Resort Fee",
+        "amount": "$75.00",
+        "basis": "per night",
+        "includes": ["WiFi", "Fitness Center", "Ski Valet", "Shuttle Service"],
+        "notes": null
+      },
+      {
+        "name": "Valet Parking",
+        "amount": "$55.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 16,
+      "childCharge": null,
+      "adultCharge": { "amount": "$100.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T11:30:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "france-chamonix-hotel-mont-blanc",
+    "name": "Hotel Mont-Blanc",
+    "town": "Chamonix",
+    "region": "Auvergne-Rhone-Alpes",
+    "country": "France",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": { "lat": 45.9237, "lng": 6.8694 },
+    "sources": {
+      "officialWebsite": "https://www.hotelmontblanc.com/",
+      "policyPage": "https://www.hotelmontblanc.com/conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "City Tax",
+        "amount": "EUR 3.30",
+        "basis": "per person per night",
+        "notes": "Taxe de sejour"
+      },
+      {
+        "name": "VAT",
+        "amount": "10%",
+        "basis": "per night",
+        "notes": "French accommodation VAT"
+      }
+    ],
+    "fees": [],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 3,
+      "childCharge": { "amount": "EUR 60.00", "basis": "per night" },
+      "adultCharge": { "amount": "EUR 80.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T12:30:00Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "austria-kitzbuhel-hotel-&-spa-rosengarten",
+    "name": "Hotel & Spa Rosengarten",
+    "town": "Kitzbuhel",
+    "region": "Tyrol",
+    "country": "Austria",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": { "lat": 47.4467, "lng": 12.3917 },
+    "sources": {
+      "officialWebsite": "https://www.hotelrosengarten.com/",
+      "policyPage": "https://www.hotelrosengarten.com/en/service/terms/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [
+      {
+        "name": "Local Tax",
+        "amount": "EUR 2.50",
+        "basis": "per person per night",
+        "notes": "Ortstaxe"
+      },
+      {
+        "name": "VAT",
+        "amount": "10%",
+        "basis": "per night",
+        "notes": "Austrian accommodation VAT"
+      }
+    ],
+    "fees": [
+      {
+        "name": "Parking",
+        "amount": "EUR 15.00",
+        "basis": "per night",
+        "includes": null,
+        "notes": "Garage parking"
+      }
+    ],
+    "extraPersonPolicy": {
+      "childrenFreeAge": 6,
+      "childCharge": { "amount": "EUR 45.00", "basis": "per night" },
+      "adultCharge": { "amount": "EUR 75.00", "basis": "per night" },
+      "maxOccupancy": null,
+      "notes": null
+    },
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2024-12-19T12:45:00Z",
+    "scrapingNotes": null
+  }
+]

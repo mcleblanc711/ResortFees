@@ -1,0 +1,95 @@
+[
+  {
+    "id": "canada-banff-fairmont-banff-springs",
+    "name": "Fairmont Banff Springs",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 51.1679,
+      "lng": -115.5595
+    },
+    "sources": {
+      "officialWebsite": "https://www.fairmont.com/banff-springs/",
+      "policyPage": "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs/guest-services.html#faq-accessibility",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [
+      {
+        "name": "Self-Parking",
+        "amount": "$39",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      },
+      {
+        "name": "Parking",
+        "amount": "$59",
+        "basis": "per night",
+        "includes": null,
+        "notes": null
+      }
+    ],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T02:47:18Z",
+    "scrapingNotes": null
+  },
+  {
+    "id": "canada-banff-rimrock-resort-hotel",
+    "name": "Rimrock Resort Hotel",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 51.1546,
+      "lng": -115.5856
+    },
+    "sources": {
+      "officialWebsite": "https://www.rimrockresort.com/",
+      "policyPage": "https://www.rimrockresort.com/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T02:47:32Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "canada-banff-banff-aspen-lodge",
+    "name": "Banff Aspen Lodge",
+    "town": "Banff",
+    "region": "Alberta",
+    "country": "Canada",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 51.1754,
+      "lng": -115.5702
+    },
+    "sources": {
+      "officialWebsite": "https://www.banffaspenlodge.com/",
+      "policyPage": "https://www.banffaspenlodge.com/terms-and-conditions",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-20T02:48:59Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  }
+]

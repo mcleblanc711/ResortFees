@@ -1,0 +1,91 @@
+# Hotel Policy Scraper - Target Locations
+# Top 30 hotels per town from TripAdvisor rankings
+
+canada:
+  - town: Banff
+    region: Alberta
+    country: Canada
+  - town: Canmore
+    region: Alberta
+    country: Canada
+  - town: Jasper
+    region: Alberta
+    country: Canada
+  - town: Whistler
+    region: British Columbia
+    country: Canada
+  - town: Revelstoke
+    region: British Columbia
+    country: Canada
+  - town: Mont-Tremblant
+    region: Quebec
+    country: Canada
+  - town: Blue Mountain
+    region: Ontario
+    country: Canada
+
+usa:
+  - town: Aspen
+    region: Colorado
+    country: USA
+  - town: Vail
+    region: Colorado
+    country: USA
+  - town: Park City
+    region: Utah
+    country: USA
+  - town: Jackson Hole
+    region: Wyoming
+    country: USA
+  - town: Lake Tahoe
+    region: California
+    country: USA
+  - town: Mammoth Lakes
+    region: California
+    country: USA
+  - town: Stowe
+    region: Vermont
+    country: USA
+  - town: Telluride
+    region: Colorado
+    country: USA
+  - town: Big Sky
+    region: Montana
+    country: USA
+  - town: Sun Valley
+    region: Idaho
+    country: USA
+
+europe:
+  - town: Zermatt
+    region: Valais
+    country: Switzerland
+  - town: Chamonix
+    region: Auvergne-Rhone-Alpes
+    country: France
+  - town: St. Moritz
+    region: Graubunden
+    country: Switzerland
+  - town: Courchevel
+    region: Auvergne-Rhone-Alpes
+    country: France
+  - town: Kitzbuhel
+    region: Tyrol
+    country: Austria
+  - town: Verbier
+    region: Valais
+    country: Switzerland
+
+australia:
+  - town: Thredbo
+    region: New South Wales
+    country: Australia
+  - town: Falls Creek
+    region: Victoria
+    country: Australia
+  - town: Perisher
+    region: New South Wales
+    country: Australia
+  - town: Mount Buller
+    region: Victoria
+    country: Australia

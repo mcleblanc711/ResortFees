@@ -1,0 +1,39 @@
+{
+  "hotels": [
+    {
+      "name": "Fairmont Banff Springs",
+      "rank": 1,
+      "website": "https://www.fairmont.com/banff-springs/",
+      "market_segment": "Luxury",
+      "coordinates": { "lat": 51.1679, "lng": -115.5595 }
+    },
+    {
+      "name": "Rimrock Resort Hotel",
+      "rank": 2,
+      "website": "https://www.rimrockresort.com/",
+      "market_segment": "Upscale",
+      "coordinates": { "lat": 51.1546, "lng": -115.5856 }
+    },
+    {
+      "name": "Moose Hotel and Suites",
+      "rank": 3,
+      "website": "https://www.banffmoosehotel.com/",
+      "market_segment": "Upscale",
+      "coordinates": { "lat": 51.1762, "lng": -115.5708 }
+    },
+    {
+      "name": "The Juniper Hotel",
+      "rank": 4,
+      "website": "https://thejuniper.com/",
+      "market_segment": "Upper-Midscale",
+      "coordinates": { "lat": 51.1891, "lng": -115.5543 }
+    },
+    {
+      "name": "Banff Aspen Lodge",
+      "rank": 5,
+      "website": "https://www.banffaspenlodge.com/",
+      "market_segment": "Upper-Midscale",
+      "coordinates": { "lat": 51.1754, "lng": -115.5702 }
+    }
+  ]
+}

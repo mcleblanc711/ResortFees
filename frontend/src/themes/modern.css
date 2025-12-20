@@ -1,0 +1,190 @@
+/* Modern Theme - Warm neutrals, elegant typography, editorial feel */
+
+:root[data-theme="modern"] {
+  /* Fonts */
+  --font-body: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Fraunces', 'Playfair Display', Georgia, serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  /* Warm neutral colors */
+  --color-bg-primary: #faf8f5;
+  --color-bg-secondary: #f5f2ed;
+  --color-bg-card: #ffffff;
+  --color-text-primary: #2d2a26;
+  --color-text-secondary: #5c5650;
+  --color-text-muted: #9c9489;
+  --color-accent: #b8860b;
+  --color-accent-hover: #8b6914;
+  --color-border: #e8e4de;
+  --color-success: #6b8e23;
+  --color-warning: #cd853f;
+  --color-error: #cd5c5c;
+
+  /* Subtle, refined shadows */
+  --shadow-sm: 0 1px 3px rgba(45, 42, 38, 0.05);
+  --shadow-md: 0 4px 12px rgba(45, 42, 38, 0.08);
+  --shadow-lg: 0 8px 24px rgba(45, 42, 38, 0.1);
+
+  /* Refined radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+}
+
+:root[data-theme="modern"] body {
+  background: #faf8f5;
+}
+
+:root[data-theme="modern"] .app-header {
+  background: #faf8f5;
+  border-bottom: 1px solid var(--color-border);
+}
+
+:root[data-theme="modern"] .header-title h1 {
+  font-family: var(--font-heading);
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: -0.02em;
+  color: #2d2a26;
+}
+
+:root[data-theme="modern"] .header-title p {
+  font-style: italic;
+  color: #9c9489;
+}
+
+:root[data-theme="modern"] .filter-panel,
+:root[data-theme="modern"] .stats-panel {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+}
+
+:root[data-theme="modern"] .filter-panel h2,
+:root[data-theme="modern"] .stats-panel h2 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: -0.01em;
+}
+
+:root[data-theme="modern"] .hotel-card {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+}
+
+:root[data-theme="modern"] .hotel-card:hover {
+  border-color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .hotel-name {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+:root[data-theme="modern"] .theme-btn {
+  border-radius: var(--radius-md);
+  font-weight: 500;
+}
+
+:root[data-theme="modern"] .theme-btn.active {
+  background: var(--color-accent);
+}
+
+:root[data-theme="modern"] .segment-badge {
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+
+:root[data-theme="modern"] .segment-pill {
+  font-weight: 500;
+}
+
+:root[data-theme="modern"] .segment-pill.active {
+  background: var(--color-accent);
+}
+
+:root[data-theme="modern"] .stat-value {
+  font-family: var(--font-heading);
+  color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .stat-section h3 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.95rem;
+}
+
+:root[data-theme="modern"] .policy-source {
+  background: var(--color-accent);
+}
+
+:root[data-theme="modern"] .modal-content {
+  background: #ffffff;
+}
+
+:root[data-theme="modern"] .modal-header h2 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1.75rem;
+  letter-spacing: -0.02em;
+}
+
+:root[data-theme="modern"] .detail-section h3 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  border-bottom-color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .item-amount .amount {
+  color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .promo-card {
+  border-left-color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .app-footer {
+  background: #f5f2ed;
+  border-top: 1px solid var(--color-border);
+}
+
+:root[data-theme="modern"] a {
+  color: var(--color-accent);
+}
+
+:root[data-theme="modern"] .search-input {
+  background: #faf8f5;
+}
+
+/* Editorial-style card layout */
+:root[data-theme="modern"] .hotel-grid {
+  gap: var(--space-xl);
+}
+
+:root[data-theme="modern"] .card-stats {
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Refined focus states */
+:root[data-theme="modern"] :focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Scrollbar */
+:root[data-theme="modern"] ::-webkit-scrollbar-track {
+  background: #f5f2ed;
+}
+
+:root[data-theme="modern"] ::-webkit-scrollbar-thumb {
+  background: #d4d0c8;
+}
+
+:root[data-theme="modern"] ::-webkit-scrollbar-thumb:hover {
+  background: #b8b4ac;
+}

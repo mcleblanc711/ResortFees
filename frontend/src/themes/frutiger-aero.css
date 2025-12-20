@@ -1,0 +1,120 @@
+/* Frutiger Aero Theme - Glossy, translucent surfaces with soft gradients */
+
+:root[data-theme="frutiger-aero"] {
+  /* Fonts */
+  --font-body: 'Nunito', 'Quicksand', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Quicksand', 'Nunito', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  /* Colors - Sky blues and aqua greens */
+  --color-bg-primary: linear-gradient(135deg, #e0f4ff 0%, #d4f1f9 50%, #e8f8ff 100%);
+  --color-bg-secondary: rgba(255, 255, 255, 0.7);
+  --color-bg-card: rgba(255, 255, 255, 0.85);
+  --color-text-primary: #1a4a5e;
+  --color-text-secondary: #3d7a8c;
+  --color-text-muted: #6ba3b5;
+  --color-accent: #00a8cc;
+  --color-accent-hover: #00c4e8;
+  --color-border: rgba(0, 168, 204, 0.2);
+  --color-success: #2dd4bf;
+  --color-warning: #fbbf24;
+  --color-error: #f472b6;
+
+  /* Glass morphism shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 168, 204, 0.1);
+  --shadow-md: 0 4px 20px rgba(0, 168, 204, 0.15);
+  --shadow-lg: 0 8px 32px rgba(0, 168, 204, 0.2);
+
+  /* Extra rounded corners */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+}
+
+/* Apply gradient background */
+:root[data-theme="frutiger-aero"] body {
+  background: linear-gradient(135deg, #e0f4ff 0%, #d4f1f9 50%, #e8f8ff 100%);
+  background-attachment: fixed;
+}
+
+/* Glassmorphism effects */
+:root[data-theme="frutiger-aero"] .filter-panel,
+:root[data-theme="frutiger-aero"] .stats-panel,
+:root[data-theme="frutiger-aero"] .hotel-card {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow:
+    0 8px 32px rgba(0, 168, 204, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+:root[data-theme="frutiger-aero"] .app-header {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+:root[data-theme="frutiger-aero"] .modal-content {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+}
+
+:root[data-theme="frutiger-aero"] .hotel-card:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 12px 40px rgba(0, 168, 204, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+:root[data-theme="frutiger-aero"] .theme-btn {
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(0, 168, 204, 0.2);
+}
+
+:root[data-theme="frutiger-aero"] .theme-btn.active {
+  background: linear-gradient(135deg, #00c4e8, #00a8cc);
+  box-shadow: 0 4px 15px rgba(0, 168, 204, 0.4);
+}
+
+:root[data-theme="frutiger-aero"] .segment-pill {
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+:root[data-theme="frutiger-aero"] .segment-pill.active {
+  background: linear-gradient(135deg, #00c4e8, #00a8cc);
+}
+
+:root[data-theme="frutiger-aero"] .policy-source {
+  background: linear-gradient(135deg, #00c4e8, #00a8cc);
+  border-radius: 0;
+}
+
+:root[data-theme="frutiger-aero"] .search-input {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 999px;
+}
+
+:root[data-theme="frutiger-aero"] .stat-block {
+  background: linear-gradient(135deg, rgba(0, 200, 232, 0.1), rgba(0, 168, 204, 0.05));
+  border-radius: var(--radius-lg);
+}
+
+/* Bubble decoration */
+:root[data-theme="frutiger-aero"] .app-header::before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: 10%;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, rgba(0, 200, 232, 0.2), transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
