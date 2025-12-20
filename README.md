@@ -1,6 +1,10 @@
 # Hotel Policy Explorer
 
+**[View Live Dashboard](https://mcleblanc711.github.io/ResortFees/)**
+
 A webscraper and visualization tool that collects tax, fee, and policy information from hotels across resort towns in Canada, the United States, Europe, and Australia.
+
+**Current data:** 209 hotels across 21 resort towns in Canada, USA, and Australia.
 
 ## Overview
 
