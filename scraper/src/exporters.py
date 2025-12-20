@@ -225,12 +225,12 @@ class HotelExporter:
 
                 writer.writerow(row)
 
-    def copy_to_frontend(self, frontend_data_dir: str = "frontend/src/data") -> Path:
+    def copy_to_frontend(self, frontend_data_dir: str = None) -> Path:
         """
         Copy consolidated JSON to the frontend data directory.
 
         Args:
-            frontend_data_dir: Path to frontend data directory
+            frontend_data_dir: Path to frontend data directory (auto-detected if None)
 
         Returns:
             Path to the copied file
@@ -242,7 +242,12 @@ class HotelExporter:
             logger.error("Consolidated JSON file not found. Run consolidate_hotels first.")
             raise FileNotFoundError(source)
 
-        dest_dir = Path(frontend_data_dir)
+        # Auto-detect frontend path relative to repo root
+        if frontend_data_dir is None:
+            repo_root = Path(__file__).parent.parent.parent
+            dest_dir = repo_root / "frontend" / "src" / "data"
+        else:
+            dest_dir = Path(frontend_data_dir)
         dest_dir.mkdir(parents=True, exist_ok=True)
 
         dest = dest_dir / "hotels.json"
