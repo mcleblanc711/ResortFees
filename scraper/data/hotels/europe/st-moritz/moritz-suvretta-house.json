@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-suvretta-house",
+  "name": "Suvretta House",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 46.4823,
+    "lng": 9.8234
+  },
+  "sources": {
+    "officialWebsite": "https://www.suvrettahouse.ch/",
+    "policyPage": "https://suvrettahouse.ch/services",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:11:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

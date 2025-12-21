@@ -2,6 +2,7 @@
 
 import csv
 import json
+import re
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -39,8 +40,14 @@ class HotelExporter:
             Path to the saved file
         """
         # Determine file path based on country and town
-        country = hotel_data["country"].lower().replace(" ", "-")
-        town = hotel_data["town"].lower().replace(" ", "-")
+        def slugify(text: str) -> str:
+            text = text.lower()
+            text = re.sub(r"[^\w\s-]", "", text)  # Remove special chars like periods
+            text = re.sub(r"[-\s]+", "-", text)   # Replace spaces/dashes with single dash
+            return text.strip("-")
+
+        country = slugify(hotel_data["country"])
+        town = slugify(hotel_data["town"])
         hotel_slug = hotel_data["id"].split("-", 2)[-1]  # Get hotel name part of ID
 
         # Map country names to directory names

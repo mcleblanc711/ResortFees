@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-verbier-hotel-vanessa",
+  "name": "Hotel Vanessa",
+  "town": "Verbier",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 46.1001,
+    "lng": 7.2323
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelvanessa.ch/",
+    "policyPage": "https://www.hotelvanessa.ch/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:43:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

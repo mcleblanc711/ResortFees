@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-hotel-alex",
+  "name": "Hotel Alex",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 46.0212,
+    "lng": 7.7501
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelalexzermatt.com/",
+    "policyPage": "https://www.hotelalexzermatt.com/ueber-uns/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:44:28Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

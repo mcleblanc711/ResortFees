@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-hotel-alphubel",
+  "name": "Hotel Alphubel",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 46.0189,
+    "lng": 7.7478
+  },
+  "sources": {
+    "officialWebsite": "https://www.alphubel-zermatt.ch/",
+    "policyPage": "https://alphubel-zermatt.ch/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:54:29Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

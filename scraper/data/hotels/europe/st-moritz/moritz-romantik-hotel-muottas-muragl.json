@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-romantik-hotel-muottas-muragl",
+  "name": "Romantik Hotel Muottas Muragl",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 46.5156,
+    "lng": 9.9234
+  },
+  "sources": {
+    "officialWebsite": "https://www.muottasmuragl.ch/",
+    "policyPage": "https://www.muottasmuragl.ch/en/terms-and-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:23:03Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

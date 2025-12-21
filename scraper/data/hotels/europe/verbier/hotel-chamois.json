@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-verbier-hotel-chamois",
+  "name": "Hotel Chamois",
+  "town": "Verbier",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 25,
+  "coordinates": {
+    "lat": 46.1089,
+    "lng": 7.2412
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelchamois.ch/",
+    "policyPage": "https://hotel-chamois.ch/fr/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T02:02:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

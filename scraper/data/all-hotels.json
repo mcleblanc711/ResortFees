@@ -2839,6 +2839,864 @@
     "scrapingNotes": "No taxes or fees found on policy page"
   },
   {
+    "id": "switzerland-st-moritz-kulm-hotel-st-moritz",
+    "name": "Kulm Hotel St. Moritz",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 46.4978,
+      "lng": 9.8412
+    },
+    "sources": {
+      "officialWebsite": "https://www.kulm.com/",
+      "policyPage": "https://kulm.com/terms-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:10:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-suvretta-house",
+    "name": "Suvretta House",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 46.4823,
+      "lng": 9.8234
+    },
+    "sources": {
+      "officialWebsite": "https://www.suvrettahouse.ch/",
+      "policyPage": "https://suvrettahouse.ch/services",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:11:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-carlton-hotel-st-moritz",
+    "name": "Carlton Hotel St. Moritz",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 46.4967,
+      "lng": 9.8401
+    },
+    "sources": {
+      "officialWebsite": "https://www.carlton-stmoritz.ch/",
+      "policyPage": "https://tschuggencollection.ch/de/hotel/carlton-hotel",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:11:08Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-kempinski-grand-hotel-des-bains",
+    "name": "Kempinski Grand Hotel des Bains",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 5,
+    "coordinates": {
+      "lat": 46.4956,
+      "lng": 9.8389
+    },
+    "sources": {
+      "officialWebsite": "https://www.kempinski.com/st-moritz/",
+      "policyPage": "https://www.kempinski.com/en/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:11:11Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-grace-st-moritz",
+    "name": "Grace St. Moritz",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 46.4945,
+      "lng": 9.8378
+    },
+    "sources": {
+      "officialWebsite": "https://www.gracehotels.com/stmoritz/",
+      "policyPage": "https://www.gracehotels.com/about",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:13:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-nira-alpina",
+    "name": "Nira Alpina",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 46.4289,
+      "lng": 9.7534
+    },
+    "sources": {
+      "officialWebsite": "https://www.niraalpina.com/",
+      "policyPage": "https://www.niraalpina.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:14:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-hotel-reine-victoria",
+    "name": "Hotel Reine Victoria",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 46.5012,
+      "lng": 9.8445
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotel-reine-victoria.ch/",
+      "policyPage": "https://www.hotel-reine-victoria.ch/ueber-uns/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:16:49Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-hotel-steffani",
+    "name": "Hotel Steffani",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 12,
+    "coordinates": {
+      "lat": 46.4989,
+      "lng": 9.8412
+    },
+    "sources": {
+      "officialWebsite": "https://www.steffani.ch/",
+      "policyPage": "https://steffani.ch/znpb_template_mngr/parking/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:17:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-crystal-hotel",
+    "name": "Crystal Hotel",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 13,
+    "coordinates": {
+      "lat": 46.4978,
+      "lng": 9.8401
+    },
+    "sources": {
+      "officialWebsite": "https://www.crystalhotel.ch/",
+      "policyPage": "https://www.crystalhotel.ch/en/corporate/privacy-cookie-policy/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:18:20Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-hotel-laudinella",
+    "name": "Hotel Laudinella",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 14,
+    "coordinates": {
+      "lat": 46.4934,
+      "lng": 9.8367
+    },
+    "sources": {
+      "officialWebsite": "https://www.laudinella.ch/",
+      "policyPage": "https://www.laudinella.ch/information/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:19:14Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-hotel-sonne",
+    "name": "Hotel Sonne",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 46.4967,
+      "lng": 9.8389
+    },
+    "sources": {
+      "officialWebsite": "https://www.sonne-stmoritz.ch/",
+      "policyPage": "https://www.sonne-stmoritz.ch/home?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&cHash=ae77208c7dead7276e1ab57ed9ac2c21",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:19:18Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-giardino-mountain",
+    "name": "Giardino Mountain",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 17,
+    "coordinates": {
+      "lat": 46.5089,
+      "lng": 9.8523
+    },
+    "sources": {
+      "officialWebsite": "https://www.giardino-mountain.ch/",
+      "policyPage": "https://giardinohotels.ch/de/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:20:34Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-hotel-albana",
+    "name": "Hotel Albana",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 46.4434,
+      "lng": 9.7701
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelalbana.ch/",
+      "policyPage": "https://www.hotelalbana.ch/services/bewertungen",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:21:52Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-romantik-hotel-muottas-muragl",
+    "name": "Romantik Hotel Muottas Muragl",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 46.5156,
+      "lng": 9.9234
+    },
+    "sources": {
+      "officialWebsite": "https://www.muottasmuragl.ch/",
+      "policyPage": "https://www.muottasmuragl.ch/en/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:23:03Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-youth-hostel-st-moritz",
+    "name": "Youth Hostel St. Moritz",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 46.4912,
+      "lng": 9.8323
+    },
+    "sources": {
+      "officialWebsite": "https://www.youthhostel.ch/en/hostels/st-moritz-bad/",
+      "policyPage": "https://www.youthhostel.ch/de/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:30:46Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-st-moritz-sporthotel-pontresina",
+    "name": "Sporthotel Pontresina",
+    "town": "St. Moritz",
+    "region": "Graubunden",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 28,
+    "coordinates": {
+      "lat": 46.4923,
+      "lng": 9.9023
+    },
+    "sources": {
+      "officialWebsite": "https://www.sporthotel.ch/",
+      "policyPage": "https://www.sporthotel.ch/de/services/bewertungen",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:33:32Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-verbier-hotel-vanessa",
+    "name": "Hotel Vanessa",
+    "town": "Verbier",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 46.1001,
+      "lng": 7.2323
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelvanessa.ch/",
+      "policyPage": "https://www.hotelvanessa.ch/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:43:05Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-verbier-hotel-de-verbier",
+    "name": "Hotel de Verbier",
+    "town": "Verbier",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 46.0923,
+      "lng": 7.2245
+    },
+    "sources": {
+      "officialWebsite": "https://www.hoteldeverbier.ch/",
+      "policyPage": "https://hoteldeverbier.com",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:45:32Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-verbier-aparthotel-helvetia-intergolf",
+    "name": "Aparthotel Helvetia Intergolf",
+    "town": "Verbier",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 16,
+    "coordinates": {
+      "lat": 46.089,
+      "lng": 7.2212
+    },
+    "sources": {
+      "officialWebsite": "https://www.helvetia-intergolf.ch/",
+      "policyPage": "https://www.helvetia-intergolf.ch/wp-content/uploads/sites/195/2023/03/CONDITIONS_GÉNÉRALES_DE_RESERVATION_allemand.pdf",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:52:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-verbier-hotel-chamois",
+    "name": "Hotel Chamois",
+    "town": "Verbier",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Midscale",
+    "tripadvisorRank": 25,
+    "coordinates": {
+      "lat": 46.1089,
+      "lng": 7.2412
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelchamois.ch/",
+      "policyPage": "https://hotel-chamois.ch/fr/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T02:02:37Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-the-omnia",
+    "name": "The Omnia",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 1,
+    "coordinates": {
+      "lat": 46.0207,
+      "lng": 7.7491
+    },
+    "sources": {
+      "officialWebsite": "https://www.the-omnia.com/",
+      "policyPage": "https://www.simplebooking.it/ibe2/hotel/5293?lang=EN&cur=CHF",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:37:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-mont-cervin-palace",
+    "name": "Mont Cervin Palace",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 2,
+    "coordinates": {
+      "lat": 46.0234,
+      "lng": 7.7512
+    },
+    "sources": {
+      "officialWebsite": "https://www.montcervinpalace.ch/",
+      "policyPage": "https://www.montcervinpalace.ch/info-guide/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:38:41Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-grand-hotel-zermatterhof",
+    "name": "Grand Hotel Zermatterhof",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 3,
+    "coordinates": {
+      "lat": 46.0223,
+      "lng": 7.7489
+    },
+    "sources": {
+      "officialWebsite": "https://www.zermatterhof.ch/",
+      "policyPage": "https://www.zermatterhof.ch/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:39:55Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-riffelalp-resort-2222m",
+    "name": "Riffelalp Resort 2222m",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 4,
+    "coordinates": {
+      "lat": 46.0012,
+      "lng": 7.7634
+    },
+    "sources": {
+      "officialWebsite": "https://www.riffelalp.com/",
+      "policyPage": "https://www.riffelalp.com/en/privacy-policy-general-terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:41:12Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-alex",
+    "name": "Hotel Alex",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 7,
+    "coordinates": {
+      "lat": 46.0212,
+      "lng": 7.7501
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotelalexzermatt.com/",
+      "policyPage": "https://www.hotelalexzermatt.com/ueber-uns/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:44:28Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-backstage-hotel-vernissage",
+    "name": "Backstage Hotel Vernissage",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 8,
+    "coordinates": {
+      "lat": 46.0198,
+      "lng": 7.7489
+    },
+    "sources": {
+      "officialWebsite": "https://www.backstagehotel.ch/",
+      "policyPage": "https://www.backstagehotel.ch/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:44:30Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-cervo-mountain-resort",
+    "name": "Hotel Cervo Mountain Resort",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Luxury",
+    "tripadvisorRank": 9,
+    "coordinates": {
+      "lat": 46.0234,
+      "lng": 7.7534
+    },
+    "sources": {
+      "officialWebsite": "https://www.cervo.ch/",
+      "policyPage": "https://cervo.swiss/en/services",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:44:58Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-cervo-mountain-resort",
+    "name": "CERVO Mountain Resort",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upscale",
+    "tripadvisorRank": 10,
+    "coordinates": {
+      "lat": 46.0245,
+      "lng": 7.7545
+    },
+    "sources": {
+      "officialWebsite": "https://www.cervo.ch/",
+      "policyPage": "https://cervo.swiss/en/services",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:45:24Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-mirabeau",
+    "name": "Hotel Mirabeau",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 11,
+    "coordinates": {
+      "lat": 46.0178,
+      "lng": 7.7456
+    },
+    "sources": {
+      "officialWebsite": "https://www.hotel-mirabeau.ch/",
+      "policyPage": "https://www.hotel-mirabeau.ch/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:46:04Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-firefly",
+    "name": "Hotel Firefly",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 15,
+    "coordinates": {
+      "lat": 46.0223,
+      "lng": 7.7512
+    },
+    "sources": {
+      "officialWebsite": "https://www.firefly-zermatt.ch/",
+      "policyPage": "https://www.firefly-zermatt.ch/application/files/7017/2242/8660/terms-and-conditions-hotel-firefly-zermatt.pdf",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:50:56Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-alphubel",
+    "name": "Hotel Alphubel",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 18,
+    "coordinates": {
+      "lat": 46.0189,
+      "lng": 7.7478
+    },
+    "sources": {
+      "officialWebsite": "https://www.alphubel-zermatt.ch/",
+      "policyPage": "https://alphubel-zermatt.ch/terms-and-conditions/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:54:29Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-hotel-aristella-swissflair",
+    "name": "Hotel Aristella Swissflair",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Upper-Midscale",
+    "tripadvisorRank": 19,
+    "coordinates": {
+      "lat": 46.0201,
+      "lng": 7.7489
+    },
+    "sources": {
+      "officialWebsite": "https://www.aristella.ch/",
+      "policyPage": "https://aristella.ch/about-us/",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T00:55:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
+    "id": "switzerland-zermatt-youth-hostel-zermatt",
+    "name": "Youth Hostel Zermatt",
+    "town": "Zermatt",
+    "region": "Valais",
+    "country": "Switzerland",
+    "marketSegment": "Economy",
+    "tripadvisorRank": 26,
+    "coordinates": {
+      "lat": 46.0145,
+      "lng": 7.7423
+    },
+    "sources": {
+      "officialWebsite": "https://www.youthhostel.ch/en/hostels/zermatt/",
+      "policyPage": "https://www.youthhostel.ch/de/faq",
+      "bookingCom": null,
+      "dataSource": "official"
+    },
+    "taxes": [],
+    "fees": [],
+    "extraPersonPolicy": null,
+    "damageDeposit": null,
+    "promotions": [],
+    "scrapedAt": "2025-12-21T01:03:22Z",
+    "scrapingNotes": "No taxes or fees found on policy page"
+  },
+  {
     "id": "usa-aspen-the-little-nell",
     "name": "The Little Nell",
     "town": "Aspen",

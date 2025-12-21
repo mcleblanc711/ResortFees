@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-crystal-hotel",
+  "name": "Crystal Hotel",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 46.4978,
+    "lng": 9.8401
+  },
+  "sources": {
+    "officialWebsite": "https://www.crystalhotel.ch/",
+    "policyPage": "https://www.crystalhotel.ch/en/corporate/privacy-cookie-policy/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:18:20Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

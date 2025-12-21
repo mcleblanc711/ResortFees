@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-youth-hostel-zermatt",
+  "name": "Youth Hostel Zermatt",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 46.0145,
+    "lng": 7.7423
+  },
+  "sources": {
+    "officialWebsite": "https://www.youthhostel.ch/en/hostels/zermatt/",
+    "policyPage": "https://www.youthhostel.ch/de/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:03:22Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

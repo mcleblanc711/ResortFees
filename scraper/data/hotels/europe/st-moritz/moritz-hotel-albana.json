@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-hotel-albana",
+  "name": "Hotel Albana",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 46.4434,
+    "lng": 9.7701
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelalbana.ch/",
+    "policyPage": "https://www.hotelalbana.ch/services/bewertungen",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:21:52Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

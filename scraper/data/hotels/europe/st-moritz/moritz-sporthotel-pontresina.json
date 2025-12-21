@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-sporthotel-pontresina",
+  "name": "Sporthotel Pontresina",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 46.4923,
+    "lng": 9.9023
+  },
+  "sources": {
+    "officialWebsite": "https://www.sporthotel.ch/",
+    "policyPage": "https://www.sporthotel.ch/de/services/bewertungen",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:33:32Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

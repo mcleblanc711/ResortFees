@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-hotel-sonne",
+  "name": "Hotel Sonne",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 46.4967,
+    "lng": 9.8389
+  },
+  "sources": {
+    "officialWebsite": "https://www.sonne-stmoritz.ch/",
+    "policyPage": "https://www.sonne-stmoritz.ch/home?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&cHash=ae77208c7dead7276e1ab57ed9ac2c21",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:19:18Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

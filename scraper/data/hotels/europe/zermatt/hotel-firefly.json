@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-hotel-firefly",
+  "name": "Hotel Firefly",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 46.0223,
+    "lng": 7.7512
+  },
+  "sources": {
+    "officialWebsite": "https://www.firefly-zermatt.ch/",
+    "policyPage": "https://www.firefly-zermatt.ch/application/files/7017/2242/8660/terms-and-conditions-hotel-firefly-zermatt.pdf",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:50:56Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

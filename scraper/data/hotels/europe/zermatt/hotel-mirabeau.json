@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-hotel-mirabeau",
+  "name": "Hotel Mirabeau",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": 46.0178,
+    "lng": 7.7456
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotel-mirabeau.ch/",
+    "policyPage": "https://www.hotel-mirabeau.ch/faq",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:46:04Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

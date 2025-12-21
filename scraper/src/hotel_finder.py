@@ -97,9 +97,15 @@ class HotelFinder:
         import json
         from pathlib import Path
 
-        # Normalize names for file paths
-        country_slug = country.lower().replace(" ", "-")
-        town_slug = town.lower().replace(" ", "-")
+        # Normalize names for file paths (remove special chars, replace spaces with dashes)
+        def to_slug(text: str) -> str:
+            text = text.lower()
+            text = re.sub(r"[^\w\s-]", "", text)  # Remove special chars like periods
+            text = re.sub(r"[-\s]+", "-", text)   # Replace spaces/dashes with single dash
+            return text.strip("-")
+
+        country_slug = to_slug(country)
+        town_slug = to_slug(town)
 
         # Get path relative to project root (one level up from scraper/)
         project_root = Path(__file__).parent.parent.parent

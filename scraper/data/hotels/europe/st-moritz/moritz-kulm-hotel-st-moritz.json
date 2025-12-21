@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-kulm-hotel-st-moritz",
+  "name": "Kulm Hotel St. Moritz",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 46.4978,
+    "lng": 9.8412
+  },
+  "sources": {
+    "officialWebsite": "https://www.kulm.com/",
+    "policyPage": "https://kulm.com/terms-conditions/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:10:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

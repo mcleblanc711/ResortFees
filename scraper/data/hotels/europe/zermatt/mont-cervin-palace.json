@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-mont-cervin-palace",
+  "name": "Mont Cervin Palace",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 46.0234,
+    "lng": 7.7512
+  },
+  "sources": {
+    "officialWebsite": "https://www.montcervinpalace.ch/",
+    "policyPage": "https://www.montcervinpalace.ch/info-guide/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:38:41Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

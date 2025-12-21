@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-st-moritz-hotel-steffani",
+  "name": "Hotel Steffani",
+  "town": "St. Moritz",
+  "region": "Graubunden",
+  "country": "Switzerland",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 46.4989,
+    "lng": 9.8412
+  },
+  "sources": {
+    "officialWebsite": "https://www.steffani.ch/",
+    "policyPage": "https://steffani.ch/znpb_template_mngr/parking/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T01:17:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

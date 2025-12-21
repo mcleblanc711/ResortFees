@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-the-omnia",
+  "name": "The Omnia",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 46.0207,
+    "lng": 7.7491
+  },
+  "sources": {
+    "officialWebsite": "https://www.the-omnia.com/",
+    "policyPage": "https://www.simplebooking.it/ibe2/hotel/5293?lang=EN&cur=CHF",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-21T00:37:41Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}
