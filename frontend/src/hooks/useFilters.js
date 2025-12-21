@@ -5,6 +5,7 @@ const initialFilters = {
   towns: [],
   segments: [],
   searchQuery: '',
+  hideNoData: true,
 }
 
 export function useFilters() {
@@ -76,6 +77,13 @@ export function useFilters() {
     }))
   }, [])
 
+  const toggleHideNoData = useCallback(() => {
+    setFilters(prev => ({
+      ...prev,
+      hideNoData: !prev.hideNoData,
+    }))
+  }, [])
+
   return {
     filters,
     setCountryFilter,
@@ -86,6 +94,7 @@ export function useFilters() {
     toggleCountry,
     toggleTown,
     toggleSegment,
+    toggleHideNoData,
   }
 }
 

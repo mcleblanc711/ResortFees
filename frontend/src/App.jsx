@@ -24,6 +24,7 @@ function App() {
     setSegmentFilter,
     setSearchQuery,
     clearFilters,
+    toggleHideNoData,
   } = useFilters()
 
   const [selectedHotel, setSelectedHotel] = useState(null)
@@ -66,6 +67,14 @@ function App() {
         const query = filters.searchQuery.toLowerCase()
         const searchableText = `${hotel.name} ${hotel.town} ${hotel.country}`.toLowerCase()
         if (!searchableText.includes(query)) {
+          return false
+        }
+      }
+
+      // Hide hotels with no fee data
+      if (filters.hideNoData) {
+        const hasFeeData = hotel.fees?.length > 0 || hotel.taxes?.length > 0
+        if (!hasFeeData) {
           return false
         }
       }
@@ -162,6 +171,7 @@ function App() {
             onSearchChange={setSearchQuery}
             onClearFilters={clearFilters}
             hasActiveFilters={hasActiveFilters}
+            onToggleHideNoData={toggleHideNoData}
           />
           <StatsPanel stats={stats} />
         </aside>

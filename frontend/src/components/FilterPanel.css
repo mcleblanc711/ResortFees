@@ -185,3 +185,14 @@
   border-color: var(--color-accent);
   color: white;
 }
+
+.toggle-option {
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.toggle-option:hover {
+  border-color: var(--color-accent);
+}

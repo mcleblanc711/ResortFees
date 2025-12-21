@@ -10,6 +10,7 @@ function FilterPanel({
   onSearchChange,
   onClearFilters,
   hasActiveFilters,
+  onToggleHideNoData,
 }) {
   const [isExpanded, setIsExpanded] = useState({
     countries: true,
@@ -64,6 +65,19 @@ function FilterPanel({
           value={filters.searchQuery}
           onChange={(e) => onSearchChange(e.target.value)}
         />
+      </div>
+
+      {/* Hide No Data Toggle */}
+      <div className="filter-section">
+        <label className="filter-option toggle-option">
+          <input
+            type="checkbox"
+            checked={filters.hideNoData}
+            onChange={onToggleHideNoData}
+          />
+          <span className="checkbox-custom"></span>
+          <span className="option-label">Hide hotels with no fee data</span>
+        </label>
       </div>
 
       {/* Country Filter */}
