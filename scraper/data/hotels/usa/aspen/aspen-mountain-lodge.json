@@ -1,0 +1,32 @@
+{
+  "id": "usa-aspen-aspen-mountain-lodge",
+  "name": "Aspen Mountain Lodge",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 39.1856,
+    "lng": -106.8189
+  },
+  "sources": {
+    "officialWebsite": "https://www.aspenmountainlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/us/aspen-mountain-lodge-aspen1.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF9hc3BlbiBtb3VudGFpbiBsb2RnZSBhc3BlbkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCt72oygbAAgHSAiRlZmMwOTY1OC1iMzgyLTQ2NjItOWI3Yy02NGY4NmU4MmE3ZjPYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8df8219bdf37004b&srepoch=1766465210&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/aspen-mountain-lodge-aspen1.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF9hc3BlbiBtb3VudGFpbiBsb2RnZSBhc3BlbkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCt72oygbAAgHSAiRlZmMwOTY1OC1iMzgyLTQ2NjItOWI3Yy02NGY4NmU4MmE3ZjPYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8df8219bdf37004b&srepoch=1766465210&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:47:07Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

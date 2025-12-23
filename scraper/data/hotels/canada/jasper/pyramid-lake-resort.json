@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-pyramid-lake-resort",
+  "name": "Pyramid Lake Resort",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 52.9123,
+    "lng": -118.0912
+  },
+  "sources": {
+    "officialWebsite": "https://www.pyramidlakeresort.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/pyramid-lake-resort.en-gb.html?aid=304142&label=mkt123sc-3dac0691-943d-4a7a-94c8-f3a69ffd9d92&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=74616463483beb78a9c62f2b51cff760&srepoch=1766445308&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/pyramid-lake-resort.en-gb.html?aid=304142&label=mkt123sc-3dac0691-943d-4a7a-94c8-f3a69ffd9d92&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=74616463483beb78a9c62f2b51cff760&srepoch=1766445308&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:15:26Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "france-chamonix-hotel-park-hôtel-suisse",
+  "name": "Hotel Park Hôtel Suisse",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 45.9234,
+    "lng": 6.8667
+  },
+  "sources": {
+    "officialWebsite": "https://www.chamonix-park-hotel.com/",
+    "policyPage": "https://www.booking.com/hotel/fr/park-suisse.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9ob3RlbCBwYXJrIGjDtHRlbCBzdWlzc2UgY2hhbW9uaXhIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Atu8qMoGwAIB0gIkNDM5ZWFhNWYtNjQxNS00NTBlLWE1ZDAtM2U5MWI0MWMxYjI42AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=a7f9216da4630237&srepoch=1766465119&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/fr/park-suisse.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9ob3RlbCBwYXJrIGjDtHRlbCBzdWlzc2UgY2hhbW9uaXhIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Atu8qMoGwAIB0gIkNDM5ZWFhNWYtNjQxNS00NTBlLWE1ZDAtM2U5MWI0MWMxYjI42AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=a7f9216da4630237&srepoch=1766465119&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:45:36Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

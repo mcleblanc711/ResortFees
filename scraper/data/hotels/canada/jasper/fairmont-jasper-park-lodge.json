@@ -12,15 +12,23 @@
   },
   "sources": {
     "officialWebsite": "https://www.fairmont.com/jasper/",
-    "policyPage": "https://www.fairmont.com/en/hotels/jasper/fairmont-jasper-park-lodge/guest-services.html#faq-accessibility",
+    "policyPage": "https://permalink.fairmont.com/booking/select?dateIn=2025-12-22&lengthOfStayValue=1&client=aem.fairmont&product%5B0%5D%5BadultNumber%5D=2&languageCode=en&hotelCodes=A562",
     "bookingCom": null,
     "dataSource": "official"
   },
   "taxes": [],
-  "fees": [],
+  "fees": [
+    {
+      "name": "Parking",
+      "amount": "$45",
+      "basis": "per night",
+      "includes": null,
+      "notes": null
+    }
+  ],
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:01:56Z",
-  "scrapingNotes": "No taxes or fees found on policy page"
+  "scrapedAt": "2025-12-22T23:13:36Z",
+  "scrapingNotes": null
 }

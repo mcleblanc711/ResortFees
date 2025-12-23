@@ -1,0 +1,32 @@
+{
+  "id": "usa-aspen-the-st-regis-aspen-resort",
+  "name": "The St. Regis Aspen Resort",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 39.1911,
+    "lng": -106.8205
+  },
+  "sources": {
+    "officialWebsite": "https://www.marriott.com/hotels/travel/asexr-the-st-regis-aspen-resort/",
+    "policyPage": "https://www.booking.com/hotel/us/st-regis-aspen-resort.html?aid=304142&label=mkt123sc-c3aa9ee5-f066-4ccb-b17a-83da2667ce97&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7c4f236bfa33622ac101388ee4873fbf&srepoch=1766464651&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/st-regis-aspen-resort.html?aid=304142&label=mkt123sc-c3aa9ee5-f066-4ccb-b17a-83da2667ce97&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7c4f236bfa33622ac101388ee4873fbf&srepoch=1766464651&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:37:47Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

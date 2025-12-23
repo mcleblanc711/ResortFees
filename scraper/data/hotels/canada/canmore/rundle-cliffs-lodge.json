@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-rundle-cliffs-lodge",
+  "name": "Rundle Cliffs Lodge",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 51.0812,
+    "lng": -115.3345
+  },
+  "sources": {
+    "officialWebsite": "https://www.rundlecliffs.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/rundle-cliffs-lodge-by-canmore-premie.en-gb.html?aid=304142&label=mkt123sc-ef1d6c69-570e-451d-94e4-c72df67b1576&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=931a4f7f7049f78028eddf97bef3efcc&srepoch=1766444389&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/rundle-cliffs-lodge-by-canmore-premie.en-gb.html?aid=304142&label=mkt123sc-ef1d6c69-570e-451d-94e4-c72df67b1576&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=931a4f7f7049f78028eddf97bef3efcc&srepoch=1766444389&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:00:06Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

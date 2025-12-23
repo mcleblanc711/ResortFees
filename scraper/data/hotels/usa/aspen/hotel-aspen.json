@@ -1,0 +1,32 @@
+{
+  "id": "usa-aspen-hotel-aspen",
+  "name": "Hotel Aspen",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 39.1912,
+    "lng": -106.8245
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelaspen.com/",
+    "policyPage": "https://www.booking.com/hotel/gb/aspen-apartments.en-gb.html?aid=304142&label=mkt123sc-8b3da781-86dd-414a-b219-66350a91a982&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=c0729dc4a48e1b26c04b8d495402fc61&srepoch=1766465113&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/gb/aspen-apartments.en-gb.html?aid=304142&label=mkt123sc-8b3da781-86dd-414a-b219-66350a91a982&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=c0729dc4a48e1b26c04b8d495402fc61&srepoch=1766465113&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:45:33Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

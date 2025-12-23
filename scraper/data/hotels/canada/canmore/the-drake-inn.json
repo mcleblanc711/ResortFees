@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-the-drake-inn",
+  "name": "The Drake Inn",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": 51.0889,
+    "lng": -115.3512
+  },
+  "sources": {
+    "officialWebsite": "https://www.drakeinn.com/",
+    "policyPage": "https://www.drakeinn.com/about",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:56:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-hotel-mont-tremblant",
+  "name": "Hotel Mont Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 25,
+  "coordinates": {
+    "lat": 46.2156,
+    "lng": -74.5834
+  },
+  "sources": {
+    "officialWebsite": "https://www.hoteltremblant.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/mont-tremblant.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKnNlYXJjaF9ob3RlbCBtb250IHRyZW1ibGFudCBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCkOKnygbAAgHSAiQwZWMxMjE4My0zNWIyLTQyODItOGM0Ni1hY2FkYzljZWNiN2LYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=290b0ac866a0010a&srepoch=1766453524&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/mont-tremblant.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKnNlYXJjaF9ob3RlbCBtb250IHRyZW1ibGFudCBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCkOKnygbAAgHSAiQwZWMxMjE4My0zNWIyLTQyODItOGM0Ni1hY2FkYzljZWNiN2LYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=290b0ac866a0010a&srepoch=1766453524&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:32:20Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

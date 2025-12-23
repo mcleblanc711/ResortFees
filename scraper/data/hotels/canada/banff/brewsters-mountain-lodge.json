@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-brewsters-mountain-lodge",
+  "name": "Brewster's Mountain Lodge",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 24,
+  "coordinates": {
+    "lat": 51.1779,
+    "lng": -115.5707
+  },
+  "sources": {
+    "officialWebsite": "https://www.brewstermountainlodge.com/",
+    "policyPage": "https://brewstermountainlodge.com/privacy",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:32:18Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

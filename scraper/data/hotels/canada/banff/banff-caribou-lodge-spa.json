@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-banff-caribou-lodge-spa",
+  "name": "Banff Caribou Lodge & Spa",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 10,
+  "coordinates": {
+    "lat": 51.1756,
+    "lng": -115.5689
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestofbanff.com/banff-caribou-lodge/",
+    "policyPage": "https://www.booking.com/hotel/ca/banff-caribou-lodge-and-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJnNlYXJjaF9iYW5mZiBjYXJpYm91IGxvZGdlICYgc3BhIGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAL_hqfKBsACAdICJGVjYzhhOGM2LTRmYjUtNGJiNy05N2I1LTdlNjJmNTNhN2M4M9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f4609cbfa180013f&srepoch=1766441858&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/banff-caribou-lodge-and-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJnNlYXJjaF9iYW5mZiBjYXJpYm91IGxvZGdlICYgc3BhIGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAL_hqfKBsACAdICJGVjYzhhOGM2LTRmYjUtNGJiNy05N2I1LTdlNjJmNTNhN2M4M9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f4609cbfa180013f&srepoch=1766441858&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:17:54Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

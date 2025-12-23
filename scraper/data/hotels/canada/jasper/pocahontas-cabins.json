@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-pocahontas-cabins",
+  "name": "Pocahontas Cabins",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": 53.0867,
+    "lng": -117.9012
+  },
+  "sources": {
+    "officialWebsite": "https://www.pocahontascabins.com/",
+    "policyPage": "https://www.booking.com/hotel/au/jaspers-cabins.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCH3NlYXJjaF9wb2NhaG9udGFzIGNhYmlucyBqYXNwZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AuGnp8oGwAIB0gIkZDU0NDg1NmUtMDhjNS00NWZhLThjYWUtODg2ZDllYmJiYzVi2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=42cea4f0e50a0ccb&srepoch=1766446052&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/au/jaspers-cabins.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCH3NlYXJjaF9wb2NhaG9udGFzIGNhYmlucyBqYXNwZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AuGnp8oGwAIB0gIkZDU0NDg1NmUtMDhjNS00NWZhLThjYWUtODg2ZDllYmJiYzVi2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=42cea4f0e50a0ccb&srepoch=1766446052&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:27:49Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

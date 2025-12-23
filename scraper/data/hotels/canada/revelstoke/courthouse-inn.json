@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-courthouse-inn",
+  "name": "Courthouse Inn",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 27,
+  "coordinates": {
+    "lat": 50.9978,
+    "lng": -118.1978
+  },
+  "sources": {
+    "officialWebsite": "https://www.courthouseinn.ca/",
+    "policyPage": "https://www.booking.com/hotel/ca/courthouse-inn-revelstoke.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9jb3VydGhvdXNlIGlubiByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAL4zqfKBsACAdICJDU0MjNjNTE1LWZhOGEtNDI4MS1hOTU1LWE3ZThlYzQwMDM5ZdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3a5905fc666c017f&srepoch=1766451067&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/courthouse-inn-revelstoke.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9jb3VydGhvdXNlIGlubiByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAL4zqfKBsACAdICJDU0MjNjNTE1LWZhOGEtNDI4MS1hOTU1LWE3ZThlYzQwMDM5ZdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3a5905fc666c017f&srepoch=1766451067&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:51:24Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

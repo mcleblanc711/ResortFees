@@ -1,0 +1,26 @@
+{
+  "id": "usa-aspen-hotel-jerome",
+  "name": "Hotel Jerome",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 4,
+  "coordinates": {
+    "lat": 39.1901,
+    "lng": -106.8221
+  },
+  "sources": {
+    "officialWebsite": "https://www.aubergeresorts.com/hoteljerome/",
+    "policyPage": "https://www.booking.com/hotel/us/po-hotel-jerome-an-auberge-resort-aspen.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9ob3RlbCBqZXJvbWUgYXNwZW5IM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ap66qMoGwAIB0gIkZDgzYTg4MDItNjQzYS00NDUxLTg2MWEtODQ4OTIwYWEwNDcx2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e52520cfd85a02a5&srepoch=1766464801&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/po-hotel-jerome-an-auberge-resort-aspen.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9ob3RlbCBqZXJvbWUgYXNwZW5IM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ap66qMoGwAIB0gIkZDgzYTg4MDItNjQzYS00NDUxLTg2MWEtODQ4OTIwYWEwNDcx2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e52520cfd85a02a5&srepoch=1766464801&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:40:17Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

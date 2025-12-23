@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-comfort-inn-collingwood",
+  "name": "Comfort Inn Collingwood",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 44.5001,
+    "lng": -80.2234
+  },
+  "sources": {
+    "officialWebsite": "https://www.choicehotels.com/ontario/collingwood/comfort-inn-hotels",
+    "policyPage": "https://www.choicehotels.com/about",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:58:19Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

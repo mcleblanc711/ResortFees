@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-samesun-banff",
+  "name": "Samesun Banff",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 51.1785,
+    "lng": -115.5718
+  },
+  "sources": {
+    "officialWebsite": "https://www.samesun.com/banff/",
+    "policyPage": "https://samesun.com/about-samesun/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:34:54Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-comfort-inn-mont-tremblant",
+  "name": "Comfort Inn Mont Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 46.2189,
+    "lng": -74.5789
+  },
+  "sources": {
+    "officialWebsite": "https://www.choicehotels.com/quebec/mont-tremblant/comfort-inn-hotels",
+    "policyPage": "https://www.choicehotels.com/about",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:14:42Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

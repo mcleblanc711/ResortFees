@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-hilton-whistler-resort-spa",
+  "name": "Hilton Whistler Resort & Spa",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 50.1134,
+    "lng": -122.9556
+  },
+  "sources": {
+    "officialWebsite": "https://www.hilton.com/en/hotels/ywshrhh-hilton-whistler-resort-and-spa/",
+    "policyPage": "https://www.booking.com/hotel/ca/hilton-whistler-resort-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCLHNlYXJjaF9oaWx0b24gd2hpc3RsZXIgcmVzb3J0ICYgc3BhIHdoaXN0bGVySDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKxtafKBsACAdICJDBmOGZiYWNhLWRmMzMtNGUxOS1hODQ2LTc3MTRiYjIzODBjNNgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=1fe0a8589246021d&srepoch=1766447796&from_sustainable_property_sr=1&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/hilton-whistler-resort-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCLHNlYXJjaF9oaWx0b24gd2hpc3RsZXIgcmVzb3J0ICYgc3BhIHdoaXN0bGVySDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKxtafKBsACAdICJDBmOGZiYWNhLWRmMzMtNGUxOS1hODQ2LTc3MTRiYjIzODBjNNgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=1fe0a8589246021d&srepoch=1766447796&from_sustainable_property_sr=1&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:56:54Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

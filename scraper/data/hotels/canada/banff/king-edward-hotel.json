@@ -1,0 +1,40 @@
+{
+  "id": "canada-banff-king-edward-hotel",
+  "name": "King Edward Hotel",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 25,
+  "coordinates": {
+    "lat": 51.1781,
+    "lng": -115.5711
+  },
+  "sources": {
+    "officialWebsite": "https://www.kingedwardbanff.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/king-edward-banff.en-gb.html?aid=304142&label=mkt123sc-8063627c-b475-4e91-9632-cc8f8b52a1a7&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=77000597bf33ba58c1e6e613972c67d3&srepoch=1766442826&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/king-edward-banff.en-gb.html?aid=304142&label=mkt123sc-8063627c-b475-4e91-9632-cc8f8b52a1a7&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=77000597bf33ba58c1e6e613972c67d3&srepoch=1766442826&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [
+    {
+      "name": "Pets",
+      "amount": "f $25",
+      "basis": "per night",
+      "includes": null,
+      "notes": "As listed on Booking.com"
+    }
+  ],
+  "extraPersonPolicy": null,
+  "damageDeposit": {
+    "amount": "$150",
+    "basis": "per night",
+    "method": null,
+    "refundTimeline": null,
+    "notes": "As listed on Booking.com"
+  },
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:34:04Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-banff-voyager-inn",
+  "name": "Banff Voyager Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 51.1789,
+    "lng": -115.5723
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffvoyagerinn.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/the-banff-inn.en-gb.html?aid=304142&label=mkt123sc-5ad38823-3c53-42b1-8437-becc8c9a140a&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=63bf7fb640fc49c019328e74a922f1e1&srepoch=1766442420&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/the-banff-inn.en-gb.html?aid=304142&label=mkt123sc-5ad38823-3c53-42b1-8437-becc8c9a140a&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=63bf7fb640fc49c019328e74a922f1e1&srepoch=1766442420&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": 12,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:27:17Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

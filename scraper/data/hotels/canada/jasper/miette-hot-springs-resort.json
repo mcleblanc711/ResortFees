@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-miette-hot-springs-resort",
+  "name": "Miette Hot Springs Resort",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 53.1234,
+    "lng": -117.7856
+  },
+  "sources": {
+    "officialWebsite": "https://www.miettehotsprings.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/pocahontas-cabins.en-gb.html?aid=304142&label=mkt123sc-d3aee39b-894e-4331-962f-d16f8e177a39&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=449135b21a97feb806f3e6b14d2de4a2&srepoch=1766446519&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/pocahontas-cabins.en-gb.html?aid=304142&label=mkt123sc-d3aee39b-894e-4331-962f-d16f8e177a39&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=449135b21a97feb806f3e6b14d2de4a2&srepoch=1766446519&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:35:36Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

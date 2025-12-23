@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-sunset-resorts-canmore",
+  "name": "Sunset Resorts Canmore",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 51.0756,
+    "lng": -115.3234
+  },
+  "sources": {
+    "officialWebsite": "https://www.sunsetresortscanmore.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/sunset-resorts-canmore.en-gb.html?aid=304142&label=mkt123sc-bad70234-cd34-4cd4-90af-5b367b520ddf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2fd64aa18e210b164d972fd8231c23c1&srepoch=1766445122&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/sunset-resorts-canmore.en-gb.html?aid=304142&label=mkt123sc-bad70234-cd34-4cd4-90af-5b367b520ddf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2fd64aa18e210b164d972fd8231c23c1&srepoch=1766445122&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:12:21Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

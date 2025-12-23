@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-delta-hotels-by-marriott-whistler-village-suites",
+  "name": "Delta Hotels by Marriott Whistler Village Suites",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 50.1145,
+    "lng": -122.9523
+  },
+  "sources": {
+    "officialWebsite": "https://www.marriott.com/hotels/travel/ysewv-delta-hotels-whistler-village-suites/",
+    "policyPage": "https://www.booking.com/hotel/ca/d-w-village-suites-whistler-british-columbia.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCQHNlYXJjaF9kZWx0YSBob3RlbHMgYnkgbWFycmlvdHQgd2hpc3RsZXIgdmlsbGFnZSBzdWl0ZXMgd2hpc3RsZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Api2p8oGwAIB0gIkZGMwMWFkZGEtYjNmMC00MDBlLThiOTgtMTNiYTZlZmIyY2Rh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=42cca88cdf370092&srepoch=1766447900&from_sustainable_property_sr=1&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/d-w-village-suites-whistler-british-columbia.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCQHNlYXJjaF9kZWx0YSBob3RlbHMgYnkgbWFycmlvdHQgd2hpc3RsZXIgdmlsbGFnZSBzdWl0ZXMgd2hpc3RsZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Api2p8oGwAIB0gIkZGMwMWFkZGEtYjNmMC00MDBlLThiOTgtMTNiYTZlZmIyY2Rh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=42cca88cdf370092&srepoch=1766447900&from_sustainable_property_sr=1&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:58:37Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

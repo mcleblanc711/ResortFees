@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-stoke-hotel",
+  "name": "Stoke Hotel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 16,
+  "coordinates": {
+    "lat": 50.9623,
+    "lng": -118.1912
+  },
+  "sources": {
+    "officialWebsite": "https://www.stokehotel.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9zdG9rZSBob3RlbCByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALkyKfKBsACAdICJDdjYzZlMDQ1LTBlMDQtNDNiZi05YjAyLTE1NDUxYzhkZWJlZtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=b705047269620014&srepoch=1766450280&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9zdG9rZSBob3RlbCByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALkyKfKBsACAdICJDdjYzZlMDQ1LTBlMDQtNDNiZi05YjAyLTE1NDUxYzhkZWJlZtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=b705047269620014&srepoch=1766450280&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:38:15Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

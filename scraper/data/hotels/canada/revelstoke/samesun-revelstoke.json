@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-samesun-revelstoke",
+  "name": "Samesun Revelstoke",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 50.9978,
+    "lng": -118.1978
+  },
+  "sources": {
+    "officialWebsite": "https://www.samesun.com/revelstoke/",
+    "policyPage": "https://samesun.com/about-samesun/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:41:04Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

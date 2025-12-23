@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.bluemountain.ca/plan-your-trip/accommodations/grand-georgian",
-    "policyPage": "https://www.bluemountain.ca/terms-and-conditions",
+    "policyPage": "https://www.bluemountain.ca/discover-blue/getting-here",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T06:10:40Z",
+  "scrapedAt": "2025-12-23T01:42:39Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

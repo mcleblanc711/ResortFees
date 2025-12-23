@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-basecamp-suites-banff",
+  "name": "Basecamp Suites Banff",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 17,
+  "coordinates": {
+    "lat": 51.1771,
+    "lng": -115.5688
+  },
+  "sources": {
+    "officialWebsite": "https://basecampresorts.com/banff/",
+    "policyPage": "https://basecampresorts.com/about/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:24:52Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -12,15 +12,23 @@
   },
   "sources": {
     "officialWebsite": "https://www.banffinn.com/",
-    "policyPage": "https://banffinn.com/hotel-policies/",
+    "policyPage": "https://banffinn.com/amenities/",
     "bookingCom": null,
     "dataSource": "official"
   },
   "taxes": [],
-  "fees": [],
+  "fees": [
+    {
+      "name": "Parking",
+      "amount": "$19.95",
+      "basis": "per night",
+      "includes": null,
+      "notes": null
+    }
+  ],
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:37:31Z",
-  "scrapingNotes": "No taxes or fees found on policy page"
+  "scrapedAt": "2025-12-22T22:23:59Z",
+  "scrapingNotes": null
 }

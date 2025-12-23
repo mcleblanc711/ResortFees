@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-blanket-creek-cabins",
+  "name": "Blanket Creek Cabins",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 25,
+  "coordinates": {
+    "lat": 50.8234,
+    "lng": -118.0456
+  },
+  "sources": {
+    "officialWebsite": "https://www.blanketcreekcabins.com/",
+    "policyPage": "https://www.booking.com/hotel/fi/crow-creek-cabins.en-gb.html?aid=304142&label=mkt123sc-edd5fe34-fc7b-4a9c-aacd-3c2bcc8b5af3&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=314cf88f50fed863bf612fbd0f47ddc1&srepoch=1766450923&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/fi/crow-creek-cabins.en-gb.html?aid=304142&label=mkt123sc-edd5fe34-fc7b-4a9c-aacd-3c2bcc8b5af3&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=314cf88f50fed863bf612fbd0f47ddc1&srepoch=1766450923&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:49:03Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

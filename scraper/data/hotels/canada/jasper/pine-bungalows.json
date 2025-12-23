@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-pine-bungalows",
+  "name": "Pine Bungalows",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 52.8612,
+    "lng": -118.0312
+  },
+  "sources": {
+    "officialWebsite": "https://www.pinebungalows.com/",
+    "policyPage": "https://pinebungalows.com/about-us/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:17:51Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

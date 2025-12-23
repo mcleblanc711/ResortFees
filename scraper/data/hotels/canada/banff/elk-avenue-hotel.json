@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-elk-avenue-hotel",
+  "name": "Elk + Avenue Hotel",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 51.1778,
+    "lng": -115.5712
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestofbanff.com/elk-avenue/",
+    "policyPage": "https://www.booking.com/hotel/ca/banff-international.en-gb.html?aid=304142&label=mkt123sc-44d7f539-d4d0-46a9-9efa-e17c5f68daba&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=72ecf2398c75b24dc80cd86dc96d711a&srepoch=1766441630&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/banff-international.en-gb.html?aid=304142&label=mkt123sc-44d7f539-d4d0-46a9-9efa-e17c5f68daba&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=72ecf2398c75b24dc80cd86dc96d711a&srepoch=1766441630&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:14:06Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

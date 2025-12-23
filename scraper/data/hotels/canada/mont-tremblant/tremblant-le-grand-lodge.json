@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.legrandlodge.com/",
-    "policyPage": "https://legrandlodge.com/politique-et-reglements/",
+    "policyPage": "https://legrandlodge.com/a-propos/",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:55:05Z",
+  "scrapedAt": "2025-12-23T01:03:16Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-whistler-cascade-lodge",
+  "name": "Whistler Cascade Lodge",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 50.1167,
+    "lng": -122.9501
+  },
+  "sources": {
+    "officialWebsite": "https://www.whistlercascadelodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/cascade-lodge-by-resortquest-whistler.en-gb.html?aid=304142&label=mkt123sc-191c5d19-a020-41b6-9029-a99ac9488f33&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=68dffe4bcd6408950573e541d615503c&srepoch=1766449081&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/cascade-lodge-by-resortquest-whistler.en-gb.html?aid=304142&label=mkt123sc-191c5d19-a020-41b6-9029-a99ac9488f33&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=68dffe4bcd6408950573e541d615503c&srepoch=1766449081&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:18:20Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

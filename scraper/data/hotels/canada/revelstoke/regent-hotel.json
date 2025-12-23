@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-regent-hotel",
+  "name": "Regent Hotel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 50.9989,
+    "lng": -118.1978
+  },
+  "sources": {
+    "officialWebsite": "https://www.regenthotelrevelstoke.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/revelstoke-box-582-112-east-first-street.en-gb.html?aid=304142&label=mkt123sc-a05014db-7724-4a52-8094-004ee7856a2a&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7c05bef4df4105a26ed38f9b09ec6370&srepoch=1766449512&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/revelstoke-box-582-112-east-first-street.en-gb.html?aid=304142&label=mkt123sc-a05014db-7724-4a52-8094-004ee7856a2a&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7c05bef4df4105a26ed38f9b09ec6370&srepoch=1766449512&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:25:32Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

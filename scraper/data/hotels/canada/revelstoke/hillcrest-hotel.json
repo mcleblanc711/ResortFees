@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-hillcrest-hotel",
+  "name": "Hillcrest Hotel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 50.9978,
+    "lng": -118.1956
+  },
+  "sources": {
+    "officialWebsite": "https://www.hillcresthotelrevelstoke.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/revelstoke-2100-oak-drive.en-gb.html?aid=304142&label=mkt123sc-1d9edfd8-1f7a-40f6-ac86-7bee03600812&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f44582917bfc5dd0234ead59e239b375&srepoch=1766449307&from_sustainable_property_sr=1&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/revelstoke-2100-oak-drive.en-gb.html?aid=304142&label=mkt123sc-1d9edfd8-1f7a-40f6-ac86-7bee03600812&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f44582917bfc5dd0234ead59e239b375&srepoch=1766449307&from_sustainable_property_sr=1&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:22:06Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

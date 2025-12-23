@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-astoria-hotel",
+  "name": "Astoria Hotel",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 52.8734,
+    "lng": -118.0778
+  },
+  "sources": {
+    "officialWebsite": "https://www.astoriajasper.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/astoria.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9hc3RvcmlhIGhvdGVsIGphc3BlckgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC4KWnygbAAgHSAiQ4ZjlkMzY3Yy02M2ViLTRlY2YtYmNjNy1hYjM4ODczN2I3ZGHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=fa2ba470374a01ac&srepoch=1766445795&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/astoria.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9hc3RvcmlhIGhvdGVsIGphc3BlckgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC4KWnygbAAgHSAiQ4ZjlkMzY3Yy02M2ViLTRlY2YtYmNjNy1hYjM4ODczN2I3ZGHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=fa2ba470374a01ac&srepoch=1766445795&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:23:32Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

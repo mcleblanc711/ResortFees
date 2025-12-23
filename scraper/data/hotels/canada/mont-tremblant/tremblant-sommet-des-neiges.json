@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-sommet-des-neiges",
+  "name": "Sommet des Neiges",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 46.2156,
+    "lng": -74.5823
+  },
+  "sources": {
+    "officialWebsite": "https://www.sommetdesneiges.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/sommet-des-neiges.en-gb.html?aid=304142&label=mkt123sc-8889843f-6399-46e8-a80a-42dde2208a6b&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5cd26237e913cd57f9523299a095ff61&srepoch=1766451983&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/sommet-des-neiges.en-gb.html?aid=304142&label=mkt123sc-8889843f-6399-46e8-a80a-42dde2208a6b&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5cd26237e913cd57f9523299a095ff61&srepoch=1766451983&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:06:41Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

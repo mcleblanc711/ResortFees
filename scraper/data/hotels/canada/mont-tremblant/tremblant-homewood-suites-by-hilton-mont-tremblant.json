@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-homewood-suites-by-hilton-mont-tremblant",
+  "name": "Homewood Suites by Hilton Mont-Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 4,
+  "coordinates": {
+    "lat": 46.2145,
+    "lng": -74.5845
+  },
+  "sources": {
+    "officialWebsite": "https://www.hilton.com/en/hotels/yulhwhw-homewood-suites-mont-tremblant/",
+    "policyPage": "https://www.hilton.com/en/brands/homewood-suites/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:00:46Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

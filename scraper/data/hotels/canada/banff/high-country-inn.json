@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-high-country-inn",
+  "name": "High Country Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 21,
+  "coordinates": {
+    "lat": 51.1765,
+    "lng": -115.5681
+  },
+  "sources": {
+    "officialWebsite": "https://www.highcountryinn.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/po-coast-high-country-inn-whitehorse.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9oaWdoIGNvdW50cnkgaW5uIGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKYjKfKBsACAdICJGM4MjZlZjAzLWQ3NDItNDQwMC1hM2EyLTM3MjBmNWM5NmE2YdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=36fa9e0cd2690889&srepoch=1766442524&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/po-coast-high-country-inn-whitehorse.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9oaWdoIGNvdW50cnkgaW5uIGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKYjKfKBsACAdICJGM4MjZlZjAzLWQ3NDItNDQwMC1hM2EyLTM3MjBmNWM5NmE2YdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=36fa9e0cd2690889&srepoch=1766442524&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:29:00Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

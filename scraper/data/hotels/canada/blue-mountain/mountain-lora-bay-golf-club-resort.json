@@ -1,0 +1,40 @@
+{
+  "id": "canada-blue-mountain-lora-bay-golf-club-resort",
+  "name": "Lora Bay Golf Club & Resort",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 16,
+  "coordinates": {
+    "lat": 44.4812,
+    "lng": -80.2967
+  },
+  "sources": {
+    "officialWebsite": "https://www.lorabay.com/",
+    "policyPage": "https://www.booking.com/hotel/us/kingwood-country-club-and-resort.en-gb.html?aid=304142&label=mkt123sc-076b7c1a-8e68-428a-afbd-5bec27baf5e8&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=deb34dec44cb492532803b5143b2b26b&srepoch=1766454900&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/kingwood-country-club-and-resort.en-gb.html?aid=304142&label=mkt123sc-076b7c1a-8e68-428a-afbd-5bec27baf5e8&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=deb34dec44cb492532803b5143b2b26b&srepoch=1766454900&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [
+    {
+      "name": "Internet",
+      "amount": ",",
+      "basis": "per night",
+      "includes": null,
+      "notes": "As listed on Booking.com"
+    }
+  ],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:55:19Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

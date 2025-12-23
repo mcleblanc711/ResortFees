@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-whistler-lodge-hostel",
+  "name": "Whistler Lodge Hostel",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 27,
+  "coordinates": {
+    "lat": 50.1189,
+    "lng": -122.9545
+  },
+  "sources": {
+    "officialWebsite": "https://www.whistlerlodgehostel.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/whistler-peak-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJXNlYXJjaF93aGlzdGxlciBsb2RnZSBob3N0ZWwgd2hpc3RsZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AoO9p8oGwAIB0gIkNTE3OGEwMTktOGZjMy00YTM3LTlkNTktODgxYjViNGM1NzAw2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=99360181046603cd&srepoch=1766448774&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/whistler-peak-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJXNlYXJjaF93aGlzdGxlciBsb2RnZSBob3N0ZWwgd2hpc3RsZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AoO9p8oGwAIB0gIkNTE3OGEwMTktOGZjMy00YTM3LTlkNTktODgxYjViNGM1NzAw2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=99360181046603cd&srepoch=1766448774&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:13:11Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

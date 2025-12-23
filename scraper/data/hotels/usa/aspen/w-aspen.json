@@ -1,0 +1,32 @@
+{
+  "id": "usa-aspen-w-aspen",
+  "name": "W Aspen",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 39.1867,
+    "lng": -106.8176
+  },
+  "sources": {
+    "officialWebsite": "https://www.marriott.com/hotels/travel/asewh-w-aspen/",
+    "policyPage": "https://www.booking.com/hotel/us/w-aspen.en-gb.html?aid=304142&label=mkt123sc-d35c7823-716a-4a02-8940-a419ce28884f&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d1474a4579b8f0739e8e286c064a63c2&srepoch=1766464909&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/w-aspen.en-gb.html?aid=304142&label=mkt123sc-d35c7823-716a-4a02-8940-a419ce28884f&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d1474a4579b8f0739e8e286c064a63c2&srepoch=1766464909&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:42:08Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

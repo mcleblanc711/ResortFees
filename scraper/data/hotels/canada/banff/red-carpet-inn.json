@@ -1,0 +1,26 @@
+{
+  "id": "canada-banff-red-carpet-inn",
+  "name": "Red Carpet Inn",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 29,
+  "coordinates": {
+    "lat": 51.1787,
+    "lng": -115.5721
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffredcarpetinn.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/red-carpet-inn.en-gb.html?aid=304142&label=mkt123sc-a9b51211-5231-4a02-a479-9c738e9b8f94&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9b433545aceb6d7aa20c452b17fa2e32&srepoch=1766443015&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/red-carpet-inn.en-gb.html?aid=304142&label=mkt123sc-a9b51211-5231-4a02-a479-9c738e9b8f94&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9b433545aceb6d7aa20c452b17fa2e32&srepoch=1766443015&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:37:14Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

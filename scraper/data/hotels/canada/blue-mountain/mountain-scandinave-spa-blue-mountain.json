@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.scandinave.com/bluemountain/",
-    "policyPage": "https://www.scandinave.com/terms-and-conditions",
+    "policyPage": "https://www.scandinave.com/search",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T06:16:14Z",
+  "scrapedAt": "2025-12-23T01:55:57Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

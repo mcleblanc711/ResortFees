@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-moose-hotel-and-suites",
+  "name": "Moose Hotel and Suites",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 51.1762,
+    "lng": -115.5708
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffmoosehotel.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/moose-and-suites.en-gb.html?aid=304142&label=mkt123sc-409007e3-0c34-421e-8748-6e066a0149de&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ac6b4c92d14677abe059153a32418806&srepoch=1766441242&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/moose-and-suites.en-gb.html?aid=304142&label=mkt123sc-409007e3-0c34-421e-8748-6e066a0149de&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ac6b4c92d14677abe059153a32418806&srepoch=1766441242&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:07:40Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.fourseasons.com/whistler/",
-    "policyPage": "https://www.fourseasons.com/legal/accessibility-policy/",
+    "policyPage": "https://reservations.fourseasons.com/en?cawConfig.customBooker=true&generalReservationForm.locationId=YWS199",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:21:35Z",
+  "scrapedAt": "2025-12-22T23:53:01Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

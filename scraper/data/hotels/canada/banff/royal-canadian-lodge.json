@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-royal-canadian-lodge",
+  "name": "Royal Canadian Lodge",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 51.1761,
+    "lng": -115.5693
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffroyalcanadianlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/royal-canadian-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF9yb3lhbCBjYW5hZGlhbiBsb2RnZSBiYW5mZkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCsomnygbAAgHSAiQxMjQwZWRjNi1kODk5LTQ2MjktYmY1Mi1kMjVlNDY0MzgzOTDYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=00bd9d5944300093&srepoch=1766442165&from_sustainable_property_sr=1&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/royal-canadian-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF9yb3lhbCBjYW5hZGlhbiBsb2RnZSBiYW5mZkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCsomnygbAAgHSAiQxMjQwZWRjNi1kODk5LTQ2MjktYmY1Mi1kMjVlNDY0MzgzOTDYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=00bd9d5944300093&srepoch=1766442165&from_sustainable_property_sr=1&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:23:03Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

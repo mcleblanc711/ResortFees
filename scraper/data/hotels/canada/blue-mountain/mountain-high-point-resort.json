@@ -1,0 +1,32 @@
+{
+  "id": "canada-blue-mountain-high-point-resort",
+  "name": "High Point Resort",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 15,
+  "coordinates": {
+    "lat": 44.5089,
+    "lng": -80.3234
+  },
+  "sources": {
+    "officialWebsite": "https://www.highpointresort.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/whiskey-point-resort.en-gb.html?aid=304142&label=mkt123sc-4da53d9e-c359-429b-9003-4eabc58f3891&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=26f61c5feaa6337ed75b38367cb95282&srepoch=1766454803&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/whiskey-point-resort.en-gb.html?aid=304142&label=mkt123sc-4da53d9e-c359-429b-9003-4eabc58f3891&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=26f61c5feaa6337ed75b38367cb95282&srepoch=1766454803&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:53:42Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

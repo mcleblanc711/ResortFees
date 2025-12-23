@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-the-georgetown-inn",
+  "name": "The Georgetown Inn",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 51.0878,
+    "lng": -115.3489
+  },
+  "sources": {
+    "officialWebsite": "https://www.georgetowninn.ca/",
+    "policyPage": "https://www.booking.com/hotel/ca/the-georgetown-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF90aGUgZ2VvcmdldG93biBpbm4gY2FubW9yZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC6JSnygbAAgHSAiQxMWU5YjJkZC04MzMyLTQ1NTMtODIzNi00MmY5NWMzNzBkMzjYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=eeaca03405700288&srepoch=1766443628&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/the-georgetown-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIXNlYXJjaF90aGUgZ2VvcmdldG93biBpbm4gY2FubW9yZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC6JSnygbAAgHSAiQxMWU5YjJkZC04MzMyLTQ1NTMtODIzNi00MmY5NWMzNzBkMzjYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=eeaca03405700288&srepoch=1766443628&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:47:25Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

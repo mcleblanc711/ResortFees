@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-jasper-downtown-hostel",
+  "name": "Jasper Downtown Hostel",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 24,
+  "coordinates": {
+    "lat": 52.8767,
+    "lng": -118.0834
+  },
+  "sources": {
+    "officialWebsite": "https://www.jasperdowntownhostel.ca/",
+    "policyPage": "https://www.booking.com/hotel/ca/jasper-downtown-hostel.en-gb.html?aid=304142&label=mkt123sc-8105d89b-a862-4c90-8b86-c1e273b1a71e&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=cfbca210a0ecff1a205d709e84de8008&srepoch=1766446381&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/jasper-downtown-hostel.en-gb.html?aid=304142&label=mkt123sc-8105d89b-a862-4c90-8b86-c1e273b1a71e&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=cfbca210a0ecff1a205d709e84de8008&srepoch=1766446381&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:33:18Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

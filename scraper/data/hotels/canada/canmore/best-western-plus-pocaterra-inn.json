@@ -1,0 +1,40 @@
+{
+  "id": "canada-canmore-best-western-plus-pocaterra-inn",
+  "name": "Best Western Plus Pocaterra Inn",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 51.0901,
+    "lng": -115.3534
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestwestern.com/en_US/book/hotels-in-canmore/best-western-plus-pocaterra-inn/propertyCode.61098.html",
+    "policyPage": "https://www.booking.com/hotel/us/best-western-plus-anaheim-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCLnNlYXJjaF9iZXN0IHdlc3Rlcm4gcGx1cyBwb2NhdGVycmEgaW5uIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGZp8oGwAIB0gIkNDllZDdmOTUtZjUxNS00NTkwLWI5ODgtM2NiMjg3MGRhMjhk2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7ac1a178062909f9&srepoch=1766444276&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/best-western-plus-anaheim-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCLnNlYXJjaF9iZXN0IHdlc3Rlcm4gcGx1cyBwb2NhdGVycmEgaW5uIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGZp8oGwAIB0gIkNDllZDdmOTUtZjUxNS00NTkwLWI5ODgtM2NiMjg3MGRhMjhk2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7ac1a178062909f9&srepoch=1766444276&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [
+    {
+      "name": "Parking",
+      "amount": "f 1",
+      "basis": "per room per night",
+      "includes": null,
+      "notes": "As listed on Booking.com"
+    }
+  ],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available; Rollaway beds available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:58:11Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

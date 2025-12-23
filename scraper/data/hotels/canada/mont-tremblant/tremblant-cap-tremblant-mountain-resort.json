@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-cap-tremblant-mountain-resort",
+  "name": "Cap Tremblant Mountain Resort",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 46.2234,
+    "lng": -74.5756
+  },
+  "sources": {
+    "officialWebsite": "https://www.captremblant.ca/",
+    "policyPage": "https://www.captremblant.com/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:21:07Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "switzerland-zermatt-the-alpenhof",
+  "name": "The Alpenhof",
+  "town": "Zermatt",
+  "region": "Valais",
+  "country": "Switzerland",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 46.0189,
+    "lng": 7.7467
+  },
+  "sources": {
+    "officialWebsite": "https://www.alpenhof-zermatt.ch/",
+    "policyPage": "https://www.booking.com/hotel/us/the-alpenhof-teton-village-wyoming.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF90aGUgYWxwZW5ob2YgemVybWF0dEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC7buoygbAAgHSAiQzNDEzMjJiMC1iZTFiLTQ3MDktYmFiYy1lMTQzZjcwNDQ2MTTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3ce32136cb7e0b6e&srepoch=1766465009&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/the-alpenhof-teton-village-wyoming.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF90aGUgYWxwZW5ob2YgemVybWF0dEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC7buoygbAAgHSAiQzNDEzMjJiMC1iZTFiLTQ3MDktYmFiYy1lMTQzZjcwNDQ2MTTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3ce32136cb7e0b6e&srepoch=1766465009&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:43:45Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

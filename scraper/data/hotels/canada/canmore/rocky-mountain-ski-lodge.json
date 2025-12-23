@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-rocky-mountain-ski-lodge",
+  "name": "Rocky Mountain Ski Lodge",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 51.0923,
+    "lng": -115.3589
+  },
+  "sources": {
+    "officialWebsite": "https://www.rockymountainskislodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/rocky-mountain-ski-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJ3NlYXJjaF9yb2NreSBtb3VudGFpbiBza2kgbG9kZ2UgY2FubW9yZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC8ZanygbAAgHSAiQ2NWZkNzdkNS0xNjRjLTRhODYtODYzYy01NTc5ZDI0ZmJkZDbYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9a3aa0b849dc0174&srepoch=1766443892&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/rocky-mountain-ski-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJ3NlYXJjaF9yb2NreSBtb3VudGFpbiBza2kgbG9kZ2UgY2FubW9yZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC8ZanygbAAgHSAiQ2NWZkNzdkNS0xNjRjLTRhODYtODYzYy01NTc5ZDI0ZmJkZDbYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9a3aa0b849dc0174&srepoch=1766443892&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:51:49Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

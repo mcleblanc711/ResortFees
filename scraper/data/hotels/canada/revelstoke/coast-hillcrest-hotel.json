@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-coast-hillcrest-hotel",
+  "name": "Coast Hillcrest Hotel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 50.9967,
+    "lng": -118.1945
+  },
+  "sources": {
+    "officialWebsite": "https://www.coasthotels.com/hotels/british-columbia/revelstoke/coast-hillcrest-hotel/",
+    "policyPage": "https://www.coasthotels.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:25:37Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

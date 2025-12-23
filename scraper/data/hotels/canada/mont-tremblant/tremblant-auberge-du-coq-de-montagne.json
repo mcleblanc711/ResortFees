@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-auberge-du-coq-de-montagne",
+  "name": "Auberge du Coq de Montagne",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 16,
+  "coordinates": {
+    "lat": 46.2089,
+    "lng": -74.5934
+  },
+  "sources": {
+    "officialWebsite": "https://www.coqdemontagne.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/luckey.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCMHNlYXJjaF9hdWJlcmdlIGR1IGNvcSBkZSBtb250YWduZSBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC59unygbAAgHSAiRhYTdlZTZmNS04ZmE1LTQwNmEtYjI4MS1hN2YyMjgwYTkyMGTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=dabc093397bf0ca0&srepoch=1766452714&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/luckey.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCMHNlYXJjaF9hdWJlcmdlIGR1IGNvcSBkZSBtb250YWduZSBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC59unygbAAgHSAiRhYTdlZTZmNS04ZmE1LTQwNmEtYjI4MS1hN2YyMjgwYTkyMGTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=dabc093397bf0ca0&srepoch=1766452714&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:18:50Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

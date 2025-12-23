@@ -12,15 +12,15 @@
   },
   "sources": {
     "officialWebsite": "https://www.fairmont.com/tremblant/",
-    "policyPage": "https://www.fairmont.com/en/hotels/tremblant/fairmont-tremblant/guest-services.html#faq-accessibility",
+    "policyPage": "https://permalink.fairmont.com/booking/select?dateIn=2025-12-22&lengthOfStayValue=1&client=aem.fairmont&product%5B0%5D%5BadultNumber%5D=2&languageCode=en&hotelCodes=A565",
     "bookingCom": null,
     "dataSource": "official"
   },
   "taxes": [],
   "fees": [
     {
-      "name": "Pet Fee",
-      "amount": "$60",
+      "name": "Parking",
+      "amount": "$48",
       "basis": "per night",
       "includes": null,
       "notes": null
@@ -29,6 +29,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:52:28Z",
+  "scrapedAt": "2025-12-23T00:57:29Z",
   "scrapingNotes": null
 }

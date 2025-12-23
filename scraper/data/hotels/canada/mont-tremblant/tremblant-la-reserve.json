@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-la-reserve",
+  "name": "La Reserve",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 29,
+  "coordinates": {
+    "lat": 46.2045,
+    "lng": -74.5934
+  },
+  "sources": {
+    "officialWebsite": "https://www.lareservetremblant.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/gite-la-tremblante.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9sYSByZXNlcnZlIG1vbnQtdHJlbWJsYW50SDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALy5KfKBsACAdICJDIyNDhmMmM0LWIxNjYtNDBlOS1hYWY4LTliZWE3ODlhODgzM9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=00a50b7929620401&srepoch=1766453878&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/gite-la-tremblante.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9sYSByZXNlcnZlIG1vbnQtdHJlbWJsYW50SDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALy5KfKBsACAdICJDIyNDhmMmM0LWIxNjYtNDBlOS1hYWY4LTliZWE3ODlhODgzM9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=00a50b7929620401&srepoch=1766453878&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:38:15Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

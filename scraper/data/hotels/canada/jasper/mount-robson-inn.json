@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-mount-robson-inn",
+  "name": "Mount Robson Inn",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 52.8723,
+    "lng": -118.0767
+  },
+  "sources": {
+    "officialWebsite": "https://www.mountrobsoninn.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/premier-mountain-lodge.en-gb.html?aid=304142&label=mkt123sc-5b299683-fc0b-48b6-a4d9-2425cb6f55ac&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=7f00773c1a365ccee888fb1b8e58c0f9&srepoch=1766445699&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/premier-mountain-lodge.en-gb.html?aid=304142&label=mkt123sc-5b299683-fc0b-48b6-a4d9-2425cb6f55ac&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=7f00773c1a365ccee888fb1b8e58c0f9&srepoch=1766445699&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:21:58Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

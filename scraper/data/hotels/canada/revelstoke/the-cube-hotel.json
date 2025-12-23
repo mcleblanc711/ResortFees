@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-the-cube-hotel",
+  "name": "The Cube Hotel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 14,
+  "coordinates": {
+    "lat": 50.9967,
+    "lng": -118.1967
+  },
+  "sources": {
+    "officialWebsite": "https://www.thecubehotel.ca/",
+    "policyPage": "https://www.booking.com/hotel/it/the-cube-fidenza.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF90aGUgY3ViZSBob3RlbCByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK1x6fKBsACAdICJDk3MDdiMzBhLTdhMTktNGE1NS1hZmNlLWE1MjJhNjdkMzg1MdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8a25041aa9490125&srepoch=1766450105&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/it/the-cube-fidenza.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF90aGUgY3ViZSBob3RlbCByZXZlbHN0b2tlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK1x6fKBsACAdICJDk3MDdiMzBhLTdhMTktNGE1NS1hZmNlLWE1MjJhNjdkMzg1MdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8a25041aa9490125&srepoch=1766450105&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:35:21Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

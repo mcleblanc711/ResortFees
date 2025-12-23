@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-blackstone-mountain-lodge",
+  "name": "Blackstone Mountain Lodge",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 4,
+  "coordinates": {
+    "lat": 51.0756,
+    "lng": -115.3234
+  },
+  "sources": {
+    "officialWebsite": "https://www.cliquehospitality.com/blackstone",
+    "policyPage": "https://www.booking.com/hotel/ca/blackstone-mountain-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9ibGFja3N0b25lIG1vdW50YWluIGxvZGdlIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApmTp8oGwAIB0gIkMWJiZTdmOGMtNmVhMi00ZTY0LWE1NWQtZjYzNWZiMjRiMGFh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d7cd9fcc7a680169&srepoch=1766443419&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/blackstone-mountain-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9ibGFja3N0b25lIG1vdW50YWluIGxvZGdlIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApmTp8oGwAIB0gIkMWJiZTdmOGMtNmVhMi00ZTY0LWE1NWQtZjYzNWZiMjRiMGFh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d7cd9fcc7a680169&srepoch=1766443419&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:43:56Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

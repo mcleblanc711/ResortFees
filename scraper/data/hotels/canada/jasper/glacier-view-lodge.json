@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-glacier-view-lodge",
+  "name": "Glacier View Lodge",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 52.2189,
+    "lng": -117.2267
+  },
+  "sources": {
+    "officialWebsite": "https://www.glacierviewlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/glacier-view-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9nbGFjaWVyIHZpZXcgbG9kZ2UgamFzcGVySDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKssqfKBsACAdICJDkxMjdjMmMwLWVjN2MtNDU0MS1iNjIzLTExNjU0NGQ0YWUwOdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5f4ca796d95c02c2&srepoch=1766447407&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/glacier-view-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9nbGFjaWVyIHZpZXcgbG9kZ2UgamFzcGVySDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKssqfKBsACAdICJDkxMjdjMmMwLWVjN2MtNDU0MS1iNjIzLTExNjU0NGQ0YWUwOdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5f4ca796d95c02c2&srepoch=1766447407&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:50:25Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "usa-aspen-the-gant",
+  "name": "The Gant",
+  "town": "Aspen",
+  "region": "Colorado",
+  "country": "USA",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 7,
+  "coordinates": {
+    "lat": 39.1934,
+    "lng": -106.8134
+  },
+  "sources": {
+    "officialWebsite": "https://www.gantaspen.com/",
+    "policyPage": "https://www.booking.com/hotel/us/gateway-lodge-mercer.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF90aGUgZ2FudCBhc3BlbkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC8ruoygbAAgHSAiRjNzg4ZWE2Ni01ZDJjLTQ2YzctYWQwZC1mZDY4MzFmMTMzZGPYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=26&hapos=26&sr_order=popularity&srpvid=6a7f2139b3080011&srepoch=1766465014&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/gateway-lodge-mercer.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF90aGUgZ2FudCBhc3BlbkgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC8ruoygbAAgHSAiRjNzg4ZWE2Ni01ZDJjLTQ2YzctYWQwZC1mZDY4MzFmMTMzZGPYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=26&hapos=26&sr_order=popularity&srpvid=6a7f2139b3080011&srepoch=1766465014&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:43:50Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

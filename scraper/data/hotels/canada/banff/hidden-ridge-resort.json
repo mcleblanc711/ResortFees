@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-hidden-ridge-resort",
+  "name": "Hidden Ridge Resort",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": 51.1612,
+    "lng": -115.5734
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestofbanff.com/hidden-ridge-resort/",
+    "policyPage": "https://www.booking.com/hotel/ca/the-hidden-ridge-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9oaWRkZW4gcmlkZ2UgcmVzb3J0IGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALmh6fKBsACAdICJDliNTY4OTFjLTEzMjItNDY2Yi04NmMyLWFiYTI5MzA3N2JhNtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2b519cf343bb019a&srepoch=1766441961&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/the-hidden-ridge-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9oaWRkZW4gcmlkZ2UgcmVzb3J0IGJhbmZmSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALmh6fKBsACAdICJDliNTY4OTFjLTEzMjItNDY2Yi04NmMyLWFiYTI5MzA3N2JhNtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2b519cf343bb019a&srepoch=1766441961&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:19:38Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

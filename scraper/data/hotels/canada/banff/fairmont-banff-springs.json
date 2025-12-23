@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.fairmont.com/banff-springs/",
-    "policyPage": "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs/guest-services.html#faq-accessibility",
+    "policyPage": "https://permalink.fairmont.com/booking/select?dateIn=2025-12-22&lengthOfStayValue=1&client=aem.fairmont&product%5B0%5D%5BadultNumber%5D=2&languageCode=en&hotelCodes=A550",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -20,14 +20,7 @@
   "fees": [
     {
       "name": "Self-Parking",
-      "amount": "$39",
-      "basis": "per night",
-      "includes": null,
-      "notes": null
-    },
-    {
-      "name": "Parking",
-      "amount": "$59",
+      "amount": "$35",
       "basis": "per night",
       "includes": null,
       "notes": null
@@ -36,6 +29,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:29:48Z",
+  "scrapedAt": "2025-12-22T22:05:16Z",
   "scrapingNotes": null
 }

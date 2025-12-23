@@ -1,0 +1,32 @@
+{
+  "id": "canada-blue-mountain-best-western-plus-the-conference-centre",
+  "name": "Best Western Plus The & Conference Centre",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 21,
+  "coordinates": {
+    "lat": 44.5023,
+    "lng": -80.2256
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestwestern.com/en_US/book/hotels-in-collingwood/best-western-plus-the-& conference-centre/propertyCode.66083.html",
+    "policyPage": "https://www.booking.com/hotel/us/holiday-inn-kingston.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCPnNlYXJjaF9iZXN0IHdlc3Rlcm4gcGx1cyB0aGUgJiBjb25mZXJlbmNlIGNlbnRyZSBibHVlIG1vdW50YWluSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALT76fKBsACAdICJGNiZjlkMjZlLWViNGItNDRjOS1iYTI0LWMyMjNiYjQzZjg1OdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=0f8b0e296aa1029e&srepoch=1766455254&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/holiday-inn-kingston.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCPnNlYXJjaF9iZXN0IHdlc3Rlcm4gcGx1cyB0aGUgJiBjb25mZXJlbmNlIGNlbnRyZSBibHVlIG1vdW50YWluSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALT76fKBsACAdICJGNiZjlkMjZlLWViNGItNDRjOS1iYTI0LWMyMjNiYjQzZjg1OdgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=0f8b0e296aa1029e&srepoch=1766455254&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T02:01:11Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

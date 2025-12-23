@@ -1,0 +1,26 @@
+{
+  "id": "france-chamonix-hôtel-le-faucigny",
+  "name": "Hôtel Le Faucigny",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 45.9212,
+    "lng": 6.8656
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelfaucigny-chamonix.com/",
+    "policyPage": "https://www.hameaufaucigny-chamonix.com/fr/bienvenue/conditions-generales-de-vente/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:47:14Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

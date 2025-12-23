@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.falconcrestlodge.ca/",
-    "policyPage": "https://www.falconcrestlodge.ca/faq",
+    "policyPage": "https://www.falconcrestlodge.ca/amenities",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:53:21Z",
+  "scrapedAt": "2025-12-22T22:55:11Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

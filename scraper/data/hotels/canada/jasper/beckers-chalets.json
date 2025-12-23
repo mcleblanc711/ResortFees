@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-beckers-chalets",
+  "name": "Becker's Chalets",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 18,
+  "coordinates": {
+    "lat": 52.8456,
+    "lng": -118.0123
+  },
+  "sources": {
+    "officialWebsite": "https://www.beckerschalets.com/",
+    "policyPage": "https://beckerschalets.com/about/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:28:45Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "france-chamonix-grand-hotel-des-alpes",
+  "name": "Grand Hotel des Alpes",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 45.9245,
+    "lng": 6.8712
+  },
+  "sources": {
+    "officialWebsite": "https://www.grandhoteldesalpes.com/",
+    "policyPage": "https://grandhoteldesalpes.com/en/services/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:37:52Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

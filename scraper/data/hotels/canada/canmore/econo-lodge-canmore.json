@@ -1,0 +1,26 @@
+{
+  "id": "canada-canmore-econo-lodge-canmore",
+  "name": "Econo Lodge Canmore",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 21,
+  "coordinates": {
+    "lat": 51.0934,
+    "lng": -115.3612
+  },
+  "sources": {
+    "officialWebsite": "https://www.choicehotels.com/alberta/canmore/econo-lodge-hotels",
+    "policyPage": "https://www.choicehotels.com/about",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:01:29Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

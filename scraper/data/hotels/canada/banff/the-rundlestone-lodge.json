@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-the-rundlestone-lodge",
+  "name": "The Rundlestone Lodge",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 51.1695,
+    "lng": -115.5642
+  },
+  "sources": {
+    "officialWebsite": "https://www.rundlestone.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/the-rundlestone-lodge.en-gb.html?aid=304142&label=mkt123sc-d9910bd3-936a-43c9-94e4-082f3c401a61&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8b5d3cab956e38614a9034a92db621e4&srepoch=1766441752&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/the-rundlestone-lodge.en-gb.html?aid=304142&label=mkt123sc-d9910bd3-936a-43c9-94e4-082f3c401a61&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8b5d3cab956e38614a9034a92db621e4&srepoch=1766441752&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:16:09Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

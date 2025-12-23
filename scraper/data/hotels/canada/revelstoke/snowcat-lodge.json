@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-snowcat-lodge",
+  "name": "Snowcat Lodge",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 23,
+  "coordinates": {
+    "lat": 50.9634,
+    "lng": -118.1934
+  },
+  "sources": {
+    "officialWebsite": "https://www.snowcatlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/swiss-chalet-motel-revelstoke.en-gb.html?aid=304142&label=mkt123sc-4a76c2fc-3d8a-4e41-8d94-0578a989a89e&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=df05e87863cdad1f09b76d6a67bcde1b&srepoch=1766450744&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/swiss-chalet-motel-revelstoke.en-gb.html?aid=304142&label=mkt123sc-4a76c2fc-3d8a-4e41-8d94-0578a989a89e&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=df05e87863cdad1f09b76d6a67bcde1b&srepoch=1766450744&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:46:04Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

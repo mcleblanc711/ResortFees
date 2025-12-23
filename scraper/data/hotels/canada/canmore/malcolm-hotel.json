@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-malcolm-hotel",
+  "name": "Malcolm Hotel",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 51.0884,
+    "lng": -115.3479
+  },
+  "sources": {
+    "officialWebsite": "https://www.malcolmhotel.ca/",
+    "policyPage": "https://www.booking.com/hotel/ca/malcolm-hotel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF9tYWxjb2xtIGhvdGVsIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvKQp8oGwAIB0gIkN2FlMDE1OWMtMGNjNC00YWE5LThjYWUtN2I5ZDAwYjRmYTBh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=dc579f3919e60351&srepoch=1766443126&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/malcolm-hotel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF9tYWxjb2xtIGhvdGVsIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvKQp8oGwAIB0gIkN2FlMDE1OWMtMGNjNC00YWE5LThjYWUtN2I5ZDAwYjRmYTBh2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=dc579f3919e60351&srepoch=1766443126&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:39:03Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

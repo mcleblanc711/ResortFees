@@ -1,0 +1,26 @@
+{
+  "id": "france-chamonix-hôtel-gourmets-et-italy",
+  "name": "Hôtel Gourmets et Italy",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": 45.9256,
+    "lng": 6.8689
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelgourmets-chamonix.com/",
+    "policyPage": "https://www.hotelgourmets-chamonix.com/services/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:46:05Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

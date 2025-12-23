@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-nelsen-lodge",
+  "name": "Nelsen Lodge",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 50.9989,
+    "lng": -118.1634
+  },
+  "sources": {
+    "officialWebsite": "https://www.nelsenlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHnNlYXJjaF9uZWxzZW4gbG9kZ2UgcmV2ZWxzdG9rZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCtsCnygbAAgHSAiQ5NWFiZmZjMC05Mzc5LTQxMTMtYjUzMC05YTFlZDI4ZDBlMjfYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e9e0025b422200d8&srepoch=1766449210&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCHnNlYXJjaF9uZWxzZW4gbG9kZ2UgcmV2ZWxzdG9rZUgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCtsCnygbAAgHSAiQ5NWFiZmZjMC05Mzc5LTQxMTMtYjUzMC05YTFlZDI4ZDBlMjfYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e9e0025b422200d8&srepoch=1766449210&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:20:27Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

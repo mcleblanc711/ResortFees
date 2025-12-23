@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.bumpersinn.com/",
-    "policyPage": "https://www.bumpersinn.com/policies",
+    "policyPage": "https://www.bumpersinn.com/fees",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:43:46Z",
+  "scrapedAt": "2025-12-22T22:35:34Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

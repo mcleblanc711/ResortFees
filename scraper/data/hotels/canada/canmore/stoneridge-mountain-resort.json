@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-stoneridge-mountain-resort",
+  "name": "Stoneridge Mountain Resort",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 2,
+  "coordinates": {
+    "lat": 51.0712,
+    "lng": -115.3156
+  },
+  "sources": {
+    "officialWebsite": "https://www.stoneridgeresort.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/stoneridge-mountain-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKXNlYXJjaF9zdG9uZXJpZGdlIG1vdW50YWluIHJlc29ydCBjYW5tb3JlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALakafKBsACAdICJGUwNTkzNmNiLTYwNzctNDUxOS1iODc2LWE0ZDU2ZmUyOWIxMNgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=befc9f6d0ca90365&srepoch=1766443229&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/stoneridge-mountain-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKXNlYXJjaF9zdG9uZXJpZGdlIG1vdW50YWluIHJlc29ydCBjYW5tb3JlSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALakafKBsACAdICJGUwNTkzNmNiLTYwNzctNDUxOS1iODc2LWE0ZDU2ZmUyOWIxMNgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=befc9f6d0ca90365&srepoch=1766443229&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:40:45Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

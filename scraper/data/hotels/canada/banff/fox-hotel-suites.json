@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-fox-hotel-suites",
+  "name": "Fox Hotel & Suites",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 51.1752,
+    "lng": -115.5685
+  },
+  "sources": {
+    "officialWebsite": "https://www.bestofbanff.com/fox-hotel/",
+    "policyPage": "https://www.booking.com/hotel/ca/fox-and-suites.en-gb.html?aid=304142&label=mkt123sc-6fa24a5c-aab2-41c1-9680-a4dcd7edf1bf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=882a1b02f03582cbae6cc1ac3ebbe2c1&srepoch=1766442061&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/fox-and-suites.en-gb.html?aid=304142&label=mkt123sc-6fa24a5c-aab2-41c1-9680-a4dcd7edf1bf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=882a1b02f03582cbae6cc1ac3ebbe2c1&srepoch=1766442061&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:21:20Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "canada-banff-banff-rocky-mountain-resort",
+  "name": "Banff Rocky Mountain Resort",
+  "town": "Banff",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 23,
+  "coordinates": {
+    "lat": 51.1634,
+    "lng": -115.5589
+  },
+  "sources": {
+    "officialWebsite": "https://www.banffrockymountainresort.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/banff-rocky-mountain-resort.en-gb.html?aid=304142&label=mkt123sc-22c5f055-026a-4ccf-bd87-920df0342cdf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7823b8e60992727e149bbccae104fff8&srepoch=1766442646&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/banff-rocky-mountain-resort.en-gb.html?aid=304142&label=mkt123sc-22c5f055-026a-4ccf-bd87-920df0342cdf&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7823b8e60992727e149bbccae104fff8&srepoch=1766442646&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T22:31:05Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

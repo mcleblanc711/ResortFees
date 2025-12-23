@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-auberge-sauvignon",
+  "name": "Auberge Sauvignon",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 28,
+  "coordinates": {
+    "lat": 46.1923,
+    "lng": -74.5989
+  },
+  "sources": {
+    "officialWebsite": "https://www.aubergesauvignon.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/auberge-sauvignon.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJ3NlYXJjaF9hdWJlcmdlIHNhdXZpZ25vbiBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCiOSnygbAAgHSAiQyM2Y2NzhjNS1kNjc1LTQyZTMtYmMxYS0yZmNlZDQ1ZDA5ZmHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=67c40b44b4c905ef&srepoch=1766453772&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/auberge-sauvignon.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJ3NlYXJjaF9hdWJlcmdlIHNhdXZpZ25vbiBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCiOSnygbAAgHSAiQyM2Y2NzhjNS1kNjc1LTQyZTMtYmMxYS0yZmNlZDQ1ZDA5ZmHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=67c40b44b4c905ef&srepoch=1766453772&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:36:29Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

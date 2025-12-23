@@ -1,0 +1,26 @@
+{
+  "id": "canada-mont-tremblant-le-westin-resort-spa-tremblant",
+  "name": "Le Westin Resort & Spa Tremblant",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 46.2134,
+    "lng": -74.5867
+  },
+  "sources": {
+    "officialWebsite": "https://www.marriott.com/hotels/travel/ymywi-le-westin-resort-and-spa-tremblant-quebec/",
+    "policyPage": "https://www.booking.com/hotel/ca/le-westin-resort-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCNnNlYXJjaF9sZSB3ZXN0aW4gcmVzb3J0ICYgc3BhIHRyZW1ibGFudCBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCnNOnygbAAgHSAiQxM2VmNTc0MS01M2EzLTRiOTEtYTg5Ny1jM2NhOTkxN2NhNjTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e211070ed5031650&srepoch=1766451615&from_sustainable_property_sr=1&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/le-westin-resort-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCNnNlYXJjaF9sZSB3ZXN0aW4gcmVzb3J0ICYgc3BhIHRyZW1ibGFudCBtb250LXRyZW1ibGFudEgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCnNOnygbAAgHSAiQxM2VmNTc0MS01M2EzLTRiOTEtYTg5Ny1jM2NhOTkxN2NhNjTYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e211070ed5031650&srepoch=1766451615&from_sustainable_property_sr=1&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:00:32Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

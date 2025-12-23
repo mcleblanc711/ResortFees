@@ -1,0 +1,32 @@
+{
+  "id": "canada-blue-mountain-mountainview-resort",
+  "name": "Mountainview Resort",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 44.5078,
+    "lng": -80.3223
+  },
+  "sources": {
+    "officialWebsite": "https://www.mountainviewresort.ca/",
+    "policyPage": "https://www.booking.com/hotel/lk/blue-mountain-resort-diyatalawa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9tb3VudGFpbnZpZXcgcmVzb3J0IGJsdWUgbW91bnRhaW5IM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ArDrp8oGwAIB0gIkNzE1NjdiNDQtYWJjNi00ZGE1LTgyMjgtODMyYjMzYmFmMTY12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=bd910d18fb1302dd&srepoch=1766454708&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/lk/blue-mountain-resort-diyatalawa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCKHNlYXJjaF9tb3VudGFpbnZpZXcgcmVzb3J0IGJsdWUgbW91bnRhaW5IM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ArDrp8oGwAIB0gIkNzE1NjdiNDQtYWJjNi00ZGE1LTgyMjgtODMyYjMzYmFmMTY12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=bd910d18fb1302dd&srepoch=1766454708&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:52:04Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "france-chamonix-mercure-chamonix-centre",
+  "name": "Mercure Chamonix Centre",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 45.9245,
+    "lng": 6.8678
+  },
+  "sources": {
+    "officialWebsite": "https://www.mercure-chamonix.com/",
+    "policyPage": "https://www.booking.com/hotel/fr/cosmiques.en-gb.html?aid=304142&label=mkt123sc-a304e5be-a9d1-4eec-beec-59427737b776&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=79ce6b8e2419a3ae31b5aed800b2e22a&srepoch=1766465013&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/fr/cosmiques.en-gb.html?aid=304142&label=mkt123sc-a304e5be-a9d1-4eec-beec-59427737b776&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=79ce6b8e2419a3ae31b5aed800b2e22a&srepoch=1766465013&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:43:52Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

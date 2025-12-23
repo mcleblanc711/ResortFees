@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview",
-    "policyPage": "https://www.wyndhamhotels.com/days-inn/collingwood-ontario/days-inn-collingwood/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+    "policyPage": "https://www.wyndhamhotels.com/hotel-deals/best-rate-guarantee",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T06:19:35Z",
+  "scrapedAt": "2025-12-23T02:03:55Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

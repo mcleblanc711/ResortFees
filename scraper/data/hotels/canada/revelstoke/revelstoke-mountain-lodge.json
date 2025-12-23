@@ -1,0 +1,32 @@
+{
+  "id": "canada-revelstoke-revelstoke-mountain-lodge",
+  "name": "Revelstoke Mountain Lodge",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 30,
+  "coordinates": {
+    "lat": 50.9634,
+    "lng": -118.1912
+  },
+  "sources": {
+    "officialWebsite": "https://www.revelstokemountainlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCK3NlYXJjaF9yZXZlbHN0b2tlIG1vdW50YWluIGxvZGdlIHJldmVsc3Rva2VIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApvRp8oGwAIB0gIkMDhkNzE1ZTMtZmFkOS00ZmZhLTlkOTQtZjRhMTI2ODJiMTI52AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=accc068d27b80045&srepoch=1766451358&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/revelstoke-lodge.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCK3NlYXJjaF9yZXZlbHN0b2tlIG1vdW50YWluIGxvZGdlIHJldmVsc3Rva2VIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApvRp8oGwAIB0gIkMDhkNzE1ZTMtZmFkOS00ZmZhLTlkOTQtZjRhMTI2ODJiMTI52AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=accc068d27b80045&srepoch=1766451358&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:56:15Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

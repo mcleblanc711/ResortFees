@@ -1,0 +1,26 @@
+{
+  "id": "canada-blue-mountain-blue-mountain-inn",
+  "name": "Blue Mountain Inn",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 44.5067,
+    "lng": -80.3212
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluemountaininn.ca/",
+    "policyPage": "https://www.booking.com/hotel/us/the-balsam-mountain-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJnNlYXJjaF9ibHVlIG1vdW50YWluIGlubiBibHVlIG1vdW50YWluSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALP6qfKBsACAdICJGZlYzEwYmQ3LTdhMmEtNGViYi04OWFmLWMwYTllMjNmMTc5ONgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=72b40ce73d0c0032&srepoch=1766454610&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/us/the-balsam-mountain-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJnNlYXJjaF9ibHVlIG1vdW50YWluIGlubiBibHVlIG1vdW50YWluSDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALP6qfKBsACAdICJGZlYzEwYmQ3LTdhMmEtNGViYi04OWFmLWMwYTllMjNmMTc5ONgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=72b40ce73d0c0032&srepoch=1766454610&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:50:27Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

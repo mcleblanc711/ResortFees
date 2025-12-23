@@ -1,0 +1,32 @@
+{
+  "id": "canada-blue-mountain-living-water-resort",
+  "name": "Living Water Resort",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 44.4967,
+    "lng": -80.3112
+  },
+  "sources": {
+    "officialWebsite": "https://www.livingwaterresort.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/living-water-resort.en-gb.html?aid=304142&label=mkt123sc-5e9a2738-0187-4133-ba4f-2e656ab3bd50&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f1fa56cbc1dd50635fc94cdfa3c4327b&srepoch=1766454333&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/living-water-resort.en-gb.html?aid=304142&label=mkt123sc-5e9a2738-0187-4133-ba4f-2e656ab3bd50&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f1fa56cbc1dd50635fc94cdfa3c4327b&srepoch=1766454333&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:45:53Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

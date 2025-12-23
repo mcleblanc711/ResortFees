@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-the-westin-resort-spa-whistler",
+  "name": "The Westin Resort & Spa Whistler",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 4,
+  "coordinates": {
+    "lat": 50.1156,
+    "lng": -122.9534
+  },
+  "sources": {
+    "officialWebsite": "https://www.marriott.com/hotels/travel/ysewi-the-westin-resort-and-spa-whistler/",
+    "policyPage": "https://www.booking.com/hotel/ca/westin-resort-and-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCMHNlYXJjaF90aGUgd2VzdGluIHJlc29ydCAmIHNwYSB3aGlzdGxlciB3aGlzdGxlckgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC37SnygbAAgHSAiQ3NTMwNWRjNC1lYThhLTQ1MWUtYTNmMy01N2VmNmQ4NTUxMmLYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2ffba82f3caa036b&srepoch=1766447713&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/westin-resort-and-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCMHNlYXJjaF90aGUgd2VzdGluIHJlc29ydCAmIHNwYSB3aGlzdGxlciB3aGlzdGxlckgzWARoJ4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC37SnygbAAgHSAiQ3NTMwNWRjNC1lYThhLTQ1MWUtYTNmMy01N2VmNmQ4NTUxMmLYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2ffba82f3caa036b&srepoch=1766447713&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:55:32Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

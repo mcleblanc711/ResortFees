@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-ermitage-du-lac",
+  "name": "Ermitage du Lac",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 46.2078,
+    "lng": -74.5912
+  },
+  "sources": {
+    "officialWebsite": "https://www.ermitagedulac.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/ermitage-du-lac.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJXNlYXJjaF9lcm1pdGFnZSBkdSBsYWMgbW9udC10cmVtYmxhbnRIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ao7Up8oGwAIB0gIkYTNlMWM1MzctM2Q1MC00YTFiLWJjYzQtZjA4MDYyOWRjODE12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=764c07472d5d00c7&srepoch=1766451729&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/ermitage-du-lac.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCJXNlYXJjaF9lcm1pdGFnZSBkdSBsYWMgbW9udC10cmVtYmxhbnRIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ao7Up8oGwAIB0gIkYTNlMWM1MzctM2Q1MC00YTFiLWJjYzQtZjA4MDYyOWRjODE12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=764c07472d5d00c7&srepoch=1766451729&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:02:24Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

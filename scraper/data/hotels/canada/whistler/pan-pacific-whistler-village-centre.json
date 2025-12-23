@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.panpacific.com/whistler-village-centre/",
-    "policyPage": "https://www.panpacific.com/en/data-protection-policy.html",
+    "policyPage": "http://www.panpacific.com/en/booking/e-direct/AM-group.html?destination=prsyp&utm_source=corporate&utm_medium=edirect&utm_campaign=AMGR0219",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:23:31Z",
+  "scrapedAt": "2025-12-22T23:55:54Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "canada-mont-tremblant-auberge-la-porte-rouge",
+  "name": "Auberge La Porte Rouge",
+  "town": "Mont-Tremblant",
+  "region": "Quebec",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 46.1878,
+    "lng": -74.6012
+  },
+  "sources": {
+    "officialWebsite": "https://www.aubergelaporterouge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/auberge-a-la-croisee-des-chemins-la-conception.en-gb.html?aid=304142&label=mkt123sc-2e524312-7d2c-4cac-a8cf-e6d71de52384&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=c119c6e6ad7f4577bf0035a6ae60d378&srepoch=1766452952&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/auberge-a-la-croisee-des-chemins-la-conception.en-gb.html?aid=304142&label=mkt123sc-2e524312-7d2c-4cac-a8cf-e6d71de52384&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=c119c6e6ad7f4577bf0035a6ae60d378&srepoch=1766452952&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T01:22:49Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

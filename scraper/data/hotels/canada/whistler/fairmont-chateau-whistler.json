@@ -12,15 +12,15 @@
   },
   "sources": {
     "officialWebsite": "https://www.fairmont.com/whistler/",
-    "policyPage": "https://www.fairmont.com/en/hotels/whistler/fairmont-chateau-whistler/guest-services.html#faq-accessibility",
+    "policyPage": "https://permalink.fairmont.com/booking/select?dateIn=2025-12-22&lengthOfStayValue=1&client=aem.fairmont&product%5B0%5D%5BadultNumber%5D=2&languageCode=en&hotelCodes=A591",
     "bookingCom": null,
     "dataSource": "official"
   },
   "taxes": [],
   "fees": [
     {
-      "name": "Self-Parking",
-      "amount": "$45",
+      "name": "Self-Park",
+      "amount": "$41",
       "basis": "per night",
       "includes": null,
       "notes": null
@@ -29,6 +29,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:20:57Z",
+  "scrapedAt": "2025-12-22T23:51:46Z",
   "scrapingNotes": null
 }

@@ -1,0 +1,26 @@
+{
+  "id": "france-chamonix-le-refuge-des-aiglons",
+  "name": "Le Refuge des Aiglons",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 5,
+  "coordinates": {
+    "lat": 45.9189,
+    "lng": 6.8612
+  },
+  "sources": {
+    "officialWebsite": "https://www.aiglons.com/",
+    "policyPage": "https://aiglons.com/fr/services",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:40:08Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

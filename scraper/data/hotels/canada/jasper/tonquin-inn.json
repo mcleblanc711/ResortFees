@@ -1,0 +1,32 @@
+{
+  "id": "canada-jasper-tonquin-inn",
+  "name": "Tonquin Inn",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 11,
+  "coordinates": {
+    "lat": 52.8745,
+    "lng": -118.0789
+  },
+  "sources": {
+    "officialWebsite": "https://www.tonquininn.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/tonquin-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF90b25xdWluIGlubiBqYXNwZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6kp8oGwAIB0gIkYzZkZTU1YmQtYzUyMC00MGI2LTk1MDEtYjk3ZGU5YjllZDlj2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d8bda40fd37503dd&srepoch=1766445600&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/tonquin-inn.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF90b25xdWluIGlubiBqYXNwZXJIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6kp8oGwAIB0gIkYzZkZTU1YmQtYzUyMC00MGI2LTk1MDEtYjk3ZGU5YjllZDlj2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d8bda40fd37503dd&srepoch=1766445600&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:20:18Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

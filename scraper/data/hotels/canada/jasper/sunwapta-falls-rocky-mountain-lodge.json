@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-sunwapta-falls-rocky-mountain-lodge",
+  "name": "Sunwapta Falls Rocky Mountain Lodge",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 29,
+  "coordinates": {
+    "lat": 52.5345,
+    "lng": -117.6234
+  },
+  "sources": {
+    "officialWebsite": "https://www.sunwapta.com/",
+    "policyPage": "https://hotels.cloudbeds.com/reservation/zeypHR",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:36:49Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

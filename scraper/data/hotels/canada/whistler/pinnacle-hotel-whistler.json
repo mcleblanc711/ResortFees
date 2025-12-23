@@ -1,0 +1,32 @@
+{
+  "id": "canada-whistler-pinnacle-hotel-whistler",
+  "name": "Pinnacle Hotel Whistler",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 21,
+  "coordinates": {
+    "lat": 50.1156,
+    "lng": -122.9523
+  },
+  "sources": {
+    "officialWebsite": "https://www.pinnaclehotelwhistler.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/whistler-pinnacle.en-gb.html?aid=304142&label=mkt123sc-4f437270-28a4-4cff-9369-1e95523c7149&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=cc6160045035ec65e6386ef4d51ef6c6&srepoch=1766448460&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/whistler-pinnacle.en-gb.html?aid=304142&label=mkt123sc-4f437270-28a4-4cff-9369-1e95523c7149&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=cc6160045035ec65e6386ef4d51ef6c6&srepoch=1766448460&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:07:59Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

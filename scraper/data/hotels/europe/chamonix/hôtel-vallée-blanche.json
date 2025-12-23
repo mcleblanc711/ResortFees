@@ -1,0 +1,32 @@
+{
+  "id": "france-chamonix-hôtel-vallée-blanche",
+  "name": "Hôtel Vallée Blanche",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 13,
+  "coordinates": {
+    "lat": 45.9223,
+    "lng": 6.8645
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelvalleeblancha.fr/",
+    "policyPage": "https://www.booking.com/hotel/fr/vallee-blanche.en-gb.html?aid=304142&label=mkt123sc-544afb7a-1dff-4785-a349-be66df0e5c3f&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ae3fd6e8fb282c663cd9a4d3c9ae9a1c&srepoch=1766465318&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/fr/vallee-blanche.en-gb.html?aid=304142&label=mkt123sc-544afb7a-1dff-4785-a349-be66df0e5c3f&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ae3fd6e8fb282c663cd9a4d3c9ae9a1c&srepoch=1766465318&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:48:55Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

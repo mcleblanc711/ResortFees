@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.wyndhamhotels.com/days-inn/canmore-alberta/days-inn-canmore/overview",
-    "policyPage": "https://www.wyndhamhotels.com/days-inn/canmore-alberta/days-inn-canmore/overview?lightbox=/content/whg-ecomm-responsive/en-us/whg/about-us/terms-of-use-more-info.display.html",
+    "policyPage": "https://www.wyndhamhotels.com/hotel-deals/best-rate-guarantee",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:58:09Z",
+  "scrapedAt": "2025-12-22T23:04:12Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

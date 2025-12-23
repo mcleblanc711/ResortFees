@@ -1,0 +1,26 @@
+{
+  "id": "france-chamonix-hotel-le-morgane",
+  "name": "Hotel Le Morgane",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Upscale",
+  "tripadvisorRank": 6,
+  "coordinates": {
+    "lat": 45.9256,
+    "lng": 6.8701
+  },
+  "sources": {
+    "officialWebsite": "https://www.morgane-hotel-chamonix.com/",
+    "policyPage": "https://morgane-hotel-chamonix.com/fr/services/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:40:28Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

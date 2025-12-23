@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-sandman-hotel-revelstoke",
+  "name": "Sandman Hotel Revelstoke",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 8,
+  "coordinates": {
+    "lat": 51.0045,
+    "lng": -118.1812
+  },
+  "sources": {
+    "officialWebsite": "https://www.sandmanhotels.com/hotels/british-columbia/revelstoke",
+    "policyPage": "https://www.sandmanhotels.com/about-us",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:27:40Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

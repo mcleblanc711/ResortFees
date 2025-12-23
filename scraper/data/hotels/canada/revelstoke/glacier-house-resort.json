@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.glacierhouse.com/",
-    "policyPage": "https://glacierhouse.com/terms-and-conditions/",
+    "policyPage": "https://glacierhouse.com/amenities/",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:44:30Z",
+  "scrapedAt": "2025-12-23T00:38:36Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

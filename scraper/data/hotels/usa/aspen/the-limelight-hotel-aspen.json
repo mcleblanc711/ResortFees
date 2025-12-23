@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.limelighthotels.com/aspen",
-    "policyPage": "https://www.limelighthotels.com/terms-and-conditions",
+    "policyPage": "https://www.limelighthotels.com/our-story",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T06:24:55Z",
+  "scrapedAt": "2025-12-23T04:38:38Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

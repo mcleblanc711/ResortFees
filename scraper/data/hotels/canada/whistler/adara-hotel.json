@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.adarahotel.com/",
-    "policyPage": "https://www.adarahotel.com/about-us",
+    "policyPage": "https://www.adarahotel.com/amenities",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:27:04Z",
+  "scrapedAt": "2025-12-23T00:01:15Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

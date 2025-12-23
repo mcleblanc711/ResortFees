@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-swiss-chalet-motel",
+  "name": "Swiss Chalet Motel",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 9,
+  "coordinates": {
+    "lat": 50.9956,
+    "lng": -118.1923
+  },
+  "sources": {
+    "officialWebsite": "https://www.swisschaletmotel.com/",
+    "policyPage": "https://swisschaletmotel.com/amenities/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:28:03Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

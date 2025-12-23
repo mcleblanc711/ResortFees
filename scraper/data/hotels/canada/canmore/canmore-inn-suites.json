@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.canmoreinn.com/",
-    "policyPage": "https://www.canmoreinn.com/terms-of-use/",
+    "policyPage": "https://www.canmoreinn.com/amenities/",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:50:28Z",
+  "scrapedAt": "2025-12-22T22:50:04Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

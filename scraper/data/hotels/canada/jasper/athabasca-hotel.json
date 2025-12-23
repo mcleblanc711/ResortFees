@@ -1,0 +1,26 @@
+{
+  "id": "canada-jasper-athabasca-hotel",
+  "name": "Athabasca Hotel",
+  "town": "Jasper",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Economy",
+  "tripadvisorRank": 20,
+  "coordinates": {
+    "lat": 52.8723,
+    "lng": -118.0789
+  },
+  "sources": {
+    "officialWebsite": "https://www.athabascahotel.com/",
+    "policyPage": "https://www.athabascahotel.com/rates/",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:28:52Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "france-chamonix-hotel-mont-blanc",
+  "name": "Hotel Mont-Blanc",
+  "town": "Chamonix",
+  "region": "Auvergne-Rhone-Alpes",
+  "country": "France",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 1,
+  "coordinates": {
+    "lat": 45.9237,
+    "lng": 6.8694
+  },
+  "sources": {
+    "officialWebsite": "https://www.hotelmontblancchamonix.com/",
+    "policyPage": "https://www.booking.com/hotel/ch/auberge-du-mont-blanc.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9ob3RlbCBtb250LWJsYW5jIGNoYW1vbml4SDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALuuKjKBsACAdICJGNkMDkwMjQyLTgyYjYtNDM3Mi1hYTdmLWNjNThmODcyZGEzONgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=797d20773bec0289&srepoch=1766464626&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ch/auberge-du-mont-blanc.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9ob3RlbCBtb250LWJsYW5jIGNoYW1vbml4SDNYBGgniAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALuuKjKBsACAdICJGNkMDkwMjQyLTgyYjYtNDM3Mi1hYTdmLWNjNThmODcyZGEzONgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=797d20773bec0289&srepoch=1766464626&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T04:37:23Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

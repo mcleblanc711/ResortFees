@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.aavawhistlerhotel.com/",
-    "policyPage": "https://www.paradoxhotels.com/aava-whistler/terms",
+    "policyPage": "https://www.paradoxhotels.com/aava-whistler/services",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:26:41Z",
+  "scrapedAt": "2025-12-23T00:00:47Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

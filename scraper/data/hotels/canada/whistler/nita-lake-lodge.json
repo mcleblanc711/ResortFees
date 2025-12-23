@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-nita-lake-lodge",
+  "name": "Nita Lake Lodge",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Luxury",
+  "tripadvisorRank": 3,
+  "coordinates": {
+    "lat": 50.0712,
+    "lng": -122.9489
+  },
+  "sources": {
+    "officialWebsite": "https://www.nitalakelodge.com/",
+    "policyPage": "https://www.nitalakelodge.com/faqs",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:53:46Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

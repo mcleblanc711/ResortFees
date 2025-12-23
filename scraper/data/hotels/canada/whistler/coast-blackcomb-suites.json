@@ -1,0 +1,26 @@
+{
+  "id": "canada-whistler-coast-blackcomb-suites",
+  "name": "Coast Blackcomb Suites",
+  "town": "Whistler",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 19,
+  "coordinates": {
+    "lat": 50.1134,
+    "lng": -122.9545
+  },
+  "sources": {
+    "officialWebsite": "https://www.coasthotels.com/hotels/british-columbia/whistler/coast-blackcomb-suites/",
+    "policyPage": "https://www.coasthotels.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:06:02Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

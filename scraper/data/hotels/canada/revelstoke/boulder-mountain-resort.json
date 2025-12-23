@@ -1,0 +1,26 @@
+{
+  "id": "canada-revelstoke-boulder-mountain-resort",
+  "name": "Boulder Mountain Resort",
+  "town": "Revelstoke",
+  "region": "British Columbia",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 12,
+  "coordinates": {
+    "lat": 50.9645,
+    "lng": -118.1567
+  },
+  "sources": {
+    "officialWebsite": "https://www.bouldermountainresort.com/",
+    "policyPage": "https://www.mydomaincontact.com/?domain_name=bouldermountainresort.com",
+    "bookingCom": null,
+    "dataSource": "official"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": null,
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T00:31:56Z",
+  "scrapingNotes": "No taxes or fees found on policy page"
+}

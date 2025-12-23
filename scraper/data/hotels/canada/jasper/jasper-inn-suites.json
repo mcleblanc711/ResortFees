@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.jasperinn.com/",
-    "policyPage": "https://jasperinn.com/ErrorPages/404?aspxerrorpath=/policies",
+    "policyPage": "https://jasperinn.com/ErrorPages/404?aspxerrorpath=/fees",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T05:04:18Z",
+  "scrapedAt": "2025-12-22T23:18:29Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

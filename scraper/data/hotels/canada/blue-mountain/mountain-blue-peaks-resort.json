@@ -1,0 +1,32 @@
+{
+  "id": "canada-blue-mountain-blue-peaks-resort",
+  "name": "Blue Peaks Resort",
+  "town": "Blue Mountain",
+  "region": "Ontario",
+  "country": "Canada",
+  "marketSegment": "Midscale",
+  "tripadvisorRank": 26,
+  "coordinates": {
+    "lat": 44.4978,
+    "lng": -80.3112
+  },
+  "sources": {
+    "officialWebsite": "https://www.bluepeaksresort.ca/",
+    "policyPage": "https://www.booking.com/hotel/ca/blue-mountain-resort-inn.en-gb.html?aid=304142&label=mkt123sc-2165172b-7ad6-4267-8647-7c0d28e0fade&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ef042f38609dd885619b6ddc57c7c2ad&srepoch=1766455736&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/blue-mountain-resort-inn.en-gb.html?aid=304142&label=mkt123sc-2165172b-7ad6-4267-8647-7c0d28e0fade&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ef042f38609dd885619b6ddc57c7c2ad&srepoch=1766455736&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-23T02:09:15Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}

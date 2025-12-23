@@ -12,7 +12,7 @@
   },
   "sources": {
     "officialWebsite": "https://www.banffparklodge.com/",
-    "policyPage": "https://www.banffparklodge.com/faq/",
+    "policyPage": "https://www.banffparklodge.com/parking-instructions/",
     "bookingCom": null,
     "dataSource": "official"
   },
@@ -21,6 +21,6 @@
   "extraPersonPolicy": null,
   "damageDeposit": null,
   "promotions": [],
-  "scrapedAt": "2025-12-20T04:33:21Z",
+  "scrapedAt": "2025-12-22T22:14:24Z",
   "scrapingNotes": "No taxes or fees found on policy page"
 }

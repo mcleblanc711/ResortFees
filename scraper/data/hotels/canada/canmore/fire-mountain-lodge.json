@@ -1,0 +1,32 @@
+{
+  "id": "canada-canmore-fire-mountain-lodge",
+  "name": "Fire Mountain Lodge",
+  "town": "Canmore",
+  "region": "Alberta",
+  "country": "Canada",
+  "marketSegment": "Upper-Midscale",
+  "tripadvisorRank": 27,
+  "coordinates": {
+    "lat": 51.0801,
+    "lng": -115.3312
+  },
+  "sources": {
+    "officialWebsite": "https://www.firemountainlodge.com/",
+    "policyPage": "https://www.booking.com/hotel/ca/fire-mountain-lodge-canmore2.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCInNlYXJjaF9maXJlIG1vdW50YWluIGxvZGdlIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4At2ep8oGwAIB0gIkNmNmYjMzYjItOWE4OC00YTU0LTk2MWQtY2FkMWI1YTAwODZl2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=726aa2ae37c9169a&srepoch=1766444896&from=searchresults",
+    "bookingCom": "https://www.booking.com/hotel/ca/fire-mountain-lodge-canmore2.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCInNlYXJjaF9maXJlIG1vdW50YWluIGxvZGdlIGNhbm1vcmVIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4At2ep8oGwAIB0gIkNmNmYjMzYjItOWE4OC00YTU0LTk2MWQtY2FkMWI1YTAwODZl2AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=726aa2ae37c9169a&srepoch=1766444896&from=searchresults",
+    "dataSource": "booking.com"
+  },
+  "taxes": [],
+  "fees": [],
+  "extraPersonPolicy": {
+    "childrenFreeAge": null,
+    "childCharge": null,
+    "adultCharge": null,
+    "maxOccupancy": null,
+    "notes": "Cribs available"
+  },
+  "damageDeposit": null,
+  "promotions": [],
+  "scrapedAt": "2025-12-22T23:08:33Z",
+  "scrapingNotes": "Data sourced from Booking.com listing"
+}
